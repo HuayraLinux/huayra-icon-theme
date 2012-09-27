@@ -1,0 +1,12 @@
+Source: huayra-icon-theme
+Section: misc
+Priority: optional
+Maintainer: Mauro Lizaur <mauro@debian.org>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.3
+
+Package: huayra-icon-theme
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos para Huayra GNU/Linux
+ Este es el tema de iconos utilizado en Huayra GNU/Linux.
