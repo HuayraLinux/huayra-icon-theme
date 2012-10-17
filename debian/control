@@ -10,3 +10,9 @@ Depends: ${misc:Depends}
 Architecture: all
 Description: Tema de iconos para Huayra GNU/Linux
  Este es el tema de iconos utilizado en Huayra GNU/Linux.
+
+Package: huayra-icon-theme-alternativo
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos alternativo para Huayra GNU/Linux
+ Este es el tema de iconos alternativo utilizado en Huayra GNU/Linux.
