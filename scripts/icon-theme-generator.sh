@@ -113,7 +113,7 @@ build(){
 
     [ -z "$THEME" ] && exit 1;
     [ -z "$OUTDIR" ] && exit 1;
-    [ -d "$OUTDIR" ] && mkdir -p $OUTDIR;
+    [ -d "$OUTDIR" ] && mkdir -p "$OUTDIR";
 
     # hack to allow the execution of the script
     # from the command line because of shifting
@@ -121,13 +121,8 @@ build(){
     # bash works in mysterious ways.
     # lol
 
-
-    echo $THEME $OUTDIR
-
-    gen_icons lol $THEME $OUTDIR;
-    gen_indextheme lol $THEME $OUTDIR > $OUTDIR/$THEME/index.theme;
-
-    echo $THEME $OUTDIR
+    gen_icons lol "$THEME" "$OUTDIR";
+    gen_indextheme lol "$THEME" "$OUTDIR" > "$OUTDIR/$THEME/index.theme";
 
     exit 0;
 }
@@ -141,13 +136,13 @@ clean(){
     OUTDIR=$1;
 
     [ -z "$OUTDIR" ] && exit 1;
-    [ -d $OUTDIR ] && rm -fr $OUTDIR;
+    [ -d "$OUTDIR" ] && rm -fr "$OUTDIR";
 
     exit 0;
 }
 
 # como leer:
-# no tengo param y salgo o 'llamo' a $1 y con $@ como parametros.
+# no tengo $1 y salgo o 'llamo' a $1 con $@ como parametros (ver shift).
 #
 # $1 = accion
 # $@ = params
