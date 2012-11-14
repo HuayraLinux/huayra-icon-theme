@@ -38,6 +38,33 @@ gen_icons(){
     cp -a ./$THEME/$BASE $OUTDIR/$THEME/$BASE
 }
 
+
+# gen_dhlinks:
+# busco los archivos que se encuentren en la lista de directorios que esten
+# en OUTDIR y genero al archivo `debian/links`.
+
+gen_dhlinks(){
+    shift;
+    THEME=$1;
+    OUTDIR=$2;
+    [ -z "$THEME" ] && exit 1;
+    [ -z "$OUTDIR" ] && exit 1;
+
+    ICONPATH="usr/share/icons/$THEME/"
+    for s in `echo $SIZES $BASE`;
+    do
+        for ORIG in `find "$OUTDIR/$THEME/${s}" -type f`;
+        do
+            ICON=`basename $ORIG|cut -d '.' -f1`;
+            ORIGFILE=`echo $ORIG|sed -s "s,$OUTDIR/$THEME/,,g"`;
+            DIRICON=`dirname $ORIG|sed -s "s,$OUTDIR/$THEME/,,g"`;
+            EXT=`echo $ORIG|sed -e 's,$OUTDIR/$THEME,,g'|cut -d '.' -f2`;
+
+            echo $ICONPATH$ORIGFILE  $ICONPATH$DIRICON/$ICON-symbolic.$EXT;
+        done
+    done    
+}
+
 # gen_indextheme:
 # en base al directorio donde estamos parados, deducimos al nombre del theme
 # y luego generamos al index.theme con los directorios que se encuentren aqui.
@@ -46,6 +73,9 @@ gen_indextheme(){
     shift;
     THEMEDIR=$1;
     OUTDIR=$2;
+    [ -z "$THEMEDIR" ] && exit 1;
+    [ -z "$OUTDIR" ] && exit 1;
+
     DESTDIR=$OUTDIR/$THEMEDIR
 
     TFL=`echo ${THEMEDIR:0:1}|tr [:lower:] [:upper:]`; 
