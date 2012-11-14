@@ -16,19 +16,21 @@ SIZES="8x8 16x16 22x22 24x24 32x32 48x48 64x64 128x128 256x256"
 gen_icons(){
     shift;
     THEME=$1;
+    OUTDIR=$2;
     [ -z "$THEME" ] && exit 1;
+    [ -z "$OUTDIR" ] && exit 1;
 
     for s in `echo $SIZES`;
     do    
         [ -d "$OUTDIR/$THEME/${s}/" ] || mkdir -p $OUTDIR/$THEME/$s;
         for ORIG in `find "./$THEME/${BASE}" -type f`;
         do
-            ICON=`echo $ORIG|sed -e 's/\.\/scalable\///g'|cut -d '.' -f1`;
             ICON=`basename $ORIG|cut -d '.' -f1`;
-            DESTDIR=`dirname $ORIG|sed -s 's/\.\/scalable\///g'`
+            DESTDIR=`dirname $ORIG|sed -s "s,./$THEME/scalable/,,g"`
             [ -d "$OUTDIR/$THEME/${s}/$DESTDIR" ] || mkdir -p \
                 "$OUTDIR/$THEME/${s}/$DESTDIR";
-            convert -background transparent -resize $s $ORIG $OUTDIR/$THEME/$s/$ICON.png
+            convert -background transparent -resize $s $ORIG \
+                $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png
         done
     done
 
