@@ -2,7 +2,6 @@ Source: huayra-icon-theme
 Section: misc
 Priority: optional
 Maintainer: Mauro Lizaur <mauro@debian.org>
-<<<<<<< HEAD
 Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: imagemagick (>= 8:6.7.7.10-3), findutils (>= 4.4.2-4), bash (>= 4.2-4)
 Standards-Version: 3.9.3
