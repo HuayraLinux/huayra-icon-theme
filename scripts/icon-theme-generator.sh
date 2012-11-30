@@ -23,19 +23,23 @@ gen_icons(){
     for s in `echo $SIZES`;
     do    
         [ -d "$OUTDIR/$THEME/${s}/" ] || mkdir -p $OUTDIR/$THEME/$s;
-        for ORIG in `find "./$THEME/${BASE}" -type f`;
+        for ORIG in `find "$THEME/${BASE}" -type f`;
         do
             ICON=`basename $ORIG|cut -d '.' -f1`;
-            DESTDIR=`dirname $ORIG|sed -s "s,./$THEME/scalable/,,g"`
+            DESTDIR=`dirname $ORIG|sed -s "s,$THEME/scalable/,,g"`
             [ -d "$OUTDIR/$THEME/${s}/$DESTDIR" ] || mkdir -p \
                 "$OUTDIR/$THEME/${s}/$DESTDIR";
+	    echo "ORIG> $ORIG";
+	    echo "DEST> $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png"
+	    echo "COMM> convert -background transparent -resize $s $ORIG $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png"
+
             convert -background transparent -resize $s $ORIG \
                 $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png
         done
     done
 
 
-    cp -a ./$THEME/$BASE $OUTDIR/$THEME/$BASE
+    cp -a $THEME/$BASE $OUTDIR/$THEME/$BASE
 }
 
 
@@ -78,60 +82,67 @@ gen_indextheme(){
 
     DESTDIR=$OUTDIR/$THEMEDIR
 
-    TFL=`echo ${THEMEDIR:0:1}|tr [:lower:] [:upper:]`; 
-    THEMENAME=`echo $TFL${THEMEDIR:1}|sed -s 's,\-, ,g'`;
 
-    _DIRLIST=`find $THEMEDIR -type d|sed -s 's,\.\/,,g'|tr '\n' ','`;
-    DIRLIST=${_DIRLIST:2}
+    if [ -f "$THEMEDIR/index.theme"  ];
+    then
+        cp $THEMEDIR/index.theme $DESTDIR/index.theme;
+    else
+        TFL=`echo ${THEMEDIR:0:1}|tr [:lower:] [:upper:]`;
+        THEMENAME=`echo $TFL${THEMEDIR:1}|sed -s 's,\-, ,g'`;
 
-    INDEXTHEME="[Icon Theme]\n";
-    INDEXTHEME="${INDEXTHEME}Name=${THEMENAME}\n";
-    INDEXTHEME="${INDEXTHEME}Comment=${THEMENAME} icon theme\n"
-    INDEXTHEME="${INDEXTHEME}Directories=$DIRLIST\n"
-    INDEXTHEME="${INDEXTHEME}"
+        _DIRLIST=`find $THEMEDIR -type d|sed -s 's,\.\/,,g'|tr '\n' ','`;
+    
+        DIRLIST=$_DIRLIST;
+        
+        INDEXTHEME="[Icon Theme]\n";
+        INDEXTHEME="${INDEXTHEME}Name=${THEMENAME}\n";
+        INDEXTHEME="${INDEXTHEME}Comment=${THEMENAME} icon theme\n"
+        INDEXTHEME="${INDEXTHEME}Directories=$DIRLIST\n"
+        INDEXTHEME="${INDEXTHEME}"
 
     # imprimo al 'header'
 
-    echo -e $INDEXTHEME
+        echo -e $INDEXTHEME
 
     # genero las secciones de los png
 
-    for d in `find $DESTDIR -type d|grep -v 'scalable'|sed -s 's,\.\/,,g'`;
-    do
+        for d in `find $DESTDIR -type d|grep -v 'scalable'|sed -s 's,\.\/,,g'`;
+        do
 
-        _dir=`echo $d|sed -s "s,$DESTDIR\/,,g"`;
-        _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
-        _size=`echo $dir|cut -d 'x' -f1`;
-        _context=`echo $dir|cut -d '/' -f2`;
+            _dir=`echo $d|sed -s "s,$DESTDIR\/,,g"`;
+            _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
+            _size=`echo $dir|cut -d 'x' -f1`;
+            _context=`echo $dir|cut -d '/' -f2`;
 
-        if [ "$_context" != "$dir" ];then
-            echo "[$_section]";
-            echo "Size=$_size";
-            echo "Context=$_context";
-            echo "Type=Threshold";
-            echo;
-        fi
+            if [ "$_context" != "$dir" ];then
+                echo "[$_section]";
+                echo "Size=$_size";
+                echo "Context=$_context";
+                echo "Type=Threshold";
+                echo;
+            fi
 
-    done
+        done
 
     # genero las secciones de los svg
 
-    for dir in `find $DESTDIR/scalable -type d|sed -s 's,\.\/,,g'`;
-    do
-        _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
-        _context=`echo $dir|cut -d '/' -f2`;
+        for dir in `find $DESTDIR/scalable -type d|sed -s 's,\.\/,,g'`;
+        do
+            _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
+            _context=`echo $dir|cut -d '/' -f2`;
 
-        if [ "$_context" != "$dir" ];then
-            echo "[$_section]";
-            echo "MinSize=16";
-            echo "Size=256";
-            echo "MaxSize=256";
-            echo "Context=$_context";
-            echo "Type=Scalable";
-            echo;
-        fi
+            if [ "$_context" != "$dir" ];then
+                echo "[$_section]";
+                echo "MinSize=16";
+                echo "Size=256";
+                echo "MaxSize=256";
+                echo "Context=$_context";
+                echo "Type=Scalable";
+                echo;
+            fi
 
-    done
+        done
+   fi
 }
 
 # build:
