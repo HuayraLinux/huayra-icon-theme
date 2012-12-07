@@ -1,4 +1,11 @@
-huayra-icon-theme (5.5-1) UNRELEASED; urgency=low
+huayra-icon-theme (6.0-1) testing; urgency=low
+
+  * Nueva version de los iconos de Huayra. [2]
+  * Fix en los index.theme para que liste todos los directorios. [2]
+
+ -- Mauro Lizaur <mauro@debian.org>  Fri, 07 Dec 2012 03:03:17 -0300
+
+huayra-icon-theme (5.5-1) testing; urgency=low
 
   * Nueva version de los iconos de Huayra.
   * Fix en los index.theme para que liste todos los directorios.
