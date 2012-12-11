@@ -14,7 +14,7 @@ Description: Tema de iconos para Huayra GNU/Linux
 
 Package: huayra-icon-theme-all
 Depends: ${misc:Depends}, huayra-icon-theme, huayra-icon-theme-alternativo, 
-         huayra-icon-theme-mayo, huayra-icon-theme-fresco-verde
+         huayra-icon-theme-mayo, huayra-icon-theme-fresco-verde, huayra-icon-theme-apps
 Architecture: all
 Description: Todos los temas de iconos para Huayra GNU/Linux
  Este dummy paquete instalara todos los temas de iconos 
@@ -25,6 +25,7 @@ Description: Todos los temas de iconos para Huayra GNU/Linux
  - huayra-icon-theme-alternativo
  - huayra-icon-theme-mayo
  - huayra-icon-theme-fresco-verde
+ - huayra-icon-theme-apps
 
 Package: huayra-icon-theme-alternativo
 Depends: ${misc:Depends}
@@ -42,4 +43,10 @@ Package: huayra-icon-theme-mayo
 Depends: ${misc:Depends}
 Architecture: all
 Description: Tema de iconos Mayo para Huayra GNU/Linux
+ Este es el tema de iconos Mayo utilizado en Huayra GNU/Linux.
+
+Package: huayra-icon-theme-apps
+Depends: ${misc:Depends}
+Architecture: all
+Description: Iconos de aplicaciones para Huayra GNU/Linux
  Este es el tema de iconos Mayo utilizado en Huayra GNU/Linux.
