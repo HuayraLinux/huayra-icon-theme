@@ -7,7 +7,8 @@
 # imagemagick - findutils - bash
 
 BASE="scalable"
-SIZES="8x8 16x16 22x22 24x24 32x32 48x48 64x64 128x128 256x256"
+DIRS=("8x8" "16x16" "22x22" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256");
+SIZES=("2.4" "4.8" "6.4" "6.9" "9.2" "13.6" "18.1" "36.2" "72");
 
 # gen_icons:
 # a partir del directorio BASE genera en los diferentes SIZES
@@ -20,22 +21,32 @@ gen_icons(){
     [ -z "$THEME" ] && exit 1;
     [ -z "$OUTDIR" ] && exit 1;
 
-    for s in `echo $SIZES`;
+	count=${#SIZES[*]} 
+	index=0;
+	dir=''
+	size=''
+    while [ "$index" -lt "$count" ];
     do    
-        [ -d "$OUTDIR/$THEME/${s}/" ] || mkdir -p $OUTDIR/$THEME/$s;
+		dir=${DIRS[$index]}
+		size=${SIZES[$index]}
+        [ -d "$OUTDIR/$THEME/$dir/" ] || mkdir -p $OUTDIR/$THEME/${dir};
         for ORIG in `find "$THEME/${BASE}" -type f`;
         do
             ICON=`basename $ORIG|cut -d '.' -f1`;
             DESTDIR=`dirname $ORIG|sed -s "s,$THEME/scalable/,,g"`
-            [ -d "$OUTDIR/$THEME/${s}/$DESTDIR" ] || mkdir -p \
-                "$OUTDIR/$THEME/${s}/$DESTDIR";
+            [ -d "$OUTDIR/$THEME/$dir/$DESTDIR" ] || mkdir -p \
+                "$OUTDIR/$THEME/$dir/$DESTDIR";
+	    echo "$DESTDIR"
 	    echo "ORIG> $ORIG";
-	    echo "DEST> $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png"
-	    echo "COMM> convert -background transparent -resize $s $ORIG $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png"
+	    echo "DEST> $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
+	    echo "COMM> convert -background transparent -density $size $ORIG $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
 
-            convert -background transparent -resize $s $ORIG \
-                $OUTDIR/$THEME/$s/$DESTDIR/$ICON.png
+            convert -background transparent -density ${size} $ORIG \
+                $OUTDIR/$THEME/${dir}/$DESTDIR/$ICON.png
+                
+            
         done
+		let "index++"
     done
 
 
