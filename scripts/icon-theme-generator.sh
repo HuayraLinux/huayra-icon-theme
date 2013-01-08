@@ -8,7 +8,7 @@
 
 BASE="scalable"
 DIRS=("8x8" "16x16" "22x22" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256");
-SIZES=("2.4" "4.8" "6.4" "6.9" "9.2" "13.6" "18.1" "36.2" "72");
+SIZES=("2.4" "4.7" "6.4" "6.9" "9.2" "13.6" "18.1" "36.2" "72");
 
 # gen_icons:
 # a partir del directorio BASE genera en los diferentes SIZES
