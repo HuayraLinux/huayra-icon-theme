@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
+set -x
 # icon-theme-generator.sh
 # mauro@debian.org - 10/2012
 # WTFPL.

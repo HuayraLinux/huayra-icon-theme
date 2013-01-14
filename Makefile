@@ -1,6 +1,6 @@
-all: icons/huayra-default icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
+all: icons/huayra icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
 
-icons/huayra-default:
+icons/huayra:
 	bash ./scripts/icon-theme-generator.sh build "huayra" "icons"
 
 icons/huayra-mayo:
