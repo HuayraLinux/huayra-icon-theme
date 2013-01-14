@@ -1,19 +1,13 @@
-all: icons/huayra icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
+all: icons/huayra-default icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
 
-icons/huayra:
+icons/huayra-default:
 	bash ./scripts/icon-theme-generator.sh build "huayra" "icons"
-
-#icons/huayra-alternativo:
-#	bash ./scripts/icon-theme-generator.sh build "huayra-alternativo" "icons"
 
 icons/huayra-mayo:
 	bash ./scripts/icon-theme-generator.sh build "huayra-mayo" "icons"
 
 icons/huayra-fresco-verde:
 	bash ./scripts/icon-theme-generator.sh build "huayra-fresco-verde" "icons"
-
-#icons/huayra-apps:
-#	bash ./scripts/icon-theme-generator.sh build "huayra-apps" "icons"
 
 icons/changelog: debian/changelog
 	cp -a debian/changelog icons/changelog

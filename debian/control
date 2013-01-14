@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: imagemagick (>= 8:6.7.7.10-3), findutils (>= 4.4.2-4), bash (>= 4.2-4), librsvg2-bin
 
 Package: huayra-icon-theme-all
-Depends: ${misc:Depends}, huayra-icon-theme, huayra-icon-theme-mayo, 
+Depends: ${misc:Depends}, huayra-icon-theme-default, huayra-icon-theme-mayo, 
 	huayra-icon-theme-fresco-verde
 Architecture: all
 Description: Todos los temas de iconos para Huayra GNU/Linux
@@ -19,7 +19,7 @@ Description: Todos los temas de iconos para Huayra GNU/Linux
  - huayra-icon-theme-mayo
  - huayra-icon-theme-fresco-verde
 
-Package: huayra-icon-theme
+Package: huayra-icon-theme-default
 Depends: ${misc:Depends}
 Architecture: all
 Description: Tema de iconos para Huayra GNU/Linux
