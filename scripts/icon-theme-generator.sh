@@ -29,6 +29,8 @@ gen_icons(){
     do
 		dir=${DIRS[$index]}
 		size=${SIZES[$index]}
+    size_inkscape=`echo ${DIRS[$index]}|cut -d 'x' -f1`;
+
         [ -d "$OUTDIR/$THEME/$dir/" ] || mkdir -p $OUTDIR/$THEME/${dir};
         for ORIG in `find "$THEME/${BASE}" -type f`;
         do
@@ -36,14 +38,12 @@ gen_icons(){
             DESTDIR=`dirname $ORIG|sed -s "s,$THEME/scalable/,,g"`
             [ -d "$OUTDIR/$THEME/$dir/$DESTDIR" ] || mkdir -p \
                 "$OUTDIR/$THEME/$dir/$DESTDIR";
-	    #echo "$DESTDIR"
-	    #echo "ORIG> $ORIG";
-	    #echo "DEST> $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
-	    echo "COMM> convert -background transparent -density $size $ORIG $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
+	        echo "CMD: inkscape -z --export-png=$OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png --export-width=$size_inkscape --export-height=$size_inkscape $ORIG"
 
-            convert -background transparent -density ${size} $ORIG \
-                $OUTDIR/$THEME/${dir}/$DESTDIR/$ICON.png
 
+          # OLD:imagemagik convert -verbose -background transparent -density $size $ORIG \
+          #          $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png
+          inkscape -z --export-png=$OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png --export-width=$size_inkscape --export-height=$size_inkscape $ORIG
 
         done
 		let "index++"
