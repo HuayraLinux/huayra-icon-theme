@@ -1,5 +1,4 @@
-#!/bin/bash 
-set -x
+#!/bin/bash
 # icon-theme-generator.sh
 # mauro@debian.org - 10/2012
 # WTFPL.
@@ -22,12 +21,12 @@ gen_icons(){
     [ -z "$THEME" ] && exit 1;
     [ -z "$OUTDIR" ] && exit 1;
 
-	count=${#SIZES[*]} 
+	count=${#SIZES[*]}
 	index=0;
 	dir=''
 	size=''
     while [ "$index" -lt "$count" ];
-    do    
+    do
 		dir=${DIRS[$index]}
 		size=${SIZES[$index]}
         [ -d "$OUTDIR/$THEME/$dir/" ] || mkdir -p $OUTDIR/$THEME/${dir};
@@ -37,15 +36,15 @@ gen_icons(){
             DESTDIR=`dirname $ORIG|sed -s "s,$THEME/scalable/,,g"`
             [ -d "$OUTDIR/$THEME/$dir/$DESTDIR" ] || mkdir -p \
                 "$OUTDIR/$THEME/$dir/$DESTDIR";
-	    echo "$DESTDIR"
-	    echo "ORIG> $ORIG";
-	    echo "DEST> $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
+	    #echo "$DESTDIR"
+	    #echo "ORIG> $ORIG";
+	    #echo "DEST> $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
 	    echo "COMM> convert -background transparent -density $size $ORIG $OUTDIR/$THEME/$dir/$DESTDIR/$ICON.png"
 
             convert -background transparent -density ${size} $ORIG \
                 $OUTDIR/$THEME/${dir}/$DESTDIR/$ICON.png
-                
-            
+
+
         done
 		let "index++"
     done
@@ -78,7 +77,7 @@ gen_dhlinks(){
 
             echo $ICONPATH$ORIGFILE  $ICONPATH$DIRICON/$ICON-symbolic.$EXT;
         done
-    done    
+    done
 }
 
 # gen_indextheme:
@@ -94,7 +93,6 @@ gen_indextheme(){
 
     DESTDIR=$OUTDIR/$THEMEDIR
 
-
     if [ -f "$THEMEDIR/index.theme"  ];
     then
         cp $THEMEDIR/index.theme $DESTDIR/index.theme;
@@ -102,10 +100,10 @@ gen_indextheme(){
         TFL=`echo ${THEMEDIR:0:1}|tr [:lower:] [:upper:]`;
         THEMENAME=`echo $TFL${THEMEDIR:1}|sed -s 's,\-, ,g'`;
 
-        _DIRLIST=`find $THEMEDIR -type d|sed -s 's,\.\/,,g'|tr '\n' ','`;
-    
+        _DIRLIST=`find $DESTDIR -type d|sed -s "s,$DESTDIR\/,,g"|grep -v $DESTDIR|grep "\/"|sed -s 's,\.\/,,g'|tr '\n' ','`;
+
         DIRLIST=$_DIRLIST;
-        
+
         INDEXTHEME="[Icon Theme]\n";
         INDEXTHEME="${INDEXTHEME}Name=${THEMENAME}\n";
         INDEXTHEME="${INDEXTHEME}Comment=${THEMENAME} icon theme\n"
@@ -120,30 +118,29 @@ gen_indextheme(){
 
         for d in `find $DESTDIR -type d|grep -v 'scalable'|sed -s 's,\.\/,,g'`;
         do
-
             _dir=`echo $d|sed -s "s,$DESTDIR\/,,g"`;
-            _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
-            _size=`echo $dir|cut -d 'x' -f1`;
-            _context=`echo $dir|cut -d '/' -f2`;
-
-            if [ "$_context" != "$dir" ];then
+            _section=`echo $_dir|sed -s "s,$DESTDIR\/,,g"`;
+            _size=`echo $_dir|cut -d 'x' -f1`;
+            _context=`echo $_dir|cut -d '/' -f2`;
+          if [ "$DESTDIR" != "$_section" ];then
+            if [ "$_context" != "$_dir" ];then
                 echo "[$_section]";
                 echo "Size=$_size";
                 echo "Context=$_context";
                 echo "Type=Threshold";
                 echo;
             fi
-
+          fi
         done
 
     # genero las secciones de los svg
 
-        for dir in `find $DESTDIR/scalable -type d|sed -s 's,\.\/,,g'`;
+        for dir in `find $DESTDIR/scalable -type d|sed -s 's,$DESTDIR\/',,g|sed -s 's,\.\/,,g'|grep '\/'`;
         do
             _section=`echo $dir|sed -s "s,$DESTDIR\/,,g"`;
-            _context=`echo $dir|cut -d '/' -f2`;
+            _context=`echo $_section|cut -d '/' -f2`;
 
-            if [ "$_context" != "$dir" ];then
+            if [ "$_context" != "$_section" ];then
                 echo "[$_section]";
                 echo "MinSize=16";
                 echo "Size=256";
@@ -183,7 +180,7 @@ build(){
 }
 
 # clean:
-# espero un nombre de theme/directorio-con-iconos-en-svg + 
+# espero un nombre de theme/directorio-con-iconos-en-svg +
 # directorio-destino y borro a todos los png que esten ahi.
 
 clean(){
