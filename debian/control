@@ -2,7 +2,7 @@ Source: huayra-icon-theme
 Section: misc
 Priority: optional
 Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
-Standards-Version: 3.9.1
+Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape
 
@@ -17,9 +17,9 @@ Description: Todos los temas de iconos para Huayra GNU/Linux
  realizados para Huayra GNU/Linux.
  .
  Temas disponibles:
- - huayra-icon-theme
- - huayra-icon-theme-mayo
- - huayra-icon-theme-fresco-verde
+  - huayra-icon-theme
+  - huayra-icon-theme-mayo
+  - huayra-icon-theme-fresco-verde
 
 Package: huayra-icon-theme-default
 Depends: ${misc:Depends}
