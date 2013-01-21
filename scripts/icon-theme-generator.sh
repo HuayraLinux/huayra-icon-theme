@@ -142,7 +142,7 @@ gen_indextheme(){
 
             if [ "$_context" != "$_section" ];then
                 echo "[$_section]";
-                echo "MinSize=16";
+                echo "MinSize=1";
                 echo "Size=256";
                 echo "MaxSize=256";
                 echo "Context=$_context";
