@@ -29,7 +29,7 @@ gen_icons(){
     do
 		dir=${DIRS[$index]}
 		size=${SIZES[$index]}
-    size_inkscape=`echo ${DIRS[$index]}|cut -d 'x' -f1`;
+		size_inkscape=`echo ${DIRS[$index]}|cut -d 'x' -f1`;
 
         [ -d "$OUTDIR/$THEME/$dir/" ] || mkdir -p $OUTDIR/$THEME/${dir};
         for ORIG in `find "$THEME/${BASE}" -type f`;
@@ -48,8 +48,12 @@ gen_icons(){
         done
 		let "index++"
     done
-
-
+	
+	
+	cp $OUTDIR/$THEME/16x16/all/start-here.png $OUTDIR/$THEME/16x16/all/start-here-symbolic.png 
+	cp $OUTDIR/$THEME/16x16/all/avatar-default.png $OUTDIR/$THEME/16x16/all/avatar-default-symbolic.png 
+	cp $OUTDIR/$THEME/48x48/all/avatar-default.png $OUTDIR/$THEME/48x48/all/avatar-default-symbolic.png 
+    
     cp -a $THEME/$BASE $OUTDIR/$THEME/$BASE
 }
 
