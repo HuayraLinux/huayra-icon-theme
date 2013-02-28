@@ -1,3 +1,12 @@
+huayra-icon-theme (8.10) testing; urgency=low
+
+  * accesibilidad y shutdow
+  * copio iconos de panel a huayra-mayo y fresco-verde
+  * bug en NetworkManager, faltaba signal-050
+  * iconos para applets de Area de Notificacion 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 27 Feb 2013 20:47:06 -0300
+
 huayra-icon-theme (8.9) testing; urgency=low
 
   * iconos para mate
