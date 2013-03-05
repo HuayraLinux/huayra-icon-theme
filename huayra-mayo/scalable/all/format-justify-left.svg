@@ -15,9 +15,49 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gtk-underline.svg">
+   sodipodi:docname="gtk-justify-left.svg">
   <defs
      id="defs4">
+    <linearGradient
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       y2="8"
+       x2="13.9998"
+       y1="8"
+       x1="1.9996768"
+       id="linearGradient5931"
+       xlink:href="#id9"
+       inkscape:collect="always" />
+    <linearGradient
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       y2="7.4181089"
+       x2="15.020449"
+       y1="7.4181089"
+       x1="0.94721806"
+       id="linearGradient5895"
+       xlink:href="#id9"
+       inkscape:collect="always" />
+    <linearGradient
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       y2="8.4996252"
+       x2="16"
+       y1="8.4996252"
+       x1="0"
+       id="linearGradient5815"
+       xlink:href="#id9"
+       inkscape:collect="always" />
+    <linearGradient
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       y2="8.0110502"
+       x2="13.99985"
+       y1="8.0110502"
+       x1="1.5936"
+       id="linearGradient5693"
+       xlink:href="#id9"
+       inkscape:collect="always" />
     <linearGradient
        spreadMethod="reflect"
        gradientUnits="userSpaceOnUse"
@@ -388,6 +428,86 @@
        id="linearGradient4236"
        xlink:href="#id9"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient3969"
+       x1="-0.00024558508"
+       y1="8.0148773"
+       x2="16.053543"
+       y2="8.0148773"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4005"
+       x1="5.0281043"
+       y1="7.4998832"
+       x2="12.0313"
+       y2="7.4998832"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4041"
+       x1="1.9997662"
+       y1="7.9983716"
+       x2="13"
+       y2="7.9983716"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4201"
+       x1="1.9997662"
+       y1="7.4983978"
+       x2="13"
+       y2="7.4983978"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4241"
+       x1="1.9998"
+       y1="7.9998932"
+       x2="13.999798"
+       y2="7.9998932"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4349"
+       x1="0.90605199"
+       y1="7.6406002"
+       x2="15.874802"
+       y2="7.6406002"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4383"
+       x1="3.99705"
+       y1="7.4998832"
+       x2="11.000196"
+       y2="7.4998832"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id9"
+       id="linearGradient4639"
+       x1="3.0001967"
+       y1="7.9998932"
+       x2="12.999798"
+       y2="7.9998932"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -396,17 +516,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64216103"
-     inkscape:cx="-300.2193"
-     inkscape:cy="236.36182"
+     inkscape:zoom="2.0760274"
+     inkscape:cx="61.194325"
+     inkscape:cy="74.285714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1182"
-     inkscape:window-height="741"
-     inkscape:window-x="342"
-     inkscape:window-y="294"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -415,7 +535,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -425,60 +545,74 @@
      id="layer1"
      transform="translate(0,-796.36218)">
     <g
-       id="g4763"
-       transform="matrix(19.644477,0,0,19.644477,-27.376745,757.21989)"
-       style="fill:#694869;fill-opacity:1">
+       id="g4620"
+       transform="matrix(25.470752,0,0,25.470752,-75.636591,720.47685)"
+       style="fill:url(#linearGradient4639);fill-opacity:1.0">
       <g
-         style="display:inline;fill:#694869;fill-opacity:1"
+         style="display:inline;fill:url(#linearGradient4639);fill-opacity:1.0"
+         inkscape:label="status"
          id="layer9-7"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="status" />
-      <g
-         id="layer10-8"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="devices"
-         style="fill:#694869;fill-opacity:1" />
-      <g
-         id="layer11-1"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="apps"
-         style="fill:#694869;fill-opacity:1" />
-      <g
-         id="layer12-6"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="actions"
-         style="fill:#694869;fill-opacity:1">
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#694869;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           id="path11643-3-2"
-           d="m 184,708 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 184.29357,717.60979 185.09172,718 186,718 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 C 185.12941,715.54729 185.00248,715.27938 185,715 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 185.39533,714.11604 185.57764,714 186,714 z"
-           inkscape:connector-curvature="0" />
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#694869;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           id="path5100"
-           d="m 182,719 0,2 12,0 0,-2 -12,0 z"
-           inkscape:connector-curvature="0" />
+         transform="translate(-121.0002,-277)">
+        <rect
+           width="7.9996052"
+           style="color:#bebebe;fill:url(#linearGradient4639);fill-opacity:1.0;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+           inkscape:label="a"
+           height="2.0002136"
+           id="rect3825-9-8-7-9-1"
+           y="279.99979"
+           x="124.0004" />
+        <rect
+           width="9.9996014"
+           style="color:#bebebe;fill:url(#linearGradient4639);fill-opacity:1.0;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+           inkscape:label="a"
+           height="2.0002136"
+           id="rect3825-9-8-7-8-4-7"
+           y="283.99979"
+           x="124.0004" />
+        <rect
+           width="3.9996033"
+           style="color:#bebebe;fill:url(#linearGradient4639);fill-opacity:1.0;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+           inkscape:label="a"
+           height="2.0002136"
+           id="rect3825-9-8-7-8-9-9-8"
+           y="287.99979"
+           x="124.0004" />
       </g>
       <g
-         id="layer13-0"
-         transform="translate(-180.0002,-706)"
+         inkscape:label="devices"
+         id="layer10-8"
+         transform="translate(-121.0002,-277)"
+         style="fill:url(#linearGradient4639);fill-opacity:1.0" />
+      <g
+         inkscape:label="apps"
+         id="layer11-3"
+         transform="translate(-121.0002,-277)"
+         style="fill:url(#linearGradient4639);fill-opacity:1.0" />
+      <g
+         inkscape:label="actions"
+         id="layer12-6"
+         transform="translate(-121.0002,-277)"
+         style="fill:url(#linearGradient4639);fill-opacity:1.0" />
+      <g
          inkscape:label="places"
-         style="fill:#694869;fill-opacity:1" />
+         id="layer13-4"
+         transform="translate(-121.0002,-277)"
+         style="fill:url(#linearGradient4639);fill-opacity:1.0" />
       <g
-         id="layer14-9"
-         transform="translate(-180.0002,-706)"
          inkscape:label="mimetypes"
-         style="fill:#694869;fill-opacity:1" />
+         id="layer14-4"
+         transform="translate(-121.0002,-277)"
+         style="fill:url(#linearGradient4639);fill-opacity:1.0" />
       <g
-         style="display:inline;fill:#694869;fill-opacity:1"
-         id="layer15-5"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="emblems" />
+         style="display:inline;fill:url(#linearGradient4639);fill-opacity:1.0"
+         inkscape:label="emblems"
+         id="layer15-1"
+         transform="translate(-121.0002,-277)" />
       <g
-         style="display:inline;fill:#694869;fill-opacity:1"
-         id="g4953-8"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="categories" />
+         style="display:inline;fill:url(#linearGradient4639);fill-opacity:1.0"
+         inkscape:label="categories"
+         id="g4953-9"
+         transform="translate(-121.0002,-277)" />
     </g>
   </g>
 </svg>
