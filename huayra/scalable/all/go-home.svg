@@ -33,17 +33,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-161.79973"
-     inkscape:cy="57.949799"
+     inkscape:cx="-418.94259"
+     inkscape:cy="53.664085"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1022"
-     inkscape:window-height="546"
+     inkscape:window-width="1438"
+     inkscape:window-height="852"
      inkscape:window-x="0"
-     inkscape:window-y="16"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -62,31 +62,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.3622)">
-    <g
-       id="g3970"
-       transform="matrix(2.3790905,0,0,2.3790905,-701.49161,608.56158)"
-       inkscape:export-filename="/home/malefico/Documentos/proyectos/conectar-linux/iconos/Iconos Huayra/tema_plano.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         sodipodi:nodetypes="ccccccccczzzcc"
-         inkscape:connector-curvature="0"
-         id="path3050"
-         d="m 315.17857,171.64789 0,-32.14286 -17.32143,0 22.16621,-37.75551 58.01237,-0.0123 21.96428,37.76785 -15.35714,0 0,32.32143 -17.05358,0 c 0,0 0.26786,-27.61262 0.26786,-32.32147 0,-4.70884 -4.79343,-18.55534 -18.39285,-18.30352 -13.59942,0.25182 -18.03572,14.83773 -18.03572,18.30352 0,3.4658 -0.17857,32.14291 -0.17857,32.14291 z"
-         style="fill:#614868;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:open="true"
-         transform="translate(-10.982152,-8.5714286)"
-         sodipodi:end="12.46847"
-         sodipodi:start="6.2071318"
-         d="m 371.39684,163.40276 c 0.46084,6.04773 -4.06824,11.32398 -10.11597,11.78482 -6.04774,0.46084 -11.32398,-4.06823 -11.78483,-10.11597 -0.46084,-6.04774 4.06824,-11.32398 10.11598,-11.78482 5.95452,-0.45374 11.18027,3.93376 11.76398,9.87695"
-         sodipodi:ry="10.982142"
-         sodipodi:rx="10.982142"
-         sodipodi:cy="164.23718"
-         sodipodi:cx="360.44644"
-         id="path3828"
-         style="fill:#588a50;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-    </g>
+    <path
+       style="fill:#492356;fill-opacity:1;stroke:#a6f488;stroke-width:1.80000000000000004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.346732,1016.9274 0,-76.47073 -41.2092499,0 52.7354199,-89.82377 138.016678,-0.0293 52.25501,89.85314 -36.53603,0 0,76.89563 -40.57201,0 c 0,0 0.63727,-65.69295 0.63727,-76.89573 0,-11.20275 -11.40401,-44.14483 -43.75826,-43.54573 -32.354248,0.5991 -42.908608,35.3003 -42.908608,43.54573 0,8.24545 -0.424834,76.47093 -0.424834,76.47093 z"
+       id="path3050"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccczzzcc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#8abb22;fill-opacity:1;stroke:none"
+       id="path3828"
+       sodipodi:cx="360.44644"
+       sodipodi:cy="164.23718"
+       sodipodi:rx="10.982142"
+       sodipodi:ry="10.982142"
+       d="m 371.39684,163.40276 a 10.982142,10.982142 0 1 1 -0.0208,-0.23902"
+       sodipodi:start="6.2071318"
+       sodipodi:end="12.46847"
+       transform="matrix(2.3790905,0,0,2.3790905,-727.61914,588.16938)"
+       sodipodi:open="true" />
   </g>
 </svg>
