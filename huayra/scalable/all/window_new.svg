@@ -14,7 +14,7 @@
    id="svg1306"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="window_new.svg"
+   sodipodi:docname="window-new.svg"
    version="1.1">
   <defs
      id="defs1308" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.90625"
-     inkscape:cx="42.440204"
-     inkscape:cy="17.299576"
+     inkscape:cx="42.060757"
+     inkscape:cy="17.679023"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -36,9 +36,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1270"
-     inkscape:window-height="852"
+     inkscape:window-height="945"
      inkscape:window-x="136"
-     inkscape:window-y="25"
+     inkscape:window-y="96"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata1311">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,27 +57,28 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g2991">
+       id="g3018"
+       transform="translate(-51.225296,-25.422925)">
       <path
          inkscape:connector-curvature="0"
          id="rect1314"
-         d="m 4.24625,2.110054 c -2.485968,0 -3.715247,1.229278 -3.715247,3.715247 l 0,39.771413 47.23236,0 0,-39.771413 c 0,-2.485969 -1.259735,-3.715247 -3.7457,-3.715247 l -39.771413,0 z m 2.497133,4.963814 34.8076,0 c 0.736442,0 1.248567,0.512121 1.248567,1.248566 l 0,31.0619 c 0,0.736446 -0.512125,1.248567 -1.248567,1.248567 l -34.8076,0 c -0.736446,0 -1.248566,-0.512121 -1.248566,-1.248567 l 0,-31.0619 c 0,-0.736445 0.51212,-1.248566 1.248566,-1.248566 z"
-         style="fill:#492356;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         d="m 55.471546,27.532979 c -2.485968,0 -3.715247,1.229278 -3.715247,3.715247 l 0,39.771413 47.23236,0 0,-39.771413 c 0,-2.485969 -1.259735,-3.715247 -3.7457,-3.715247 l -39.771413,0 z m 2.497133,4.963814 34.8076,0 c 0.736442,0 1.248567,0.512121 1.248567,1.248566 l 0,31.0619 c 0,0.736446 -0.512125,1.248567 -1.248567,1.248567 l -34.8076,0 c -0.736446,0 -1.248566,-0.512121 -1.248566,-1.248567 l 0,-31.0619 c 0,-0.736445 0.51212,-1.248566 1.248566,-1.248566 z"
+         style="fill:#694f69;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
          id="path2772"
-         d="m 4.408395,11.264666 40.148275,0"
-         style="fill:#492356;stroke:#492356;stroke-width:10.22435950999999932;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 55.633691,36.687591 40.148275,0"
+         style="fill:none;stroke:#694f69;stroke-width:10.22435951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          inkscape:connector-curvature="0"
          id="path1874"
-         d="m 14.559013,28.52308 20.408347,0"
-         style="fill:#492356;stroke:#492356;stroke-width:5.10208654000000017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 65.784309,53.946005 20.408347,0"
+         style="fill:none;stroke:#694f69;stroke-width:5.10208654;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#492356;stroke:#492356;stroke-width:5.10208654000000017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 24.763186,18.318907 0,20.408348"
+         style="fill:#694f69;stroke:#694f69;stroke-width:5.10208654;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 75.988482,43.741832 0,20.408348"
          id="path2762" />
     </g>
   </g>
