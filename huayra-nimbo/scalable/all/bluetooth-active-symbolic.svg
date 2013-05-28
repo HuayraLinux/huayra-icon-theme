@@ -13,7 +13,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    height="16"
-   sodipodi:docname="bluetooth-active-symbolic.svg"
+   sodipodi:docname="bluetooth-active.svg"
    width="16">
   <metadata
      id="metadata90">
@@ -28,15 +28,15 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="5.633941"
+     inkscape:cy="8.2158798"
      inkscape:current-layer="layer9"
      inkscape:window-width="1310"
      pagecolor="#555753"
-     showborder="false"
+     showborder="true"
      showguides="true"
      inkscape:snap-nodes="true"
      objecttolerance="10"
-     showgrid="false"
+     showgrid="true"
      inkscape:object-nodes="true"
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
@@ -45,18 +45,19 @@
      bordercolor="#666666"
      id="namedview88"
      inkscape:window-maximized="0"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-y="26"
      gridtolerance="10"
-     inkscape:zoom="8"
+     inkscape:zoom="22.627417"
      inkscape:window-height="690"
      borderopacity="1"
      guidetolerance="10"
-     inkscape:cx="23.703969"
+     inkscape:cx="9.4057449"
      inkscape:bbox-paths="false"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0"
-     inkscape:snap-to-guides="true">
+     inkscape:snap-to-guides="true"
+     borderlayer="true">
     <inkscape:grid
        visible="true"
        spacingx="1px"
@@ -78,37 +79,38 @@
      inkscape:label="status"
      style="display:inline">
     <path
-       d="M 47.875,317 A 1.0001,1.0001 0 0 0 47,318 l 0,3.5625 -1.28125,-1.28125 a 1.016466,1.016466 0 1 0 -1.4375,1.4375 L 47,324.4375 l 0,1.125 -2.71875,2.71875 a 1.016466,1.016466 0 1 0 1.4375,1.4375 L 47,328.4375 47,332 a 1.0001,1.0001 0 0 0 1.71875,0.71875 l 4,-4 a 1.0001,1.0001 0 0 0 0,-1.4375 L 50.4375,325 l 2.28125,-2.28125 a 1.0001,1.0001 0 0 0 0,-1.4375 l -4,-4 A 1.0001,1.0001 0 0 0 47.875,317 z M 49,320.4375 50.5625,322 49,323.5625 l 0,-3.125 z m 0,6 L 50.5625,328 49,329.5625 l 0,-3.125 z"
+       d="m 48.542857,318.98525 a 0.74999186,0.74999186 0 0 0 -0.656178,0.74991 l 0,2.67158 -0.960831,-0.96083 a 0.76226641,0.76226641 0 1 0 -1.078005,1.07801 l 2.038836,2.03883 0,0.84366 -2.038836,2.03884 a 0.762265,0.762265 0 1 0 1.078005,1.078 l 0.960831,-0.96083 0,2.67158 a 0.74999186,0.74999186 0 0 0 1.28892,0.539 l 2.999667,-2.99966 a 0.74999186,0.74999186 0 0 0 0,-1.07801 l -1.710747,-1.71075 1.710747,-1.71075 a 0.74999186,0.74999186 0 0 0 0,-1.078 l -2.999667,-2.99967 a 0.74999186,0.74999186 0 0 0 -0.632742,-0.21091 z m 0.843656,2.57784 1.171745,1.17174 -1.171745,1.17175 0,-2.34349 z m 0,4.4995 1.171745,1.17174 -1.171745,1.17175 0,-2.34349 z"
        id="path3807"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       inkscape:connector-curvature="0" />
     <rect
-       x="44.000198"
-       y="320"
+       x="45.637081"
+       y="321.23502"
        id="rect3940"
-       height="1"
-       width="1"
-       style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none" />
+       height="0.74991685"
+       width="0.74991685"
+       style="opacity:0.98000004;fill:#808080;fill-opacity:1;stroke:none" />
     <rect
-       x="44.000198"
-       y="329"
+       x="45.637081"
+       y="327.98425"
        id="rect3942"
-       height="1"
-       style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none"
-       width="1" />
+       height="0.74991685"
+       style="opacity:0.98000004;fill:#808080;fill-opacity:1;stroke:none"
+       width="0.74991685" />
     <rect
-       x="47.000198"
-       y="332"
+       x="47.886829"
+       y="330.23401"
        id="rect3944"
-       height="1"
-       width="1"
-       style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none" />
+       height="0.74991685"
+       width="0.74991685"
+       style="opacity:0.98000004;fill:#808080;fill-opacity:1;stroke:none" />
     <rect
-       x="47.000198"
-       y="317"
+       x="47.886829"
+       y="318.98526"
        id="rect3946"
-       height="1"
-       style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none"
-       width="1" />
+       height="0.74991685"
+       style="opacity:0.98000004;fill:#808080;fill-opacity:1;stroke:none"
+       width="0.74991685" />
   </g>
   <g
      transform="translate(-41.0002,-317)"

@@ -13,7 +13,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    height="16"
-   sodipodi:docname="bluetooth-disabled-symbolic.svg"
+   sodipodi:docname="bluetooth-active-symbolic.svg"
    width="16">
   <metadata
      id="metadata90">
@@ -28,37 +28,36 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:object-paths="true"
-     inkscape:cy="8.392687"
+     inkscape:cy="7.2532357"
      inkscape:current-layer="layer9"
-     inkscape:window-width="1438"
+     inkscape:window-width="1310"
      pagecolor="#555753"
-     showborder="false"
+     showborder="true"
      showguides="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      objecttolerance="10"
      showgrid="true"
      inkscape:object-nodes="true"
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
-     inkscape:window-x="0"
+     inkscape:window-x="38"
      inkscape:snap-bbox="true"
      bordercolor="#666666"
      id="namedview88"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="true"
-     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false"
+     inkscape:window-y="185"
      gridtolerance="10"
-     inkscape:zoom="32"
-     inkscape:window-height="827"
+     inkscape:zoom="22.627417"
+     inkscape:window-height="690"
      borderopacity="1"
      guidetolerance="10"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:cx="10.676015"
+     inkscape:cx="9.7390199"
      inkscape:bbox-paths="false"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0"
-     inkscape:snap-to-guides="true">
+     inkscape:snap-to-guides="true"
+     borderlayer="true">
     <inkscape:grid
        visible="true"
        spacingx="1px"
@@ -74,92 +73,80 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="status"
      style="display:inline">
-    <g
-       transform="matrix(0.9944872,0,0,0.9944872,41.15182,62.433324)"
-       id="g10845"
-       style="opacity:0.35;fill:#bebebe;fill-opacity:1;display:inline">
-      <path
-         transform="translate(-41.0002,-61.000001)"
-         inkscape:connector-curvature="0"
-         d="M 67.875,317 A 1.0001,1.0001 0 0 0 67,318 l 0,3.5625 -1.28125,-1.28125 a 1.016466,1.016466 0 1 0 -1.4375,1.4375 L 67,324.4375 l 0,1.125 -2.71875,2.71875 a 1.016466,1.016466 0 1 0 1.4375,1.4375 L 67,328.4375 67,332 a 1.0001,1.0001 0 0 0 1.71875,0.71875 L 71,330.4375 71,327 l 1.4375,0 -2,-2 2.28125,-2.28125 a 1.0001,1.0001 0 0 0 0,-1.4375 l -4,-4 A 1.0001,1.0001 0 0 0 67.875,317 z M 69,320.4375 70.5625,322 69,323.5625 l 0,-3.125 z m 0,6 L 70.5625,328 69,329.5625 l 0,-3.125 z"
-         id="path10847"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
-      <rect
-         x="23"
-         y="259"
-         id="rect10849"
-         height="1"
-         width="1"
-         style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none" />
-      <rect
-         x="23"
-         y="268"
-         id="rect10851"
-         height="1"
-         style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none"
-         width="1" />
-      <rect
-         x="26"
-         y="270.96857"
-         id="rect10853"
-         height="1"
-         width="1"
-         style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none" />
-      <rect
-         x="26"
-         y="256.03143"
-         id="rect10855"
-         height="1"
-         style="opacity:0.98000004;fill:#bebebe;fill-opacity:1;stroke:none"
-         width="1" />
-    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="m 46.927516,318.96875 a 0.74999186,0.74999186 0 0 0 -0.03125,0.0313 0.74999186,0.74999186 0 0 0 -0.65625,0.75 l 0,2.65625 -0.9375,-0.96875 a 0.77339804,0.77339804 0 1 0 -1.09375,1.09375 l 2.03125,2.03125 0,0.84375 -2.03125,2.03125 a 0.77339804,0.77339804 0 1 0 1.09375,1.09375 l 0.9375,-0.96875 0,2.65625 a 0.74999186,0.74999186 0 0 0 1.3125,0.5625 l 2.0625,-2.03125 0,-0.0313 0,-2.9375 -0.78125,-0.78125 1.71875,-1.71875 a 0.74999186,0.74999186 0 0 0 0,-1.09375 l -3,-3 a 0.74999186,0.74999186 0 0 0 -0.625,-0.21875 z m 0.8125,2.59375 1.1875,1.1875 -1.1875,1.15625 0,-2.34375 z m 0,4.5 1.1875,1.15625 -1.1875,1.1875 0,-2.34375 z"
+       id="path3807"
+       inkscape:connector-curvature="0" />
+    <rect
+       x="44.001896"
+       y="321.23502"
+       id="rect3940"
+       height="0.74991685"
+       width="0.74991685"
+       style="fill:#808080;fill-opacity:1;stroke:none" />
+    <rect
+       x="44.001896"
+       y="327.98425"
+       id="rect3942"
+       height="0.74991685"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="0.74991685" />
+    <rect
+       x="46.251644"
+       y="330.23401"
+       id="rect3944"
+       height="0.74991685"
+       width="0.74991685"
+       style="fill:#808080;fill-opacity:1;stroke:none" />
+    <rect
+       x="46.251644"
+       y="318.98526"
+       id="rect3946"
+       height="0.74991685"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       width="0.74991685" />
     <path
        inkscape:connector-curvature="0"
-       d="m 71.894714,327.89471 1.375,0 1.125,1.09375 1.09375,-1.09375 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
-       id="path3761-2-3-5-4-8-9-8-0-9"
+       d="m 50.359343,327.02376 1.09931,0 0.89945,0.87446 0.87445,-0.87446 1.12431,0 0,1.17428 -0.87445,0.84948 0.87445,0.84948 0,1.1243 -1.14927,0 -0.84949,-0.84948 -0.84948,0.84948 -1.14928,0 0,-1.1243 0.84946,-0.84948 -0.84946,-0.84948 0,-1.17428 z"
+       id="path3761-2-3-5-4-8-9-8-0"
        sodipodi:nodetypes="ccccccccccccccccc"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       style="color:#bebebe;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
   </g>
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="apps" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="places" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes" />
   <g
-     transform="translate(-61.0002,-317)"
+     transform="translate(-41.0002,-317)"
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
-     style="display:inline" />
-  <g
-     transform="translate(-61.0002,-317)"
-     inkscape:groupmode="layer"
-     id="g4953"
-     inkscape:label="categories"
      style="display:inline" />
 </svg>
