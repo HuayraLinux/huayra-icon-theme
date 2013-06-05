@@ -1,7 +1,10 @@
-all: icons/huayra icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
+all: icons/huayra-violeta icons/huayra-violeta-v2 icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
 
-icons/huayra:
-	bash ./scripts/icon-theme-generator.sh build "huayra" "icons"
+icons/huayra-violeta:
+	bash ./scripts/icon-theme-generator.sh build "huayra-violeta" "icons"
+
+icons/huayra-violeta-v2:
+	bash ./scripts/icon-theme-generator.sh build "huayra-violeta-v2" "icons"
 
 icons/huayra-mayo:
 	bash ./scripts/icon-theme-generator.sh build "huayra-mayo" "icons"
