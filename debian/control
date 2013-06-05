@@ -7,27 +7,21 @@ Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape
 
 Package: huayra-icon-theme-all
-Conflicts: huayra-apps-icons, huayra-icon-theme
-Replaces: huayra-apps-icons, huayra-icon-theme
-Depends: ${misc:Depends}, huayra-icon-theme-default, huayra-icon-theme-mayo, 
-	huayra-icon-theme-fresco-verde
+Depends: ${misc:Depends},
+    huayra-icon-theme-mayo,
+    huayra-icon-theme-fresco-verde,
+    huayra-icon-theme-violeta,
+    huayra-icon-theme-violeta-v2
 Architecture: all
 Description: Todos los temas de iconos para Huayra GNU/Linux
- Este dummy paquete instalara todos los temas de iconos 
+ Este paquete (dummy) instalará todos los temas de iconos 
  realizados para Huayra GNU/Linux.
  .
  Temas disponibles:
-  - huayra-icon-theme
   - huayra-icon-theme-mayo
   - huayra-icon-theme-fresco-verde
-
-Package: huayra-icon-theme-default
-Depends: ${misc:Depends}
-Replaces: huayra-icon-theme-alternativo
-Conflicts: huayra-icon-theme-alternativo
-Architecture: all
-Description: Tema de iconos para Huayra GNU/Linux
- Este es el tema de iconos utilizado en Huayra GNU/Linux.
+  - huayra-icon-theme-violeta
+  - huayra-icon-theme-violeta-v2
 
 Package: huayra-icon-theme-fresco-verde
 Depends: ${misc:Depends}
@@ -41,3 +35,14 @@ Architecture: all
 Description: Tema de iconos Mayo para Huayra GNU/Linux
  Este es el tema de iconos Mayo utilizado en Huayra GNU/Linux.
 
+Package: huayra-icon-theme-violeta
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos violeta para Huayra GNU/Linux
+ Este es el tema de iconos violeta utilizado en Huayra GNU/Linux.
+
+Package: huayra-icon-theme-violeta-v2
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos violeta (versián 2) para Huayra GNU/Linux
+ Este es el tema de iconos Violeta (versión 2) utilizado en Huayra GNU/Linux.
