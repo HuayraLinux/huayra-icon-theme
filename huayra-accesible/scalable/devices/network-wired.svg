@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,9 +13,9 @@
    height="48.000000px"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.44"
-   sodipodi:docbase="/home/luca/Desktop"
-   sodipodi:docname="network-wired_alt.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="nm-device-wired.svg"
+   version="1.1">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -32,17 +33,26 @@
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:grid-points="true"
-     gridspacingy="1.0000000px"
-     gridspacingx="1.0000000px"
-     gridoriginy="0.0000000px"
-     gridoriginx="0.0000000px"
      gridtolerance="1.0000000px"
      guidetolerance="1.0000000px"
      inkscape:guide-points="true"
      inkscape:window-width="1270"
      inkscape:window-height="944"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="25">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0.0000000px"
+       originy="0.0000000px"
+       spacingx="1.0000000px"
+       spacingy="1.0000000px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>

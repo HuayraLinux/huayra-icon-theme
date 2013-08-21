@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="400pt"
@@ -67,86 +66,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs550">
-    <linearGradient
-       id="linearGradient562">
-      <stop
-         id="stop563"
-         offset="0.000000"
-         style="stop-color:#de9500;stop-opacity:1;" />
-      <stop
-         id="stop564"
-         offset="1.000000"
-         style="stop-color:#ffff0f;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient558">
-      <stop
-         id="stop559"
-         offset="0"
-         style="stop-color:#000;stop-opacity:1;" />
-      <stop
-         id="stop560"
-         offset="1"
-         style="stop-color:#fff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient561"
-       xlink:href="#linearGradient562" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient579"
-       spreadMethod="reflect"
-       x1="165.94018"
-       x2="115.26372"
-       xlink:href="#linearGradient562"
-       y1="345.88861"
-       y2="321.25702"
-       gradientTransform="scale(1.0135314,0.98664925)" />
-    <radialGradient
-       cx="248.18287"
-       cy="278.36177"
-       fx="248.18287"
-       fy="278.36177"
-       id="radialGradient630"
-       r="405.93497"
-       xlink:href="#linearGradient562"
-       gradientTransform="scale(1.014899,0.98531973)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient562"
-       id="linearGradient3011"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect"
-       x1="169.50368"
-       y1="344.3553"
-       x2="126.72497"
-       y2="323.56246"
-       gradientTransform="scale(1.0046413,0.99538014)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient562"
-       id="linearGradient3013"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect"
-       x1="112.98987"
-       y1="486.47833"
-       x2="88.545789"
-       y2="474.59715"
-       gradientTransform="scale(1.2914115,0.77434653)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient562"
-       id="linearGradient3015"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect"
-       x1="144.65192"
-       y1="396.30049"
-       x2="116.93925"
-       y2="382.83059"
-       gradientTransform="scale(1.297672,0.77061078)" />
-  </defs>
+     id="defs550" />
   <sodipodi:namedview
      id="base"
      inkscape:cx="199.99997"

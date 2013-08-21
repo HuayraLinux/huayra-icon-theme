@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="60.0000000"
@@ -89,34 +88,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient900">
-      <stop
-         id="stop901"
-         offset="0"
-         style="stop-color:#000;stop-opacity:1;" />
-      <stop
-         id="stop902"
-         offset="1"
-         style="stop-color:#fff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient903"
-       xlink:href="#linearGradient900" />
-    <linearGradient
-       id="linearGradient904"
-       xlink:href="#linearGradient900" />
-    <linearGradient
-       id="linearGradient905"
-       xlink:href="#linearGradient900" />
-    <linearGradient
-       id="linearGradient906"
-       xlink:href="#linearGradient900" />
-    <linearGradient
-       id="linearGradient907"
-       xlink:href="#linearGradient900" />
-  </defs>
+     id="defs3" />
   <rect
      height="15.523395"
      id="rect845"

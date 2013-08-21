@@ -14,81 +14,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder.svg">
+   sodipodi:docname="stock_folder.svg">
   <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective4095" />
-    <filter
-       id="filter3777"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow">
-      <feFlood
-         id="feFlood3779"
-         flood-opacity="0.75"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite3781"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur3783"
-         in="composite"
-         stdDeviation="1"
-         result="blur" />
-      <feOffset
-         id="feOffset3785"
-         dx="4"
-         dy="4"
-         result="offset" />
-      <feComposite
-         id="feComposite3787"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
-    <filter
-       id="filter3789"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow">
-      <feFlood
-         id="feFlood3791"
-         flood-opacity="0.75"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite3793"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur3795"
-         in="composite"
-         stdDeviation="1"
-         result="blur" />
-      <feOffset
-         id="feOffset3797"
-         dx="4"
-         dy="4"
-         result="offset" />
-      <feComposite
-         id="feComposite3799"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"

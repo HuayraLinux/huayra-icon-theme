@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
@@ -17,38 +16,7 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="applications-ocaml.svg">
   <defs
-     id="defs5276">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4092"
-       id="linearGradient18220"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(12.301069,0,0,12.131585,-48672.843,15598.621)"
-       x1="116.53692"
-       y1="58.201862"
-       x2="77.087646"
-       y2="118.20246" />
-    <linearGradient
-       id="linearGradient4092">
-      <stop
-         id="stop4094"
-         style="stop-color:#2b5d87;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4096"
-         style="stop-color:#4182b8;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <inkscape:path-effect
-       effect="bend_path"
-       id="path-effect5387"
-       is_visible="true"
-       bendpath="m -111.09338,18.945284 c 11.335105,-6.024395 25.577801,-7.454938 33.28406,-2.970428 14.916984,7.330914 23.902335,-2.110844 40.107737,-3.645215"
-       prop_scale="1"
-       scale_y_rel="false"
-       vertical="false"
-       bendpath-nodetypes="ccc" />
-  </defs>
+     id="defs5276" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -75,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

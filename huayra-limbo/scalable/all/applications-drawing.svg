@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="60.0000000"
@@ -89,22 +88,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient1160">
-      <stop
-         id="stop1161"
-         offset="0"
-         style="stop-color:#000;stop-opacity:1;" />
-      <stop
-         id="stop1162"
-         offset="1"
-         style="stop-color:#fff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1163"
-       xlink:href="#linearGradient1160" />
-  </defs>
+     id="defs3" />
   <path
      d="M 30.488427,2.3397330 C 28.433485,2.4681654 21.103366,1.3181958 20.075896,19.941103 C 13.140471,24.436289 5.2861775,39.955103 9.5244923,38.670765 C 13.762810,35.845223 14.561164,29.562266 17.787073,29.676659 C 19.713581,32.502201 11.342770,40.977575 12.113372,45.472760 C 11.884475,51.195175 18.507837,54.936586 21.719980,56.078713 C 23.472695,54.998320 26.442917,54.241207 30.004873,54.241207 C 33.931115,54.241208 37.258470,55.133024 38.870031,56.401082 C 40.822700,56.368084 48.089796,56.848163 48.089796,45.988550 C 48.860406,41.750237 40.134981,32.374285 42.061490,29.805606 C 45.030534,30.062471 46.167397,34.945157 50.534146,38.412869 C 54.644024,40.082505 47.063216,25.334807 40.256224,19.812155 C 39.742485,1.3176809 32.671801,2.4681654 30.488427,2.3397330 z "
      id="path873"

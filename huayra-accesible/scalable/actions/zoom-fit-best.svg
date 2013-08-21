@@ -1,74 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="240.00000"
    inkscape:export-xdpi="240.00000"
    inkscape:export-filename="/home/jimmac/gfx/novell/pdes/trunk/docs/BIGmime-text.png"
-   sodipodi:docname="zoom-best-fit.svg"
-   sodipodi:docbase="/home/luca/Desktop"
-   inkscape:version="0.43"
+   sodipodi:docname="zoom-fit-best.svg"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:version="0.32"
    id="svg249"
    height="48.000000px"
-   width="48.000000px">
+   width="48.000000px"
+   version="1.1">
   <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient15493">
-      <stop
-         style="stop-color:#eeeeec;stop-opacity:1;"
-         offset="0"
-         id="stop15495" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1"
-         id="stop15497" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4919">
-      <stop
-         style="stop-color:#429eff;stop-opacity:1;"
-         offset="0"
-         id="stop4921" />
-      <stop
-         style="stop-color:#0044a7;stop-opacity:1;"
-         offset="1"
-         id="stop4923" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2617">
-      <stop
-         id="stop2619"
-         offset="0"
-         style="stop-color:#fbfbfa;stop-opacity:1;" />
-      <stop
-         id="stop2621"
-         offset="1"
-         style="stop-color:#d3d7cf" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2698">
-      <stop
-         id="stop2700"
-         offset="0"
-         style="stop-color:#555753" />
-      <stop
-         style="stop-color:#a3a5a2;stop-opacity:1;"
-         offset="0.70238096"
-         id="stop2706" />
-      <stop
-         id="stop2702"
-         offset="1"
-         style="stop-color:#888a85" />
-    </linearGradient>
-  </defs>
+     id="defs3" />
   <sodipodi:namedview
      inkscape:window-y="46"
      inkscape:window-x="6"
@@ -92,9 +44,6 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:grid-points="true"
-     gridspacingx="0.5px"
-     gridspacingy="0.5px"
-     gridempspacing="2"
      fill="#729fcf"
      stroke="#2e3436">
     <sodipodi:guide
@@ -105,6 +54,18 @@
        orientation="vertical"
        position="19"
        id="guide1417" />
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="2" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -122,16 +83,16 @@
            rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
         <dc:creator>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:creator>
         <dc:source />
         <dc:contributor>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:contributor>
-        <dc:date></dc:date>
+        <dc:date />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">

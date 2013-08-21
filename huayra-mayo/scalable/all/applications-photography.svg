@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48.000000px"
@@ -17,7 +18,57 @@
    sodipodi:docname="applications-photography.svg"
    version="1.1">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient8384-2">
+      <stop
+         id="stop8386-1"
+         style="stop-color:#1e3b55;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop8388-4"
+         style="stop-color:#2e5c84;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3184"
+       gradientUnits="userSpaceOnUse"
+       x1="265.91901"
+       y1="259.46201"
+       x2="37.4221"
+       y2="236.18201">
+      <stop
+         offset="0"
+         style="stop-color:#82C7E6"
+         id="stop3186" />
+      <stop
+         offset="0.46104604"
+         style="stop-color:#6690C2"
+         id="stop3188" />
+      <stop
+         offset="1"
+         style="stop-color:#3C599B"
+         id="stop3190" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3184"
+       id="linearGradient3917"
+       x1="3.5052354"
+       y1="23.531414"
+       x2="44.609947"
+       y2="23.531414"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8384-2"
+       id="linearGradient3925"
+       x1="3.5052354"
+       y1="23.531414"
+       x2="44.609947"
+       y2="23.531414"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.916667"
-     inkscape:cx="24"
-     inkscape:cy="27.110567"
+     inkscape:zoom="3.9791668"
+     inkscape:cx="96.512427"
+     inkscape:cy="34.736207"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="true"
@@ -36,13 +87,13 @@
      gridtolerance="1.0000000px"
      guidetolerance="1.0000000px"
      inkscape:guide-points="true"
-     inkscape:window-width="1203"
-     inkscape:window-height="915"
-     inkscape:window-x="419"
-     inkscape:window-y="64"
+     inkscape:window-width="1918"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
@@ -109,7 +160,7 @@
      inkscape:groupmode="layer"
      id="layer1" />
   <path
-     style="fill:#694869;fill-opacity:1;fill-rule:evenodd;stroke:#8abb22;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:url(#linearGradient3917);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3925);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 5.9528794,12.057592 L 15.005235,12.057592 L 17.005235,7.0575914 L 31.005235,7.0575914 L 33.005235,12.057592 L 42.057591,12.057592 C 43.136586,12.057592 44.005235,12.926241 44.005235,14.005236 L 44.109947,38.057592 C 44.109947,39.136587 43.241298,40.005236 42.162303,40.005236 L 6.0575914,40.005236 C 4.9785966,40.005236 4.1099474,39.136587 4.1099474,38.057592 L 4.0052354,14.005236 C 4.0052354,12.926241 4.8738846,12.057592 5.9528794,12.057592 z "
      id="rect8423"
      sodipodi:nodetypes="ccccccccccccc" />

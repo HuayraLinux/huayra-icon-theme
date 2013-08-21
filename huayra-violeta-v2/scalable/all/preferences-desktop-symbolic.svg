@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -15,7 +14,7 @@
    height="48"
    id="svg1307"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="preferences-desktop.svg">
+   sodipodi:docname="preferences-desktop-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,136 +36,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1307" />
   <defs
-     id="defs1309">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868" />
-    </linearGradient>
-    <linearGradient
-       y2="264.96301"
-       x2="229.189"
-       y1="75.677498"
-       x1="77.762001"
-       gradientUnits="userSpaceOnUse"
-       id="id9-9-9">
-      <stop
-         id="stop3151-8-7"
-         style="stop-color:#58A6D8"
-         offset="0" />
-      <stop
-         offset="0.470588"
-         style="stop-color:#548bbb;stop-opacity:1;"
-         id="stop4258-1-6" />
-      <stop
-         id="stop3153-82-29"
-         style="stop-color:#50719E"
-         offset="0.941176" />
-      <stop
-         id="stop3155-6-5"
-         style="stop-color:#386EAB"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#id9-9-9"
-       id="linearGradient4155"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(19.320805,0,0,13.301596,-2278.1381,-7659.517)"
-       spreadMethod="reflect"
-       x1="0.96875"
-       y1="8.0000248"
-       x2="14"
-       y2="8.0000248" />
-    <linearGradient
-       y2="264.96301"
-       x2="229.189"
-       y1="75.677498"
-       x1="77.762001"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5152">
-      <stop
-         id="stop5154"
-         style="stop-color:#58A6D8"
-         offset="0" />
-      <stop
-         offset="0.470588"
-         style="stop-color:#548bbb;stop-opacity:1;"
-         id="stop5156" />
-      <stop
-         id="stop5158"
-         style="stop-color:#50719E"
-         offset="0.941176" />
-      <stop
-         id="stop5160"
-         style="stop-color:#386EAB"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="264.96301"
-       x2="229.189"
-       y1="75.677498"
-       x1="77.762001"
-       gradientUnits="userSpaceOnUse"
-       id="id9-9-2">
-      <stop
-         id="stop3151-8-5"
-         style="stop-color:#58A6D8"
-         offset="0" />
-      <stop
-         offset="0.470588"
-         style="stop-color:#548bbb;stop-opacity:1;"
-         id="stop4258-1-86" />
-      <stop
-         id="stop3153-82-2"
-         style="stop-color:#50719E"
-         offset="0.941176" />
-      <stop
-         id="stop3155-6-6"
-         style="stop-color:#386EAB"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="264.96301"
-       x2="229.189"
-       y1="75.677498"
-       x1="77.762001"
-       gradientUnits="userSpaceOnUse"
-       id="id9-9">
-      <stop
-         id="stop3151-8"
-         style="stop-color:#58A6D8"
-         offset="0" />
-      <stop
-         offset="0.470588"
-         style="stop-color:#548bbb;stop-opacity:1;"
-         id="stop4258-1" />
-      <stop
-         id="stop3153-82"
-         style="stop-color:#50719E"
-         offset="0.941176" />
-      <stop
-         id="stop3155-6"
-         style="stop-color:#386EAB"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3864"
-       id="linearGradient3870"
-       x1="2.6213413"
-       y1="930.59811"
-       x2="253.80395"
-       y2="930.59811"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs1309" />
   <metadata
      id="metadata1312">
     <rdf:RDF>
@@ -175,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

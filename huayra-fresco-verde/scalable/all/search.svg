@@ -14,24 +14,9 @@
    id="svg5266"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="preferences-desktop-locale.svg">
+   sodipodi:docname="search.svg">
   <defs
-     id="defs5268">
-    <inkscape:path-effect
-       effect="skeletal"
-       id="path-effect5141"
-       is_visible="true"
-       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
-       copytype="single_stretched"
-       prop_scale="1"
-       scale_y_rel="false"
-       spacing="0"
-       normal_offset="0"
-       tang_offset="0"
-       prop_units="false"
-       vertical_pattern="false"
-       fuse_tolerance="0" />
-  </defs>
+     id="defs5268" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -58,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
