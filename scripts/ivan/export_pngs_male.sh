@@ -46,8 +46,10 @@ if [ $symlink -eq "1" ]; then # Si es un enlace, creamos los enlaces correspondi
 
 	for size in $sizes; do
 		prefix="../${size}x${size}"
+		cd $prefix"/"$iconDir"/"
 # Creo link al PNG (si fue creado anteriormente)
 		ln -sf $target $iconName
+		cd "../../scalable/"
 fi
 	
 done
