@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Huayra Limbo
 Comment=Tema de iconos Huayra Limbo
-Directories=8x8/acciones,8x8/aplicaciones,8x8/categorias,8x8/dispositivos,8x8/emblemas,8x8/lugares,8x8/mimetipos,8x8/status,16x16/acciones,16x16/aplicaciones,16x16/categorias,16x16/dispositivos,16x16/emblemas,16x16/lugares,16x16/mimetipos,16x16/status,22x22/acciones,22x22/aplicaciones,22x22/categorias,22x22/dispositivos,22x22/emblemas,22x22/lugares,22x22/mimetipos,22x22/status,24x24/acciones,24x24/aplicaciones,24x24/categorias,24x24/dispositivos,24x24/emblemas,24x24/lugares,24x24/mimetipos,24x24/status,32x32/acciones,32x32/aplicaciones,32x32/categorias,32x32/dispositivos,32x32/emblemas,32x32/lugares,32x32/mimetipos,32x32/status,48x48/acciones,48x48/aplicaciones,48x48/categorias,48x48/dispositivos,48x48/emblemas,48x48/lugares,48x48/mimetipos,48x48/status,64x64/acciones,64x64/aplicaciones,64x64/categorias,64x64/dispositivos,64x64/emblemas,64x64/lugares,64x64/mimetipos,64x64/status,128x128/acciones,128x128/aplicaciones,128x128/categorias,128x128/dispositivos,128x128/emblemas,128x128/lugares,128x128/mimetipos,128x128/status,256x256/acciones,256x256/aplicaciones,256x256/categorias,256x256/dispositivos,256x256/emblemas,256x256/lugares,256x256/mimetipos,256x256/status,scalable/acciones,scalable/aplicaciones,scalable/categorias,scalable/dispositivos,scalable/emblemas,scalable/lugares,scalable/mimetipos,scalable/status
+Directories=8x8/acciones,8x8/aplicaciones,8x8/categorias,8x8/dispositivos,8x8/emblemas,8x8/lugares,8x8/mimetipos,8x8/status,16x16/acciones,16x16/aplicaciones,16x16/categorias,16x16/dispositivos,16x16/emblemas,16x16/lugares,16x16/mimetipos,16x16/status,22x22/acciones,22x22/aplicaciones,22x22/categorias,22x22/dispositivos,22x22/emblemas,22x22/lugares,22x22/mimetipos,22x22/status,24x24/acciones,24x24/aplicaciones,24x24/categorias,24x24/dispositivos,24x24/emblemas,24x24/lugares,24x24/mimetipos,24x24/status,32x32/acciones,32x32/aplicaciones,32x32/categorias,32x32/dispositivos,32x32/emblemas,32x32/lugares,32x32/mimetipos,32x32/status,48x48/acciones,48x48/aplicaciones,48x48/categorias,48x48/dispositivos,48x48/emblemas,48x48/lugares,48x48/mimetipos,48x48/status,64x64/acciones,64x64/aplicaciones,64x64/categorias,64x64/dispositivos,64x64/emblemas,64x64/lugares,64x64/mimetipos,64x64/status,128x128/acciones,128x128/aplicaciones,128x128/categorias,128x128/dispositivos,128x128/emblemas,128x128/lugares,128x128/mimetipos,128x128/status,256x256/acciones,256x256/aplicaciones,256x256/categorias,256x256/dispositivos,256x256/emblemas,256x256/lugares,256x256/mimetipos,256x256/status,scalable/acciones,scalable/aplicaciones,scalable/aplicaciones/panel,scalable/categorias,scalable/dispositivos,scalable/emblemas,scalable/lugares,scalable/mimetipos,scalable/status,scalable/status/panel
 
 [8x8/acciones]
 Size=8
@@ -386,6 +386,13 @@ MaxSize=256
 Context=aplicaciones
 Type=Scalable
 
+[scalable/aplicaciones/panel]
+MinSize=1
+Size=256
+MaxSize=256
+Context=aplicaciones
+Type=Scalable
+
 [scalable/categorias]
 MinSize=1
 Size=256
@@ -428,4 +435,10 @@ MaxSize=256
 Context=status
 Type=Scalable
 
+[scalable/status/panel]
+MinSize=1
+Size=256
+MaxSize=256
+Context=status
+Type=Scalable
 
