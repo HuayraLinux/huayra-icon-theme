@@ -1,22 +1,42 @@
-all: icons/huayra-violeta icons/huayra-violeta-v2 icons/huayra-mayo icons/huayra-fresco-verde icons/changelog icons/README
 
-icons/huayra-violeta:
-	bash ./scripts/icon-theme-generator.sh build "huayra-violeta" "icons"
+all: huayra-violeta huayra-violeta-v2 huayra-mayo huayra-fresco-verde huayra-accesible huayra-limbo
+	
 
-icons/huayra-violeta-v2:
-	bash ./scripts/icon-theme-generator.sh build "huayra-violeta-v2" "icons"
+huayra-violeta:
+	bash ./scripts/iconator.sh huayra-violeta
 
-icons/huayra-mayo:
-	bash ./scripts/icon-theme-generator.sh build "huayra-mayo" "icons"
+huayra-violeta-v2:
+	bash ./scripts/iconator.sh huayra-violeta-v2
 
-icons/huayra-fresco-verde:
-	bash ./scripts/icon-theme-generator.sh build "huayra-fresco-verde" "icons"
+huayra-mayo:
+	bash ./scripts/iconator.sh huayra-mayo
 
-icons/changelog: debian/changelog
-	cp -a debian/changelog icons/changelog
+huayra-fresco-verde:
+	bash ./scripts/iconator.sh huayra-fresco-verde
 
-icons/README: debian/changelog
-	cp -a README icons/README
+huayra-fresco-accesible:
+	bash ./scripts/iconator.sh huayra-accesible
 
-clean:
-	bash ./scripts/icon-theme-generator.sh clean "icons"
+huayra-limbo:
+	bash ./scripts/iconator.sh huayra-limbo
+
+clean: huayra-violeta.clean huayra-violeta-v2.clean huayra-mayo.clean huayra-fresco-verde.clean huayra-accesible.clean huayra-limbo.clean
+
+huayra-violeta.clean:
+	bash ./scripts/clean.sh huayra-violeta
+
+huayra-violeta-v2.clean:
+	bash ./scripts/clean.sh huayra-violeta-v2
+
+huayra-mayo.clean:
+	bash ./scripts/clean.sh huayra-mayo
+
+huayra-fresco-verde.clean:
+	bash ./scripts/clean.sh huayra-fresco-verde
+
+huayra-fresco-accesible.clean:
+	bash ./scripts/clean.sh huayra-accesible
+
+huayra-limbo.clean:
+	bash ./scripts/clean.sh huayra-limbo
+
