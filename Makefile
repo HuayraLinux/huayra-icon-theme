@@ -14,7 +14,7 @@ huayra-mayo:
 huayra-fresco-verde:
 	bash ./scripts/iconator.sh huayra-fresco-verde
 
-huayra-fresco-accesible:
+huayra-accesible:
 	bash ./scripts/iconator.sh huayra-accesible
 
 huayra-limbo:
@@ -34,7 +34,7 @@ huayra-mayo.clean:
 huayra-fresco-verde.clean:
 	bash ./scripts/clean.sh huayra-fresco-verde
 
-huayra-fresco-accesible.clean:
+huayra-accesible.clean:
 	bash ./scripts/clean.sh huayra-accesible
 
 huayra-limbo.clean:

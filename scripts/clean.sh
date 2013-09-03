@@ -8,7 +8,9 @@ if [ "$root_folder" == "" ] ; then
     exit 1
 fi
 
+echo "Eliminando archivos de $1"
+
 for size in $sizes; do
-    #rm -rf $root_folder
     echo "$size"x"$size"
+    rm -rf "$root_folder"/"$size"x"$size"
 done
