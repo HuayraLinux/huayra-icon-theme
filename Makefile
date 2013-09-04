@@ -1,6 +1,4 @@
-
 all: huayra-violeta huayra-violeta-v2 huayra-mayo huayra-fresco-verde huayra-accesible huayra-limbo
-	
 
 huayra-violeta:
 	bash ./scripts/iconator.sh huayra-violeta
