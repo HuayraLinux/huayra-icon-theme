@@ -59,12 +59,21 @@ for file in $files; do # Iteramos en cada entrada
 		iconFolder=$( dirname $file )
 		# Exportamos el svg original a png 512x512, para tener un png desde donde convertir
 		inkscape --without-gui --export-png=$iconPngName --export-dpi=72 --export-background-opacity=0 --export-width=512 --export-height=512 $file 
-		for size in $sizes; do
+		pids=''
+    results=''
+    for size in $sizes; do
 			prefix="${size}x${size}"
 			echo "[$root_folder] Convirtiendo $iconPngName a $prefix/$iconCat/$iconPngName..."
 			mkdir -p $prefix"/"$iconCat"/"
-			convert -filter Sinc -resize ${size}x${size} $iconPngName $prefix"/"$iconCat"/"$iconPngName 
+			(convert -filter Sinc -resize ${size}x${size} $iconPngName $prefix"/"$iconCat"/"$iconPngName) & pid=$!
+      pids="$pids $pid"
 		done
+    echo "Procesos: $pids"
+    for pid in $pids; do
+      wait $pid
+    done
+    echo "Fin de todos los procesos $pids"
+    echo "Limpiando PNG 512 (termporal)"
 		rm $iconPngName # Borramos el PNG de 512x512
 	else
 		echo "El archivo $file es un archivo REAL pero NO ES SVG, ignorando..."
