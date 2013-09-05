@@ -1,3 +1,11 @@
+huayra-icon-theme (8.23) testing; urgency=low
+
+  * cambios del build del paquete
+  * se separaron los paquetes por tema
+  * se optimizo el script para generarlos 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 04 Sep 2013 21:43:07 -0300
+
 huayra-icon-theme (8.22) testing; urgency=low
 
   * nuevos iconos de categorias
