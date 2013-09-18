@@ -39,6 +39,11 @@ Size=8
 Context=Places
 Type=Threshold
 
+[8x8/status]
+Size=8
+Context=Status
+Type=Threshold
+
 [16x16/actions]
 Size=16
 Context=Actions
@@ -72,6 +77,11 @@ Type=Threshold
 [16x16/places]
 Size=16
 Context=Places
+Type=Threshold
+
+[16x16/status]
+Size=16
+Context=Status
 Type=Threshold
 
 [22x22/actions]
@@ -109,6 +119,11 @@ Size=22
 Context=Places
 Type=Threshold
 
+[22x22/status]
+Size=22
+Context=Status
+Type=Threshold
+
 [24x24/actions]
 Size=24
 Context=Actions
@@ -142,6 +157,11 @@ Type=Threshold
 [24x24/places]
 Size=24
 Context=Places
+Type=Threshold
+
+[24x24/status]
+Size=24
+Context=Status
 Type=Threshold
 
 [32x32/actions]
@@ -179,6 +199,11 @@ Size=32
 Context=Places
 Type=Threshold
 
+[32x32/status]
+Size=32
+Context=Status
+Type=Threshold
+
 [48x48/actions]
 Size=48
 Context=Actions
@@ -212,6 +237,11 @@ Type=Threshold
 [48x48/places]
 Size=48
 Context=Places
+Type=Threshold
+
+[48x48/status]
+Size=48
+Context=Status
 Type=Threshold
 
 [64x64/actions]
@@ -249,6 +279,11 @@ Size=64
 Context=Places
 Type=Threshold
 
+[64x64/status]
+Size=64
+Context=Status
+Type=Threshold
+
 [128x128/actions]
 Size=128
 Context=Actions
@@ -284,6 +319,11 @@ Size=128
 Context=Places
 Type=Threshold
 
+[128x128/status]
+Size=128
+Context=Status
+Type=Threshold
+
 [256x256/actions]
 Size=256
 Context=Actions
@@ -317,6 +357,11 @@ Type=Threshold
 [256x256/places]
 Size=256
 Context=Places
+Type=Threshold
+
+[256x256/status]
+Size=256
+Context=Status
 Type=Threshold
 
 [scalable/actions]
