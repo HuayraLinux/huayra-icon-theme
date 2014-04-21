@@ -1,83 +1,82 @@
 [Icon Theme]
 Name=Huayra Limbo
 Comment=Tema de iconos Huayra Limbo
-Directories=8x8/acciones,8x8/aplicaciones,8x8/categorias,8x8/dispositivos,8x8/emblemas,8x8/lugares,8x8/mimetipos,8x8/status,16x16/acciones,16x16/aplicaciones,16x16/categorias,16x16/dispositivos,16x16/emblemas,16x16/lugares,16x16/mimetipos,16x16/status,22x22/acciones,22x22/aplicaciones,22x22/categorias,22x22/dispositivos,22x22/emblemas,22x22/lugares,22x22/mimetipos,22x22/status,24x24/acciones,24x24/aplicaciones,24x24/categorias,24x24/dispositivos,24x24/emblemas,24x24/lugares,24x24/mimetipos,24x24/status,32x32/acciones,32x32/aplicaciones,32x32/categorias,32x32/dispositivos,32x32/emblemas,32x32/lugares,32x32/mimetipos,32x32/status,48x48/acciones,48x48/aplicaciones,48x48/categorias,48x48/dispositivos,48x48/emblemas,48x48/lugares,48x48/mimetipos,48x48/status,64x64/acciones,64x64/aplicaciones,64x64/categorias,64x64/dispositivos,64x64/emblemas,64x64/lugares,64x64/mimetipos,64x64/status,128x128/acciones,128x128/aplicaciones,128x128/categorias,128x128/dispositivos,128x128/emblemas,128x128/lugares,128x128/mimetipos,128x128/status,256x256/acciones,256x256/aplicaciones,256x256/categorias,256x256/dispositivos,256x256/emblemas,256x256/lugares,256x256/mimetipos,256x256/status,scalable/acciones,scalable/aplicaciones,scalable/aplicaciones/panel,scalable/categorias,scalable/dispositivos,scalable/emblemas,scalable/lugares,scalable/mimetipos,scalable/status,scalable/status/panel,scalable/status/panel/dropbox,scalable/status/panel/pidgin
+Directories=8x8/actions,8x8/apps,8x8/categories,8x8/devices,8x8/emblems,8x8/places,8x8/mimetypes,8x8/status,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/places,16x16/mimetypes,16x16/status,22x22/actions,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/places,22x22/mimetypes,22x22/status,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/places,24x24/mimetypes,24x24/status,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/places,32x32/mimetypes,32x32/status,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/places,48x48/mimetypes,48x48/status,64x64/actions,64x64/apps,64x64/categories,64x64/devices,64x64/emblems,64x64/places,64x64/mimetypes,64x64/status,128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/emblems,128x128/places,128x128/mimetypes,128x128/status,256x256/actions,256x256/apps,256x256/categories,256x256/devices,256x256/emblems,256x256/places,256x256/mimetypes,256x256/status,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/places,scalable/mimetypes,scalable/status
 
-[8x8/acciones]
+[8x8/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[8x8/aplicaciones]
+[8x8/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[8x8/categorias]
+[8x8/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[8x8/dispositivos]
+[8x8/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[8x8/emblemas]
+[8x8/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[8x8/lugares]
+[8x8/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[8x8/mimetipos]
+[8x8/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
+
 
 [8x8/status]
 Size=8
 Context=status
 Type=Threshold
 
-[16x16/acciones]
+[16x16/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[16x16/aplicaciones]
+[16x16/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[16x16/categorias]
+[16x16/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[16x16/dispositivos]
+[16x16/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[16x16/emblemas]
+[16x16/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[16x16/lugares]
+[16x16/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[16x16/mimetipos]
+[16x16/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [16x16/status]
@@ -85,41 +84,39 @@ Size=8
 Context=status
 Type=Threshold
 
-
-[22x22/acciones]
+[22x22/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[22x22/aplicaciones]
+[22x22/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[22x22/categorias]
+[22x22/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[22x22/dispositivos]
+[22x22/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[22x22/emblemas]
+[22x22/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[22x22/lugares]
+[22x22/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[22x22/mimetipos]
+[22x22/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [22x22/status]
@@ -127,40 +124,39 @@ Size=8
 Context=status
 Type=Threshold
 
-[24x24/acciones]
+[24x24/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[24x24/aplicaciones]
+[24x24/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[24x24/categorias]
+[24x24/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[24x24/dispositivos]
+[24x24/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[24x24/emblemas]
+[24x24/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[24x24/lugares]
+[24x24/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[24x24/mimetipos]
+[24x24/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [24x24/status]
@@ -168,39 +164,39 @@ Size=8
 Context=status
 Type=Threshold
 
-[32x32/acciones]
+[32x32/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[32x32/aplicaciones]
+[32x32/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[32x32/categorias]
+[32x32/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[32x32/dispositivos]
+[32x32/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[32x32/emblemas]
+[32x32/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[32x32/lugares]
+[32x32/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-[32x32/mimetipos]
+[32x32/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [32x32/status]
@@ -208,40 +204,39 @@ Size=8
 Context=status
 Type=Threshold
 
-[48x48/acciones]
+[48x48/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[48x48/aplicaciones]
+[48x48/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[48x48/categorias]
+[48x48/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[48x48/dispositivos]
+[48x48/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[48x48/emblemas]
+[48x48/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[48x48/lugares]
+[48x48/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[48x48/mimetipos]
+[48x48/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [48x48/status]
@@ -249,40 +244,39 @@ Size=8
 Context=status
 Type=Threshold
 
-[64x64/acciones]
+[64x64/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[64x64/aplicaciones]
+[64x64/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[64x64/categorias]
+[64x64/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[64x64/dispositivos]
+[64x64/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[64x64/emblemas]
+[64x64/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[64x64/lugares]
+[64x64/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[64x64/mimetipos]
+[64x64/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [64x64/status]
@@ -290,91 +284,79 @@ Size=8
 Context=status
 Type=Threshold
 
-[128x128/acciones]
+[128x128/actions]
 Size=8
-Context=acciones
+Context=actions
 Type=Threshold
 
-[128x128/aplicaciones]
+[128x128/apps]
 Size=8
-Context=aplicaciones
+Context=apps
 Type=Threshold
 
-[128x128/categorias]
+[128x128/categories]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[128x128/dispositivos]
+[128x128/devices]
 Size=8
-Context=dispositivos
+Context=devices
 Type=Threshold
 
-[128x128/emblemas]
+[128x128/emblems]
 Size=8
-Context=emblemas
+Context=emblems
 Type=Threshold
 
-[128x128/lugares]
+[128x128/mimetypes]
 Size=8
-Context=lugares
+Context=mimetypes
 Type=Threshold
 
-
-[128x128/mimetipos]
+[128x128/places]
 Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [128x128/status]
 Size=8
-Context=categorias
+Context=categories
 Type=Threshold
 
-[128x128/status/panel/dropbox]
+[256x256/actions]
 Size=8
-Context=dropbox
+Context=actions
 Type=Threshold
 
-[128x128/status/panel/pidgin]
+[256x256/apps]
 Size=8
-Context=pidgin
+Context=apps
 Type=Threshold
 
-[256x256/acciones]
+[256x256/categories]
 Size=8
-Context=acciones
+Context=categories
 Type=Threshold
 
-[256x256/aplicaciones]
+[256x256/devices]
 Size=8
-Context=aplicaciones
+Context=devices
 Type=Threshold
 
-[256x256/categorias]
+[256x256/emblems]
 Size=8
-Context=categorias
+Context=emblems
 Type=Threshold
 
-[256x256/dispositivos]
+[256x256/mimetypes]
 Size=8
-Context=dispositivos
+Context=mimetypes
 Type=Threshold
 
-[256x256/emblemas]
+[256x256/places]
 Size=8
-Context=emblemas
-Type=Threshold
-
-[256x256/lugares]
-Size=8
-Context=lugares
-Type=Threshold
-
-
-[256x256/mimetipos]
-Size=8
-Context=mimetipos
+Context=places
 Type=Threshold
 
 [256x256/status]
@@ -382,60 +364,53 @@ Size=8
 Context=status
 Type=Threshold
 
-[scalable/acciones]
+[scalable/actions]
 MinSize=1
 Size=256
 MaxSize=256
-Context=acciones
+Context=actions
 Type=Scalable
 
-[scalable/aplicaciones]
+[scalable/apps]
 MinSize=1
 Size=256
 MaxSize=256
-Context=aplicaciones
+Context=apps
 Type=Scalable
 
-[scalable/aplicaciones/panel]
+[scalable/categories]
 MinSize=1
 Size=256
 MaxSize=256
-Context=aplicaciones
+Context=categories
 Type=Scalable
 
-[scalable/categorias]
+[scalable/devices]
 MinSize=1
 Size=256
 MaxSize=256
-Context=categorias
+Context=devices
 Type=Scalable
 
-[scalable/dispositivos]
+[scalable/emblems]
 MinSize=1
 Size=256
 MaxSize=256
-Context=dispositivos
+Context=emblems
 Type=Scalable
 
-[scalable/emblemas]
+[scalable/mimetypes]
 MinSize=1
 Size=256
 MaxSize=256
-Context=emblemas
+Context=mimetypes
 Type=Scalable
 
-[scalable/lugares]
+[scalable/places]
 MinSize=1
 Size=256
 MaxSize=256
-Context=lugares
-Type=Scalable
-
-[scalable/mimetipos]
-MinSize=1
-Size=256
-MaxSize=256
-Context=mimetipos
+Context=places
 Type=Scalable
 
 [scalable/status]
@@ -445,24 +420,5 @@ MaxSize=256
 Context=status
 Type=Scalable
 
-[scalable/status/panel]
-MinSize=1
-Size=256
-MaxSize=256
-Context=status
-Type=Scalable
 
-[scalable/status/panel/pidgin]
-MinSize=1
-Size=256
-MaxSize=256
-Context=pidgin
-Type=Scalable
-
-[scalable/status/panel/dropbox]
-MinSize=1
-Size=256
-MaxSize=256
-Context=dropbox
-Type=Scalable
 
