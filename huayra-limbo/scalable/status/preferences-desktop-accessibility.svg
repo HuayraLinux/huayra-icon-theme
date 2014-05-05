@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
-   height="16"
-   width="16"
-   inkscape:version="0.48.3.1 r9886"
+   height="256"
+   width="256"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="preferences-desktop-accessibility.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,20 +24,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1438"
-     inkscape:window-height="847"
+     inkscape:window-width="1914"
+     inkscape:window-height="1031"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="6.040311"
-     inkscape:cy="10.045351"
+     inkscape:zoom="1.84375"
+     inkscape:cx="-66.908841"
+     inkscape:cy="96.825012"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384">
+     inkscape:current-layer="svg7384"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid2991" />
+       id="grid2991"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -56,14 +61,14 @@
   <defs
      id="defs7386" />
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer9"
      style="display:inline" />
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer10" />
   <g
-     transform="matrix(0.75839139,0,0,0.75839139,-29.89021,-287.03741)"
+     transform="matrix(15.741442,0,0,15.741442,-658.79746,-5995.4932)"
      id="layer11"
      style="fill:#808080">
     <path
@@ -73,15 +78,15 @@
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
   </g>
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer12" />
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer13" />
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer14" />
   <g
-     transform="translate(-41.982553,-381.00459)"
+     transform="translate(-41.982553,-141.00459)"
      id="layer15" />
 </svg>
