@@ -95,6 +95,7 @@ cd ../
 # Enlaces para la carpeta Categories
 cd categories/
 ln -sf preferences-system.svg gnome-tweak-tool.svg 
+ln -sf huayra-menu-education.svg biblioteca-huayra.svg
 cd ../
 
 # Enlaces para la carpeta Devices
