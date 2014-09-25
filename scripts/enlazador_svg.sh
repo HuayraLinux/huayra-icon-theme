@@ -37,8 +37,40 @@ ln -sf forward.svg gtk-go-back-rtl.svg
 ln -sf down.svg gtk-go-down.svg 
 ln -sf go-up.svg gtk-go-up.svg 
 ln -sf go-bottom.svg gtk-goto-bottom.svg 
+
 ln -sf first.svg gtk-goto-first-ltr.svg 
 ln -sf first.svg gtk-goto-last-rtl.svg 
+ln -sf first.svg gtk-goto-first.svg
+ln -sf first.svg gtk_stock_goto_first.svg
+ln -sf first.svg go-first.svg
+ln -sf first.svg start.svg
+ln -sf first.svg stock_first.svg
+
+ln -sf last.svg finish.svg
+ln -sf last.svg go-last.svg
+ln -sf last.svg gtk-goto-firest-rtl.svg
+ln -sf last.svg gtk-goto-last-ltr.svg
+ln -sf last.svg stock_last.svg
+
+ln -sf gtk-italic.svg format-text-italic.svg
+ln -sf gtk-italic.svg stock_text_italic.svg
+ln -sf gtk-italic.svg text_italic.svg
+
+ln -sf gtk-justify-center.svg centrejust.svg
+ln -sf gtk-justify-center.svg format-justify-center.svg
+ln -sf gtk-justify-center.svg stock_text_center.svg
+
+ln -sf gtk-justify-fill.svg format-justify-fill.svg
+ln -sf gtk-justify-fill.svg stock_text_justify.svg
+
+ln -sf gtk-justify-right.svg format-justify-right.svg
+ln -sf gtk-justify-right.svg stock_text_right.svg
+
+ln -sf dialog-cancel.svg button_cancel.svg
+ln -sf dialog-cancel.svg cancel.svg
+ln -sf dialog-cancel.svg gtk-cancel.svg
+ln -sf dialog-cancel.svg gtk-no.svg
+
 ln -sf go-top.svg gtk-goto-top.svg 
 ln -sf go-jump.svg gtk-jump-to-ltr.svg 
 ln -sf format-justify-left.svg gtk-justify-left.svg 
@@ -55,7 +87,10 @@ ln -sf dialog-ok.svg gtk-yes.svg
 ln -sf zoom-best-fit.svg gtk-zoom-fit.svg 
 ln -sf gtk-about.svg help-about.svg 
 ln -sf help.svg help-contents.svg 
-ln -sf gtk-goto-last-ltr.svg last.svg 
+ln -sf last.svg gtk-goto-last-ltr.svg 
+ln -sf last.svg gtk-goto-last.svg
+ln -sf last.svg gtk_stock_goto_last.svg
+
 ln -sf back.svg left.svg 
 ln -sf add.svg list-add.svg 
 ln -sf gtk-cancel.svg list-remove
@@ -88,6 +123,50 @@ ln -sf zoom-best-fit.svg zoom-fit.svg
 ln -sf gtk-zoom-in.svg zoom-in.svg 
 ln -sf gtk-zoom-100.svg zoom-original.svg 
 ln -sf gtk-zoom-out.svg zoom-out.svg 
+ln -sf gtk-bold.svg format-text-bold.svg
+ln -sf gtk-indent-ltr.svg format-indent-more.svg
+ln -sf gtk-indent-ltr.svg gnome-stock-text-indent.svg
+ln -sf gtk-indent-ltr.svg gtk-unindent-rtl.svg
+ln -sf gtk-indent-ltr.svg stock_text_indent.svg
+ln -sf gtk-indent-rtl.svg format-indent-less.svg
+ln -sf gtk-indent-rtl.svg gnome-stock-text-unindent.svg
+ln -sf gtk-indent-rtl.svg gtk-unindent-ltr.svg
+ln -sf gtk-indent-rtl.svg gtk-unindent.svg
+ln -sf gtk-indent-rtl.svg stock_text_unindent.svg
+ln -sf gtk-underline.svg format-text-underline.svg
+ln -sf gtk-strikethrough.svg format-text-strikethrough.svg
+ln -sf gtk-strikethrough.svg stock_text-strikethrough.svg
+ln -sf view-sort-ascending.svg gtk-sort-ascending.svg
+ln -sf view-sort-descending.svg gtk-sort-descending.svg
+ln -sf gtk-media-play-ltr.svg media-playback-start.svg
+ln -sf gtk-media-play-ltr.svg gtk_stock_media_play.svg
+ln -sf gtk-media-play-ltr.svg gtk-media-play.svg
+ln -sf gtk-media-pause.svg media-playback-pause.svg
+ln -sf gtk-media-pause.svg gtk_stock_media_pause.svg
+ln -sf gtk-media-stop.svg media-playback-stop.svg
+ln -sf gtk-media-record.svg media-record.svg
+ln -sf gtk-media-forward.rtl.svg media-seek-backward.svg
+ln -sf gtk-media-forward.rtl.svg gtk-media-rewind.svg
+ln -sf gtk-media-forward.rtl.svg gtk-media-rewind-ltr.svg
+ln -sf gtk-media-forward.rtl.svg gtk-media-forward-rtl.svg
+ln -sf gtk-media-forward.rtl.svg gtk_stock_media_rewind.svg
+ln -sf gtk-media-forward.rtl.svg player_rew.svg
+ln -sf gtk-media-forward.rtl.svg stock_media-rew.svg
+ln -sf gtk-media-forward.ltr.svg media-seek-forward.svg
+ln -sf gtk-media-forward.ltr.svg gtk-media-forward.svg
+ln -sf gtk-media-forward.ltr.svg gtk-media-rewind-rtl.svg
+ln -sf gtk-media-forward.ltr.svg gtk-media-forward-ltr.svg
+ln -sf gtk-media-forward.ltr.svg gtk_stock_media_forward.svg
+ln -sf gtk-media-forward.ltr.svg player_fwd.svg
+ln -sf gtk-media-forward.ltr.svg stock_media-fwd.svg
+ln -sf gtk-media-next-ltr.svg gtk-media-previus-rtl.svg
+ln -sf gtk-media-next-ltr.svg player_end.svg
+ln -sf gtk-media-next-ltr.svg stock_media-next.svg
+ln -sf gtk-media-next-ltr.svg media-skip-forward.svg
+ln -sf gtk-media-next-rtl.svg gtk-media-previous-ltr.svg
+ln -sf gtk-media-next-rtl.svg media-skip-backward.svg
+ln -sf gtk-media-next-rtl.svg player_start.svg
+ln -sf gtk-media-next-rtl.svg stock_media-prev.svg
 cd ../
 
 # Enlaces para la carpeta Apps
@@ -107,12 +186,38 @@ cd ../
 cd devices/
 ln -sf drive-harddisk.svg drive-harddisk-system.svg 
 ln -sf drive-cdrom.svg drive-optical.svg 
+ln -sf drive-cdrom.svg dvd-unmount.svg
+ln -sf drive-cdrom.svg gnome-dev-cdrom-audio.svg
+ln -sf drive-cdrom.svg gnome-dev-disc-cdr.svg
+ln -sf drive-cdrom.svg gnome-dev-disc-cdrw.svg
+ln -sf drive-cdrom.svg gtk-cdrom.svg
+ln -sf drive-cdrom.svg media-cdrom.svg
+ln -sf drive-cdrom.svg media-optical.svg
+ln -sf drive-dvdrom.svg gnome-dev-disc-dvdr.svg
+ln -sf drive-dvdrom.svg gnome-dev-disc-dvdram.svg
+ln -sf drive-dvdrom.svg gnome-dev-disc-dvdrom.svg
+ln -sf drive-dvdrom.svg gnome-dev-disc-dvdr-plus.svg
+ln -sf drive-dvdrom.svg gnome-dev-disc-dvdrw.svg
 ln -sf drive-removable-media.svg drive-usb.svg 
+
 cd ../
 
 # Enlaces para la carpeta Emblems
 
 # Enlaces para la carpeta Mimetypes
+cd mimetypes/
+ln -sf text-x-generic-template.svg text-x-generic.svg
+ln -sf text-x-generic-template.svg ascii.svg
+ln -sf text-x-generic-template.svg empty.svg
+ln -sf text-x-generic-template.svg gnome-mime-text.svg
+ln -sf text-x-generic-template.svg mime_ascii.svg
+ln -sf text-x-generic-template.svg misc.svg
+ln -sf text-x-generic-template.svg package_editors.svg
+ln -sf text-x-generic-template.svg txt.svg
+ln -sf text-x-generic-template.svg txt2.svg
+ln -sf text-x-generic-template.svg unknown.svg
+cd ../
+
 
 # Enlaces para la carpeta Places
 cd places/
@@ -132,6 +237,21 @@ cd ../
 # Enlaces para la carpeta Status
 cd status/
 ln -sf image-missing.svg gtk-missing-image.svg 
+ln -sf dialog-password.svg gtk-dialog-authentication.svg
+ln -sf dialog-error.svg error.svg
+ln -sf dialog-error.svg messagebox_critical.svg
+ln -sf dialog-error.svg stock_dialog-error.svg
+ln -sf dialog-error.svg gtk-dialog-error.svg
+ln -sf dialog-information.svg gtk-dialog-info.svg
+ln -sf dialog-information.svg info.svg
+ln -sf dialog-information.svg messagebox_info.svg
+ln -sf dialog-information.svg stock_dialog-info.svg
+ln -sf dialog-question.svg gtk-dialog-question.svg
+ln -sf dialog-question.svg stock_dialog-question.svg
+ln -sf dialog-warning.svg gtk-dialog-warning.svg
+ln -sf dialog-warning.svg messagebox_warning.svg
+ln -sf dialog-warning.svg stock_dialog-warning.svg
+
 cd ../
 
 echo "Listo!"
