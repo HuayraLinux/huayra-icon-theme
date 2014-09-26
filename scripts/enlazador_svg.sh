@@ -65,7 +65,6 @@ ln -sf gtk-justify-fill.svg stock_text_justify.svg
 
 ln -sf gtk-justify-right.svg format-justify-right.svg
 ln -sf gtk-justify-right.svg stock_text_right.svg
-
 ln -sf dialog-cancel.svg button_cancel.svg
 ln -sf dialog-cancel.svg cancel.svg
 ln -sf dialog-cancel.svg gtk-cancel.svg
