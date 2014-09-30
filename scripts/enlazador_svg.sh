@@ -294,7 +294,16 @@ ln -sf dialog-question.svg stock_dialog-question.svg
 ln -sf dialog-warning.svg gtk-dialog-warning.svg
 ln -sf dialog-warning.svg messagebox_warning.svg
 ln -sf dialog-warning.svg stock_dialog-warning.svg
-
+ln -sf network-idle.svg connect_established.svg
+ln -sf network-idle.svg gnome-netstatus-idle.svg
+ln -sf network-transmit-receive.svg connect_creating.svg
+ln -sf network-transmit-receive.svg gnome-netstatus-txrx.svg
+ln -sf network-offline.svg connect_no.svg
+ln -sf network-offline.svg gnome-netstatus-disconn.svg
+ln -sf network-offline.svg nm-no-connection.svg
+ln -sf network-error.svg gnome-netstatus-error.svg
+ln -sf network-receive.svg gnome-netstatus-rx.svg
+ln -sf network-transmit.svg gnome-netstatus-tx.svg
 cd ../
 
 echo "Listo!"
