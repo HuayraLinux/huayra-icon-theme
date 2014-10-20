@@ -191,9 +191,9 @@ cd ../
 
 # Enlaces para la carpeta Apps
 cd apps/
-ln -sf ../categories/applications-other.svg preferences-other.svg
-ln -sf ../categories/applications-accessories.svg gnome-util.svg
-ln -sf ../categories/applications-system.svg gnome-system.svg
+ln -sf ../categories/huayra-menu-other.svg preferences-other.svg
+ln -sf ../categories/huayra-menu-accesories.svg gnome-util.svg
+ln -sf ../categories/huayra-menu-system-tools.svg gnome-system.svg
 cd ../
 
 # Enlaces para la carpeta Categories
