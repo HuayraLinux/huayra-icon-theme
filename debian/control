@@ -1,10 +1,12 @@
 Source: huayra-icon-theme
 Section: misc
 Priority: optional
-Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Maintainer: Ivan Hoffmann <digital.h@gmail.com>
 Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape, imagemagick
+Homepage: https://github.com/HuayraLinux/huayra-icon-theme
+Vcs-Git: https://github.com/HuayraLinux/huayra-icon-theme.git
 
 Package: huayra-icon-theme-all
 Depends: ${misc:Depends},
