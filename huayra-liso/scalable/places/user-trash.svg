@@ -186,18 +186,6 @@
          offset="1"
          id="stop3772" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3904"
-       x="-1.2125035"
-       width="3.4250071"
-       y="-0.97591886"
-       height="2.9518377">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="33.683982"
-         id="feGaussianBlur3906" />
-    </filter>
     <linearGradient
        id="linearGradient3844-9">
       <stop
@@ -287,7 +275,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1984625"
-     inkscape:cx="-21.926337"
+     inkscape:cx="-18.588727"
      inkscape:cy="105.6612"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -317,19 +305,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.3622)">
-    <path
-       style="fill:#e6f8f8;fill-opacity:1;stroke:none"
-       d="M 69.959581,1048.0915 C 53.015059,1048.1706 42.109,1037.0221 39.373849,1020.2993 L 9.2697736,836.25669 C 3.9287179,803.60337 22.911063,805.67095 39.855662,805.67095 l 173.940388,0 c 16.94452,0 36.67906,2.39189 30.5859,30.58574 L 204.95642,1018.681 c -1.12514,1.6902 -4.76657,29.5653 -24.53408,29.1605 z"
-       id="rect4183-6-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssssccs" />
-    <rect
-       style="fill:#ffb380;fill-opacity:1;stroke:none"
-       id="rect4186-6-1"
-       width="201.4828"
-       height="28.65057"
-       x="24.793333"
-       y="816.86798"
-       ry="14.325284" />
+    <g
+       transform="matrix(7.8425508,0,0,7.8425508,-5126.8174,-3005.8108)"
+       id="g3708">
+      <path
+         sodipodi:nodetypes="ssssssccs"
+         inkscape:connector-curvature="0"
+         id="rect4183-6-2"
+         d="m 662.85918,516.92707 c -2.16847,0.005 -3.56417,-1.41661 -3.9142,-3.55667 l -3.85256,-23.55282 c -0.68352,-4.17881 1.74574,-3.91422 3.91422,-3.91422 l 22.25997,0 c 2.16847,0 4.69399,0.30615 3.91422,3.91422 l -5.04547,23.34576 c -0.14399,0.21628 -0.61,3.78352 -3.13974,3.73172 z"
+         style="fill:#919c9c;fill-opacity:1;stroke:none" />
+      <rect
+         ry="1.8332741"
+         y="487.33633"
+         x="657.0791"
+         height="3.6665483"
+         width="25.7847"
+         id="rect4186-6-2"
+         style="fill:#e6f8f8;fill-opacity:1;stroke:none" />
+    </g>
   </g>
 </svg>
