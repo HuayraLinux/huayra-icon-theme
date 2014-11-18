@@ -1,3 +1,10 @@
+huayra-icon-theme (8.33) torbellino; urgency=low
+
+  * Se corrió el script enlazador en Huayra Liso.
+  * Correcciones en Makefile para que cree los png de Huayra Liso.  
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Tue, 18 Nov 2014 12:02:49 -0300
+
 huayra-icon-theme (8.32) torbellino; urgency=low
 
   * Se agregó Huayra Liso al empaquetado para Huayra 3. 
