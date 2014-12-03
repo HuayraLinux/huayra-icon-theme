@@ -73,7 +73,19 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
-     id="defs7386" />
+     id="defs7386">
+    <clipPath
+       id="clipPath6279-6-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="26.85"
+         y="220.75"
+         id="rect6281-3-1"
+         height="6.3750005"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
+         width="3.8250003" />
+    </clipPath>
+  </defs>
   <g
      inkscape:label="status"
      transform="translate(-201.0002,-177)"
@@ -95,7 +107,7 @@
        d="m 211.00006,187.8003 1.10004,0 0.90003,0.87503 0.87504,-0.87503 1.12503,0 0,1.17504 -0.87502,0.85004 0.87502,0.85002 0,1.12504 -1.15004,0 -0.85003,-0.85002 -0.85002,0.85002 -1.15005,0 0,-1.12504 0.85004,-0.85002 -0.85004,-0.85004 0,-1.17504 z"
        id="path3761-2-3-5-4-8-9-8-9-9"
        sodipodi:nodetypes="ccccccccccccccccc"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       style="color:#bebebe;fill:#ff7373;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
   </g>
   <g
      inkscape:label="devices"
