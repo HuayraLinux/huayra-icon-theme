@@ -1,7 +1,6 @@
 [Icon Theme]
 Name=Huayra-Accesible
-
-Inherits=mate,crystalsvg
+Inherits=adwaita,gnome,hicolor
 Example=folder
 
 Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,48x48/animations,scalable/actions-extra,scalable/apps-extra,scalable/categories-extra,scalable/devices-extra,scalable/emblems-extra,scalable/emotes-extra,scalable/mimetypes-extra,scalable/places-extra,scalable/status-extra
