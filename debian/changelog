@@ -1,3 +1,10 @@
+huayra-icon-theme (8.36) torbellino; urgency=medium
+
+  * Arreglos en index.theme de todos los temas para que hereden adwaita,
+    gnome y hicolor como backend. (Matias De Lellis: mati86dl@gmail.com).
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Tue, 20 Jan 2015 10:10:49 -0300
+
 huayra-icon-theme (8.35) torbellino; urgency=medium
 
   * Correcciones en tema de iconos Huayr Liso (Claudio "malefico" Andaur).
