@@ -187,6 +187,9 @@ ln -sf gtk-media-next-rtl.svg media-skip-backward.svg
 ln -sf gtk-media-next-rtl.svg player_start.svg
 ln -sf gtk-media-next-rtl.svg stock_media-prev.svg
 ln -sf gtk-leave-fullscreen.svg view-restore.svg
+ln -sf system-shutdown.svg gnome-logout.svg
+ln -sf system-shutdown.svg gnome-session-logout.svg
+ln -sf gnome-control-center.svg configuration-section.svg
 cd ../
 
 # Enlaces para la carpeta Apps
