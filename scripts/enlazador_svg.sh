@@ -232,16 +232,16 @@ cd ../
 
 # Enlaces para la carpeta Mimetypes
 cd mimetypes/
-ln -sf text-x-generic-template.svg text-x-generic.svg
-ln -sf text-x-generic-template.svg ascii.svg
-ln -sf text-x-generic-template.svg empty.svg
-ln -sf text-x-generic-template.svg gnome-mime-text.svg
-ln -sf text-x-generic-template.svg mime_ascii.svg
-ln -sf text-x-generic-template.svg misc.svg
-ln -sf text-x-generic-template.svg package_editors.svg
-ln -sf text-x-generic-template.svg txt.svg
-ln -sf text-x-generic-template.svg txt2.svg
-ln -sf text-x-generic-template.svg unknown.svg
+#ln -sf text-x-generic-template.svg text-x-generic.svg
+#ln -sf text-x-generic-template.svg ascii.svg
+#ln -sf text-x-generic-template.svg empty.svg
+#ln -sf text-x-generic-template.svg gnome-mime-text.svg
+#ln -sf text-x-generic-template.svg mime_ascii.svg
+#ln -sf text-x-generic-template.svg misc.svg
+#ln -sf text-x-generic-template.svg package_editors.svg
+#ln -sf text-x-generic-template.svg txt.svg
+#ln -sf text-x-generic-template.svg txt2.svg
+#ln -sf text-x-generic-template.svg unknown.svg
 cd ../
 
 
