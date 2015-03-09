@@ -232,16 +232,80 @@ cd ../
 
 # Enlaces para la carpeta Mimetypes
 cd mimetypes/
-#ln -sf text-x-generic-template.svg text-x-generic.svg
-#ln -sf text-x-generic-template.svg ascii.svg
-#ln -sf text-x-generic-template.svg empty.svg
-#ln -sf text-x-generic-template.svg gnome-mime-text.svg
-#ln -sf text-x-generic-template.svg mime_ascii.svg
-#ln -sf text-x-generic-template.svg misc.svg
-#ln -sf text-x-generic-template.svg package_editors.svg
-#ln -sf text-x-generic-template.svg txt.svg
-#ln -sf text-x-generic-template.svg txt2.svg
-#ln -sf text-x-generic-template.svg unknown.svg
+
+ln -sf exec.svg application-x-executable.svg
+ln -sf exec.svg binary.svg
+ln -sf exec.svg gnome-mime-application-x-ms-dos-executable.svg
+ln -sf exec.svg gnome-fs-executable.svg
+
+ln -sf font.svg font_bitmap.svg
+ln -sf font.svg font_truetype.svg
+ln -sf font.svg font_type1.svg
+ln -sf font.svg font-x-generic.svg
+ln -sf font.svg gnome-mime-application-x-font-afm.svg
+ln -sf font.svg gnome-mime-application-x-font-bdf.svg
+ln -sf font.svg gnome-mime-application-x-font-linux-psf.svg
+ln -sf font.svg gnome-mime-application-x-font-pcf.svg
+ln -sf font.svg gnome-mime-application-x-font-sunos-news.svg
+ln -sf font.svg gnome-mime-application-x-font-ttf.svg
+
+ln -sf ascii.svg mime_ascii.svg
+
+ln -sf text-x-generic.svg txt.svg
+ln -sf text-x-generic.svg txt2.svg
+ln -sf text-x-generic.svg gnome-mime-text.svg
+
+ln -sf empty.svg text-x-preview.svg 
+
+ln -sf x-office-document.svg package-wordprocessing.svg
+ln -sf x-office-document.svg wordprocessing.svg
+ln -sf x-office-document.svg gnome-mime-application-x-tex.svg
+
+ln -sf text-x-script.svg shellscript.svg
+ln -sf text-x-script.svg gnome-mime-text-x-csh.svg
+ln -sf text-x-script.svg gnome-mime-text-x-python.svg
+ln -sf text-x-script.svg gnome-mime-text-x-sh.svg
+ln -sf text-x-script.svg gnome-mime-text-x-zsh.svg
+ln -sf text-x-script.svg stock_script.svg
+ln -sf text-x-script.svg gnome-mime-application-x-shellscript.svg
+ln -sf text-x-script.svg gnome-mime-application-x-perl.svg
+ln -sf text-x-script.svg gnome-mime-application-x-python-bytecode.svg
+
+ln -sf text-html.svg gnome-mime-text-html.svg
+ln -sf text-html.svg www.svg
+ln -sf text-html.svg gnome-mime-text-vnd.wap.wml.svg
+
+ln -sf image.svg image-x-generic.svg
+ln -sf image.svg gnome-mime-image.svg
+
+ln -sf package-x-generic.svg package-editors.svg
+ln -sf package-x-generic.svg package.svg
+ln -sf package-x-generic.svg rpm.svg
+ln -sf package-x-generic.svg gnome-package.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-stuffit.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-tar.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-tarz.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-zip.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-rar.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-rpm.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-jar.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-lha.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-lhz.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-lzma.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-lzma-compressed-tar.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-gzip.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-archive.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-arj.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-bzip.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-compress.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-compressed-tar.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-cpcio.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-cpcio-compressed.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-deb.svg
+ln -sf package-x-generic.svg gnome-mime-application-x-7z-compressed.svg
+ln -sf package-x-generic.svg deb.svg
+ln -sf package-x-generic.svg folder_tar.svg
+
 cd ../
 
 
