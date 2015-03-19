@@ -125,6 +125,7 @@ ln -sf folder-new.svg stock_new-dir.svg
 ln -sf gtk_new-window.svg stock_new-window.svg 
 ln -sf forward.svg stock_right.svg 
 ln -sf gtk-spell-check.svg stock_spellcheck.svg 
+ln -sf gtk-spell-check.svg stock-spellcheck.svg 
 ln -sf execute.svg system-run.svg 
 ln -sf edit-find.svg system-search.svg 
 ln -sf file-new.svg tab-new.svg 
@@ -190,13 +191,18 @@ ln -sf gtk-leave-fullscreen.svg view-restore.svg
 ln -sf system-shutdown.svg gnome-logout.svg
 ln -sf system-shutdown.svg gnome-session-logout.svg
 ln -sf gnome-control-center.svg configuration-section.svg
+ln -sf ../categories/applications-system.svg gnome-system.svg
+ln -sf ../categories/huayra-menu-accesories.svg gnome-util.svg
 cd ../
 
 # Enlaces para la carpeta Apps
 cd apps/
 ln -sf ../categories/huayra-menu-other.svg preferences-other.svg
-ln -sf ../categories/huayra-menu-accesories.svg gnome-util.svg
-ln -sf ../categories/huayra-menu-system-tools.svg gnome-system.svg
+ln -sf ../categories/applications-accesories.svg gnome-util.svg
+ln -sf ../categories/applications-system.svg gnome-system.svg
+ln -sf utilities-terminal-symbolic.svg gnome-terminal.svg
+ln -sf utilities-terminal-symbolic.svg openterm.svg
+ln -sf utilities-terminal-symbolic.svg terminal.svg
 cd ../
 
 # Enlaces para la carpeta Categories
@@ -325,13 +331,13 @@ ln -sf folder-publicshare.svg gnome-fs-ssh.svg
 ln -sf folder-publicshare.svg gnome-mime-x-directory-smb-share.svg
 ln -sf folder-publicshare.svg network.svg
 ln -sf folder-movies.svg folder-videos.svg 
-ln -sf network-server.svg network-workgroup.svg 
 ln -sf network-server.svg gnome-fs-network.svg
 ln -sf network-server.svg gnome-mime-x-directory-smb-workgroup.svg
 ln -sf network-server.svg gtk-network.svg
 ln -sf network-server.svg gtk_stock_network.svg
 ln -sf network-server.svg network_local.svg
 ln -sf desktop.svg other-desktop.svg 
+ln -sf desktop.svg user-desktop.svg 
 ln -sf start-here.svg start-here-symbolic.svg 
 ln -sf start-here.svg distributor-logo.svg
 ln -sf start-here.svg gnome-main-menu.svg

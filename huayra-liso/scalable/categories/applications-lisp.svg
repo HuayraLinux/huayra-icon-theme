@@ -14,7 +14,7 @@
    width="96"
    height="96"
    id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="applications-lisp.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,8 +25,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1914"
-     inkscape:window-height="1031"
+     inkscape:window-width="1913"
+     inkscape:window-height="1026"
      id="namedview542"
      showgrid="false"
      inkscape:zoom="6.0155695"
@@ -945,18 +945,6 @@
        x2="187.12892"
        y2="49.957302"
        gradientTransform="matrix(1.0011307,0.36973275,-0.36973275,1.0011307,-198.06362,-55.938498)" />
-    <filter
-       inkscape:collect="always"
-       id="filter3956"
-       x="-0.31476212"
-       width="1.6295242"
-       y="-0.91115474"
-       height="2.8223095">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.7869897"
-         id="feGaussianBlur3958" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3465"
@@ -2708,7 +2696,7 @@
   </g>
   <path
      style="fill:#cd9067;fill-opacity:1;stroke:none"
-     d="M 17.503638,33.68172 1.6792309,51.009217 1.2820009,78.758343 C 1.1464609,89.175807 8.7247494,91.602008 16.600371,91.56922 L 49.235159,91.433237 84.392814,53.018033 C 81.139303,46.004167 74.147008,42.152874 72.1664,38.314188 c 0.555551,-2.412079 6.779926,-2.359502 11.999787,-2.743664 l -1.116833,-0.05209 -2.22419,-0.723175 -1.899691,-1.53396 z"
+     d="M 17.503638,33.68172 1.6792309,51.009217 1.2820009,78.758343 C 1.1464609,89.175807 8.7247494,91.602008 16.600371,91.56922 L 49.235159,91.433237 85.390226,43.708856 c -3.253511,-7.013866 -3.097688,-4.049511 -5.078296,-7.888197 0.555551,-2.412079 -1.365604,0.134027 3.854257,-0.250135 l -1.116833,-0.05209 -2.22419,-0.723175 -1.899691,-1.53396 z"
      id="path8893-0-6-5-3-2-0-4-2-7-2-0-6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccscccccccc" />
@@ -2723,5 +2711,5 @@
        id="tspan3300-5"
        x="14.697765"
        y="54.946342"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b3ff5e;fill-opacity:1;font-family:Unresponsive BRK;-inkscape-font-specification:Unresponsive BRK Medium">LIBS</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b3ff5e;fill-opacity:1;font-family:Unresponsive BRK;-inkscape-font-specification:Unresponsive BRK Medium">LISP</tspan></text>
 </svg>
