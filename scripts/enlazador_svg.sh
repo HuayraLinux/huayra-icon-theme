@@ -282,6 +282,7 @@ ln -sf font.svg gnome-mime-application-x-font-linux-psf.svg
 ln -sf font.svg gnome-mime-application-x-font-pcf.svg
 ln -sf font.svg gnome-mime-application-x-font-sunos-news.svg
 ln -sf font.svg gnome-mime-application-x-font-ttf.svg
+ln -sf font.svg gnome-mime-x-font-afm.svg
 ln -sf image.svg image-x-generic.svg
 ln -sf image.svg gnome-mime-image.svg
 ln -sf package-x-generic.svg package-editors.svg
@@ -314,6 +315,8 @@ ln -sf package-x-generic.svg folder_tar.svg
 ln -sf text-x-generic.svg txt.svg
 ln -sf text-x-generic.svg txt2.svg
 ln -sf text-x-generic.svg gnome-mime-text.svg
+ln -sf text-x-generic-template.svg package_editors.svg
+ln -sf text-x-generic-template.svg template_source.svg
 ln -sf text-x-script.svg shellscript.svg
 ln -sf text-x-script.svg gnome-mime-text-x-csh.svg
 ln -sf text-x-script.svg gnome-mime-text-x-python.svg
@@ -329,6 +332,7 @@ ln -sf text-html.svg gnome-mime-text-vnd.wap.wml.svg
 ln -sf x-office-document.svg package-wordprocessing.svg
 ln -sf x-office-document.svg wordprocessing.svg
 ln -sf x-office-document.svg gnome-mime-application-x-tex.svg
+ln -sf x-office-spreadsheet.svg spreadsheet.svg
 
 cd ../
 
