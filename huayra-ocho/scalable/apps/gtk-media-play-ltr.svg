@@ -11,9 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
    height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gtk-media-play-ltr.svg">
   <defs
      id="defs4" />
@@ -24,17 +25,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5686441"
-     inkscape:cx="76.60838"
-     inkscape:cy="111.42857"
+     inkscape:zoom="1.979899"
+     inkscape:cx="41.895394"
+     inkscape:cy="174.59477"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1031"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       spacingx="2"
+       spacingy="2"
+       empspacing="8"
+       dotted="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,56 +60,107 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-796.36218)">
-    <g
-       id="g4051"
-       transform="matrix(24.664279,0,0,24.664279,-69.662025,727.71519)"
-       style="fill:#4ecae9;fill-opacity:1">
-      <g
-         style="display:inline;fill:#4ecae9;fill-opacity:1"
-         id="layer9-8"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="status" />
-      <g
-         id="layer10-8"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="devices"
-         style="fill:#4ecae9;fill-opacity:1" />
-      <g
-         id="layer11-1"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="apps"
-         style="fill:#4ecae9;fill-opacity:1" />
-      <g
-         id="layer12-2"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="actions"
-         style="fill:#4ecae9;fill-opacity:1">
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-           sodipodi:nodetypes="ccccccsccccc"
-           id="path3807-1-1-9-38-4"
-           d="m 84,609 0,10 0.90625,0 L 85,619 c 0.174914,10e-4 0.347782,-0.0388 0.5,-0.125 l 7,-4 c 0.310699,-0.17189 0.46875,-0.52345 0.46875,-0.875 0,-0.35155 -0.158051,-0.70311 -0.46875,-0.875 l -7,-4 C 85.347782,609.03875 85.174914,608.99869 85,609 l -0.09375,0 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="layer13-1"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="places"
-         style="fill:#4ecae9;fill-opacity:1" />
-      <g
-         id="layer14-4"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="mimetypes"
-         style="fill:#4ecae9;fill-opacity:1" />
-      <g
-         style="display:inline;fill:#4ecae9;fill-opacity:1"
-         id="layer15-9"
-         transform="translate(-79.99995,-606)"
-         inkscape:label="emblems" />
-    </g>
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159"
+       width="16"
+       height="16"
+       x="32"
+       y="16" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-9"
+       width="16"
+       height="16"
+       x="48"
+       y="16" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-5"
+       width="16"
+       height="16"
+       x="64"
+       y="16" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-61"
+       width="32"
+       height="16"
+       x="176"
+       y="80" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-0"
+       width="16"
+       height="32"
+       x="224"
+       y="112" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-7"
+       width="48"
+       height="64"
+       x="176"
+       y="96" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-2"
+       width="32"
+       height="16"
+       x="176"
+       y="160" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-12"
+       width="48"
+       height="192"
+       x="32"
+       y="32" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-92"
+       width="16"
+       height="16"
+       x="32"
+       y="224" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-96"
+       width="16"
+       height="16"
+       x="48"
+       y="224" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-10"
+       width="16"
+       height="16"
+       x="64"
+       y="224" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-02"
+       width="32"
+       height="192"
+       x="80"
+       y="32" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-81"
+       width="32"
+       height="160"
+       x="112"
+       y="48" />
+    <rect
+       style="opacity:1;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-35"
+       width="32"
+       height="128"
+       x="144"
+       y="64" />
   </g>
 </svg>
