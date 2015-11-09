@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="applets-screenshooter-symbolic.svg"
-   width="16"
-   height="16.000002"
-   id="svg7384"
+   inkscape:version="0.48.5 r10040"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886">
+   id="svg7384"
+   width="15.999999"
+   height="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -28,47 +28,47 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:snap-others="false"
-     inkscape:cx="339.84678"
-     inkscape:cy="51.323752"
-     inkscape:window-x="316"
-     inkscape:window-y="25"
-     inkscape:zoom="1"
-     inkscape:window-height="1031"
-     bordercolor="#666666"
-     pagecolor="#555753"
-     guidetolerance="10"
-     inkscape:object-nodes="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-bbox="true"
-     borderopacity="1"
-     objecttolerance="10"
-     inkscape:pageshadow="2"
-     inkscape:object-paths="true"
-     inkscape:window-maximized="0"
-     gridtolerance="10"
-     showgrid="false"
-     inkscape:snap-nodes="true"
-     inkscape:bbox-paths="false"
+     guidetolerance="10"
      inkscape:snap-to-guides="true"
-     id="namedview88"
-     showguides="true"
-     inkscape:snap-global="true"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-grids="true"
-     inkscape:pageopacity="1"
-     showborder="false"
+     inkscape:object-paths="false"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-maximized="1"
+     inkscape:zoom="6.6457447"
+     pagecolor="#f9fff3"
+     gridtolerance="10"
      inkscape:current-layer="layer11"
-     inkscape:window-width="1598">
+     inkscape:window-height="1031"
+     inkscape:snap-others="false"
+     bordercolor="#666666"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-width="1914"
+     inkscape:bbox-paths="false"
+     inkscape:snap-global="true"
+     inkscape:pageopacity="1"
+     showgrid="true"
+     id="namedview88"
+     showborder="true"
+     inkscape:cx="57.111921"
+     inkscape:cy="12.911497"
+     objecttolerance="10"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-nodes="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true">
     <inkscape:grid
-       empspacing="2"
-       visible="true"
        type="xygrid"
        enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true"
        spacingx="1px"
        spacingy="1px"
        id="grid4866"
-       snapvisiblegridlinesonly="true" />
+       empspacing="2" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -76,29 +76,29 @@
      id="defs7386" />
   <g
      inkscape:label="status"
-     transform="translate(-162.0002,-530)"
+     id="layer9"
      style="display:inline"
-     inkscape:groupmode="layer"
-     id="layer9" />
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="devices"
-     transform="translate(-162.0002,-530)"
-     inkscape:groupmode="layer"
-     id="layer10" />
+     id="layer10"
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="apps"
-     transform="translate(-162.0002,-530)"
-     inkscape:groupmode="layer"
-     id="layer11">
+     id="layer11"
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer">
     <path
        sodipodi:nodetypes="ssccsssccssss"
-       d="m 176.0002,530 c 1.19992,0 2,0.7984 2,2 l 0,4 -2,0 0,-3.75 c 0,-0.1238 -0.0566,-0.25 -0.1875,-0.25 l -11.625,0 c -0.1309,0 -0.1875,0.1262 -0.1875,0.25 l 0,11.75 c -1.19992,0 -2,-0.9234 -2,-2.125 l 0,-9.875 c 0,-1.2016 0.80008,-2 2,-2 z"
+       d="m 258.0002,509 c 1.19992,0 2,0.7984 2,2 l 0,4 -2,0 0,-3.75 c 0,-0.1238 -0.0566,-0.25 -0.1875,-0.25 l -11.625,0 c -0.1309,0 -0.1875,0.1262 -0.1875,0.25 l 0,11.75 c -1.19992,0 -2,-0.9234 -2,-2.125 l 0,-9.875 c 0,-1.2016 0.80008,-2 2,-2 z"
        inkscape:connector-curvature="0"
        style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5238-9" />
     <path
        sodipodi:nodetypes="scccsssssssccsssssss"
-       d="m 169.2502,536 c -0.47139,0 -0.74314,0.54175 -0.75,1 l 0,1 -2.5,0 c -0.46865,0.0651 -1,0.5417 -1,1 l 0,6 c 0,0.4583 0.52685,1 1,1 l 10,0 c 0.47315,0 1,-0.5417 1,-1 l 0,-6 c 0,-0.4583 -0.52685,-1 -1,-1 l -2.5,0 0,-1 c 0,-0.4583 -0.34111,-1 -0.8125,-1 z m 1.75,3 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z"
+       d="m 251.2502,515 c -0.47139,0 -0.74314,0.54175 -0.75,1 l 0,1 -2.5,0 c -0.46865,0.0651 -1,0.5417 -1,1 l 0,6 c 0,0.4583 0.52685,1 1,1 l 10,0 c 0.47315,0 1,-0.5417 1,-1 l 0,-6 c 0,-0.4583 -0.52685,-1 -1,-1 l -2.5,0 0,-1 c 0,-0.4583 -0.34111,-1 -0.8125,-1 z m 1.75,3 c 1.65685,0 3,1.34315 3,3 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,-1.65685 1.34315,-3 3,-3 z"
        inkscape:connector-curvature="0"
        style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5238-8" />
@@ -107,44 +107,140 @@
        sodipodi:cy="10.335032"
        sodipodi:rx="0.96899819"
        sodipodi:ry="1.335031"
-       d="m -3.7537768,10.335032 c 0,0.737318 -0.4338353,1.335031 -0.9689982,1.335031 -0.5351629,0 -0.9689982,-0.597713 -0.9689982,-1.335031 0,-0.7373168 0.4338353,-1.3350306 0.9689982,-1.3350306 0.5351629,0 0.9689982,0.5977138 0.9689982,1.3350306 z"
+       d="m -3.7537768,10.335032 a 0.96899819,1.335031 0 1 1 -1.9379964,0 0.96899819,1.335031 0 1 1 1.9379964,0 z"
        sodipodi:type="arc"
-       transform="matrix(2.0639875,0,0,1.4980924,180.74795,526.51717)"
+       transform="matrix(2.0639875,0,0,1.4980924,262.74795,505.51717)"
        style="fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path2998" />
+    <rect
+       style="fill:#4ecae9;fill-opacity:1;stroke:none"
+       id="rect3056"
+       width="16"
+       height="2"
+       x="0"
+       y="0"
+       transform="translate(223.0002,509)" />
+    <rect
+       style="fill:#4ecae9;fill-opacity:1;stroke:none"
+       id="rect3056-0"
+       width="14"
+       height="2"
+       x="509"
+       y="-225.0002"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#4ecae9;fill-opacity:1;stroke:none"
+       id="rect3056-0-8"
+       width="6"
+       height="2"
+       x="509"
+       y="-239.0002"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#4ecae9;fill-opacity:1;stroke:none"
+       id="rect3096"
+       width="4.9999967"
+       height="2"
+       x="229.0002"
+       y="515" />
+    <rect
+       style="fill:#4ecae9;fill-opacity:1;stroke:none"
+       id="rect3567"
+       width="11.000002"
+       height="8"
+       x="226.0002"
+       y="517" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3571"
+       width="3"
+       height="1"
+       x="230.0002"
+       y="518.45618" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3571-3"
+       width="3"
+       height="1"
+       x="230.0002"
+       y="522.45618" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3571-3-3"
+       width="3"
+       height="1"
+       x="-522.45618"
+       y="234.0002"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3571-3-3-8"
+       width="3"
+       height="1"
+       x="-522.45618"
+       y="228.0002"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3627"
+       width="1"
+       height="1"
+       x="229.0002"
+       y="518.92957" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3627-3"
+       width="1"
+       height="1"
+       x="229.0002"
+       y="521.94672" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3627-3-1"
+       width="1"
+       height="1"
+       x="233.0002"
+       y="522" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3627-3-1-3"
+       width="1"
+       height="1"
+       x="233.0002"
+       y="518.93732" />
   </g>
   <g
      inkscape:label="places"
-     transform="translate(-162.0002,-530)"
-     inkscape:groupmode="layer"
-     id="layer13" />
+     id="layer13"
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="mimetypes"
-     transform="translate(-162.0002,-530)"
-     inkscape:groupmode="layer"
-     id="layer14" />
+     id="layer14"
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="emblems"
-     transform="translate(-162.0002,-530)"
+     id="layer15"
      style="display:inline"
-     inkscape:groupmode="layer"
-     id="layer15" />
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="emotes"
-     transform="translate(-162.0002,-530)"
+     id="g71291"
+     transform="translate(-223.0002,-509)"
      style="display:inline"
-     inkscape:groupmode="layer"
-     id="g71291" />
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="categories"
-     transform="translate(-162.0002,-530)"
+     id="g4953"
      style="display:inline"
-     inkscape:groupmode="layer"
-     id="g4953" />
+     transform="translate(-223.0002,-509)"
+     inkscape:groupmode="layer" />
   <g
      inkscape:label="actions"
-     transform="translate(-162.0002,-530)"
+     id="layer12"
+     transform="translate(-223.0002,-509)"
      style="display:inline"
-     inkscape:groupmode="layer"
-     id="layer12" />
+     inkscape:groupmode="layer" />
 </svg>
