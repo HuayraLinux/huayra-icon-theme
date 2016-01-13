@@ -14,7 +14,7 @@
    width="96"
    height="96"
    id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="applications-perl.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,15 +28,25 @@
      inkscape:window-width="1914"
      inkscape:window-height="1031"
      id="namedview542"
-     showgrid="false"
-     inkscape:zoom="2.6442847"
-     inkscape:cx="-1.006249"
-     inkscape:cy="39.594919"
+     showgrid="true"
+     inkscape:zoom="0.8368506"
+     inkscape:cx="267.30923"
+     inkscape:cy="97.315436"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2408"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3604"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs2410">
     <linearGradient
@@ -945,18 +955,6 @@
        x2="187.12892"
        y2="49.957302"
        gradientTransform="matrix(1.0011307,0.36973275,-0.36973275,1.0011307,-198.06362,-55.938498)" />
-    <filter
-       inkscape:collect="always"
-       id="filter3956"
-       x="-0.31476212"
-       width="1.6295242"
-       y="-0.91115474"
-       height="2.8223095">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.7869897"
-         id="feGaussianBlur3958" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3465"
@@ -3092,77 +3090,166 @@
        id="rect3745"
        style="opacity:0.9;fill:url(#ButtonShadow);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174)" />
   </g>
-  <g
-     id="g4731-2-8-0-6-5-9-5-5-2-5-0-1"
-     transform="matrix(1.8616185,0,0,1.8321264,-2751.0993,-1157.6433)"
-     style="fill:#ffb380;fill-opacity:1">
-    <rect
-       ry="6.6438928"
-       y="634.25696"
-       x="1478.9427"
-       height="47.288887"
-       width="49.756138"
-       id="rect8672-0-7-2-8-5-0-6-7-8-2-2-8-1-9-3"
-       style="fill:#ffb380;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccccccc"
-       inkscape:connector-curvature="0"
-       id="path8893-0-6-8-0-3-0-6-7-4-2-8-0-0-1"
-       d="m 1490.7889,641.91531 -11.7628,13.29335 -0.033,19.31158 c -0.2054,3.7099 2.9264,7.89895 8.8682,6.96772 l 21.122,0.12211 7.852,-6.82512 -5.5371,-13.37828 z"
-       style="fill:#ffb380;fill-opacity:1;stroke:none" />
-    <g
-       transform="matrix(0.50518274,0,0,0.50518274,778.3485,376.87025)"
-       id="g4705-2-2-3-8-9-2-1-2-9-5-5-0"
-       style="fill:#ffb380;fill-opacity:1">
-      <g
-         id="g4680-9-4-0-2-9-6-5-4-1-9-6-5"
-         style="fill:#ffb380;fill-opacity:1">
-        <g
-           transform="matrix(0.22145581,0,0,0.2292037,1398.8984,523.27852)"
-           id="Capa_x0020_1-3-8-1-9-6-6-6-4-3-0-5-8"
-           style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd">
-          <metadata
-             id="CorelCorpID_0Corel-Layer-4-6-9-8-9-6-6-2-9-3-3-8" />
-          <path
-             sodipodi:nodetypes="ccccssssscc"
-             style="fill:#ffb380;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             id="path10-6-1-2-7-29-3-9-1-1-8-6-9"
-             d="m 90.727395,5.10321 89.656305,0 1.95914,98.22565 102.38286,1.61549 0,181.93783 c 0,4.61482 0.50121,6.54363 -6.71237,6.54363 l -214.617444,0 c -9.905542,0 -14.944291,0.66997 -14.944291,-9.0379 l 0,-259.441915 c 0,-16.6993952 -2.270573,-19.842985 7.317173,-19.842985 z"
-             class="fil0" />
-          <path
-             sodipodi:nodetypes="cccccc"
-             style="fill:#ffb380;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             id="path12-2-8-7-6-8-3-1-9-1-9-9-7"
-             d="m 181.11514,5.8507843 103.41052,99.1972757 -0.0497,-9.948156 -95.77075,-89.9957528 -8.34744,0 z"
-             class="fil1" />
-        </g>
-        <path
-           transform="translate(0,284.36218)"
-           inkscape:connector-curvature="0"
-           id="path4678-4-9-4-3-6-0-0-8-3-0-4-7"
-           d="m 1438.6861,240.10435 0.6087,22.52322 22.5233,0.36524 z"
-           style="fill:#ffb380;fill-opacity:1;stroke:none" />
-      </g>
-    </g>
-  </g>
-  <path
-     style="fill:#cd9067;fill-opacity:1;stroke:none"
-     d="M 18.189593,32.90728 2.433851,50.297608 2.0383931,78.147387 C 1.9033924,88.602618 9.4487972,91.037616 17.290245,91.004669 l 32.493176,-0.136439 34.272881,-40.212619 -9.82104,-3.069572 0.457083,-8.687036 1.37739,-5.991723 z"
-     id="path8893-0-6-5-3-2-0-4-2-7-2-0-6-2-9"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccscccccc" />
-  <text
-     xml:space="preserve"
-     style="font-size:24.45815849px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3ff5e;fill-opacity:1;stroke:none;font-family:Sans"
-     x="15.671562"
-     y="50.670998"
-     id="text3298-9"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3300-6"
-       x="15.671562"
-       y="50.670998"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b3ff5e;fill-opacity:1;font-family:Unresponsive BRK;-inkscape-font-specification:Unresponsive BRK Medium">PERL</tspan></text>
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cff7cf;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4180"
+     width="95"
+     height="95"
+     x="8.3446503e-07"
+     y="0.99999595"
+     ry="0" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-9"
+     width="5"
+     height="15"
+     x="30"
+     y="36" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-0"
+     width="10"
+     height="5"
+     x="35"
+     y="50.999996" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-03"
+     width="5"
+     height="20"
+     x="75"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-7"
+     width="10"
+     height="5"
+     x="10"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-03-2"
+     width="5"
+     height="25"
+     x="5"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-4"
+     width="5"
+     height="5"
+     x="20"
+     y="36" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-2"
+     width="5"
+     height="5"
+     x="15"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-48"
+     width="5"
+     height="5"
+     x="10"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-0"
+     width="5"
+     height="5"
+     x="35"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-08"
+     width="5"
+     height="5"
+     x="40"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-080"
+     width="5"
+     height="5"
+     x="35"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-2"
+     width="5"
+     height="5"
+     x="40"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-7-3"
+     width="10"
+     height="5"
+     x="55"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-03-2-9"
+     width="5"
+     height="25"
+     x="50"
+     y="31" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-4-7"
+     width="5"
+     height="5"
+     x="65"
+     y="36" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-2-9"
+     width="5"
+     height="5"
+     x="60"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-48-3"
+     width="5"
+     height="5"
+     x="55"
+     y="41" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-32"
+     width="5"
+     height="5"
+     x="65"
+     y="51" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-3"
+     width="5"
+     height="5"
+     x="80"
+     y="51" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-9"
+     width="5"
+     height="5"
+     x="85"
+     y="51" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-1"
+     width="5"
+     height="5"
+     x="60"
+     y="46" />
+  <rect
+     style="font-size:34.74394608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#278b77;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Asap"
+     id="rect4827-9-4-64-8-18-8-4"
+     width="5"
+     height="5"
+     x="65"
+     y="41" />
 </svg>
