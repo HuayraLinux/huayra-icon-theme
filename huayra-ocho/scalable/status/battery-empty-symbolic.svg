@@ -11,10 +11,57 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
    height="16"
-   sodipodi:docname="battery-empty-symbolic.svg"
-   width="16">
+   width="16"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="battery-empty-charging-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#c6c6c6"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1914"
+     inkscape:window-height="1031"
+     id="namedview23"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="26.379764"
+     inkscape:cx="18.153315"
+     inkscape:cy="5.7493042"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3000"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="10,14"
+       id="guide3002" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="15,2"
+       id="guide3004" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1.0067283,12.08074"
+       id="guide3006" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -27,107 +74,111 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     inkscape:object-paths="true"
-     inkscape:cy="8.91"
-     inkscape:current-layer="layer9"
-     inkscape:window-width="1914"
-     pagecolor="#ffffff"
-     showborder="false"
-     showguides="true"
-     inkscape:snap-nodes="false"
-     objecttolerance="10"
-     showgrid="true"
-     inkscape:object-nodes="true"
-     inkscape:pageshadow="2"
-     inkscape:guide-bbox="true"
-     inkscape:window-x="0"
-     inkscape:snap-bbox="true"
-     bordercolor="#666666"
-     id="namedview88"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="true"
-     inkscape:window-y="25"
-     gridtolerance="10"
-     inkscape:zoom="26.6"
-     inkscape:window-height="1031"
-     borderopacity="1"
-     guidetolerance="10"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:cx="16.893985"
-     inkscape:bbox-paths="false"
-     inkscape:snap-grids="true"
-     inkscape:pageopacity="0"
-     inkscape:snap-to-guides="true">
-    <inkscape:grid
-       visible="true"
-       spacingx="1px"
-       type="xygrid"
-       spacingy="1px"
-       id="grid4866"
-       empspacing="2"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
-     id="defs7386" />
+     id="defs7386">
+    <clipPath
+       id="clipPath6279-3">
+      <rect
+         x="26.85"
+         y="220.75"
+         id="rect6281-9"
+         height="6.3750005"
+         width="3.8250003"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+    </clipPath>
+    <clipPath
+       id="clipPath6265-334">
+      <rect
+         x="26.96591"
+         y="221.32954"
+         id="rect6267-61"
+         height="5.21591"
+         width="2.8977277"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+    </clipPath>
+    <clipPath
+       id="clipPath6259-5">
+      <rect
+         x="26.998718"
+         y="221.50153"
+         id="rect6261-61"
+         height="4.8734746"
+         width="1.8762827"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+    </clipPath>
+  </defs>
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline">
-    <g
-       transform="matrix(0,1,-1,0,393,197)"
-       id="g10518"
-       inkscape:label="battery-empty"
-       style="display:inline">
-      <desc
-         id="desc10524">Used when multiple batteries are installed and one is completely empty.</desc>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 145,217 0,1 0,1 -1,0 -1,0 0,1 0,12 0,1 1,0 9,0 1,0 0,-1 0,-12 0,-1 -1,0 -1,0 c 0,0 0,0 0,-1 0,0 0,0 0,-1 -1,0 -1,0 -1,0 -1,0 -1,0 -1,0 l -4,0 -1,0 z m 2,2 3,0 0,1 0,1 1,0 1,0 0,10 -7,0 0,-10 1,0 1,0 0,-1 0,-1 z"
-       id="path3434"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2.00300000000000011;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+     transform="translate(-41.0002,-197)"
+     id="layer10" />
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="devices" />
+     transform="translate(-41.0002,-197)"
+     id="layer11" />
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="apps" />
+     transform="translate(-41.0002,-197)"
+     id="layer12" />
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions" />
+     transform="translate(-41.0002,-197)"
+     id="layer13" />
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer13"
-     inkscape:label="places" />
+     transform="translate(-41.0002,-197)"
+     id="layer14" />
   <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="mimetypes" />
-  <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline" />
-  <g
-     transform="translate(-141,-217)"
-     inkscape:groupmode="layer"
-     id="g4953"
-     inkscape:label="categories"
-     style="display:inline" />
+     transform="translate(-41.0002,-197)"
+     id="layer15" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-2"
+     width="5"
+     height="1"
+     x="5"
+     y="0"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-5"
+     width="7"
+     height="1"
+     x="4"
+     y="1"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-4"
+     width="4"
+     height="2"
+     x="2"
+     y="2"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-6"
+     width="4"
+     height="2"
+     x="9"
+     y="2"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-7"
+     width="2"
+     height="12"
+     x="2"
+     y="4"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-55"
+     width="9"
+     height="2"
+     x="4"
+     y="14"
+     ry="0" />
+  <rect
+     style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+     id="rect3066-74-2-2-43"
+     width="2"
+     height="10"
+     x="11"
+     y="4"
+     ry="0" />
 </svg>

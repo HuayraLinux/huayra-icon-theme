@@ -11,32 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
+   inkscape:version="0.48.5 r10040"
    height="16"
-   width="16.00025"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="network-cellular-gprs-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1914"
-     inkscape:window-height="1031"
-     id="namedview30458"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8.0001249"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
+   sodipodi:docname="network-cellular-edge-symbolic.svg"
+   width="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -49,34 +27,275 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <sodipodi:namedview
+     inkscape:object-paths="true"
+     inkscape:cy="7.2961674"
+     inkscape:current-layer="layer9"
+     inkscape:window-width="1914"
+     pagecolor="#ffffff"
+     showborder="true"
+     showguides="true"
+     inkscape:snap-nodes="false"
+     objecttolerance="10"
+     showgrid="true"
+     inkscape:object-nodes="true"
+     inkscape:pageshadow="2"
+     inkscape:guide-bbox="true"
+     inkscape:window-x="0"
+     inkscape:snap-bbox="true"
+     bordercolor="#666666"
+     id="namedview88"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:window-y="25"
+     gridtolerance="10"
+     inkscape:zoom="31.871357"
+     inkscape:window-height="1031"
+     borderopacity="1"
+     guidetolerance="10"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:cx="10.276292"
+     inkscape:bbox-paths="true"
+     inkscape:snap-grids="true"
+     inkscape:pageopacity="0"
+     inkscape:snap-to-guides="true"
+     borderlayer="true">
+    <inkscape:grid
+       visible="true"
+       spacingx="1px"
+       type="xygrid"
+       spacingy="1px"
+       id="grid4866"
+       empspacing="2"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-60.99995,-237)"
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
      id="layer9"
-     style="display:inline;fill:#4ecae9;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 63.06245,237 c -1.150728,0 -2.0625,0.91177 -2.0625,2.0625 l 0,11.875 c 0,1.15073 0.911772,2.0625 2.0625,2.0625 l 11.875,0 c 1.150728,0 2.0625,-0.91177 2.0625,-2.0625 l 0,-11.875 c 0,-1.15073 -0.911772,-2.0625 -2.0625,-2.0625 l -11.875,0 z m 4.0625,3.03125 3.78125,0 0.0625,0 c 0.0032,-1e-4 -0.0032,0.0314 0,0.0312 0.527306,-0.0204 1.072537,0.076 1.5,0.46875 0.414747,0.38112 0.59343,1.00751 0.5625,1.59375 l 0.03125,0 0,0.125 0,0.75 -2,0 0,-0.875 0,-0.0625 0,-0.0312 c -0.01759,-0.002 0.0033,-0.002 -0.03125,0 l -0.03125,0 -0.03125,0 -3.84375,0 c -0.02762,0 -0.02197,0.002 -0.03125,0 -0.0064,0.004 -0.02919,-0.003 -0.03125,0 -0.0073,0.0224 0.0068,0.0466 0,0.0625 l 0,0.0312 0,5.8125 c -0.02367,-0.0217 -0.0031,0.0605 0,0.0625 l 3.90625,0 c 0.0068,-0.0193 0.02945,-0.016 0.03125,0 8.77e-4,0.008 0,-0.0554 0,-0.0312 l 0,-1.9375 -2,0 0,-2 3,0 1,0 0,1 0,2.9375 c 0,0.56264 -0.227078,0.99952 -0.5625,1.375 -0.31592,0.35364 -0.851921,0.632 -1.46875,0.625 l 0,0.0312 -0.09375,0 -3.8125,0 c -0.624797,0 -0.994128,-0.24123 -1.34375,-0.5625 -0.331051,-0.30421 -0.64392,-0.78987 -0.625,-1.4375 6e-5,-0.002 -0.03131,0.002 -0.03125,0 l 0,-0.0937 0,-5.8125 0,-0.0937 0,-0.0625 c 0.06247,-0.43728 0.205355,-0.88912 0.5625,-1.28125 0.357145,-0.39213 0.946079,-0.625 1.5,-0.625 z"
-       id="rect7011"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+     inkscape:label="status"
+     style="display:inline">
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-7"
+       width="14.000002"
+       height="0.99999905"
+       x="142.0002"
+       y="-259"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-4"
+       width="12.000002"
+       height="1.013854"
+       x="143.0002"
+       y="-258"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-3"
+       width="4"
+       height="11.999999"
+       x="153.0002"
+       y="-271"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-72"
+       width="12.000002"
+       height="0.99999905"
+       x="143.0002"
+       y="-273"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-40"
+       width="14.000002"
+       height="0.99999905"
+       x="142.0002"
+       y="-272"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-5"
+       width="1.0000017"
+       height="11.979247"
+       x="141.0002"
+       y="-271"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-77"
+       width="3.0000017"
+       height="11.999999"
+       x="142.0002"
+       y="-271"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-35"
+       width="8"
+       height="0.99999905"
+       x="145.0002"
+       y="-260"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-35-5"
+       width="5.9999986"
+       height="1.999999"
+       x="147.0002"
+       y="-264"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-35-8"
+       width="4.0000014"
+       height="0.99999905"
+       x="147.0002"
+       y="-267"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-35-4"
+       width="4.0000014"
+       height="0.99999905"
+       x="147.0002"
+       y="-268"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-06-35-89"
+       width="8"
+       height="0.99999905"
+       x="145.0002"
+       y="-271"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-0"
+       width="1.0000017"
+       height="0.99999905"
+       x="145.0002"
+       y="-270"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-9"
+       width="1.0000017"
+       height="0.99999905"
+       x="145.0002"
+       y="-261"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-9-23"
+       width="1.0000017"
+       height="0.99999905"
+       x="148.0002"
+       y="-266"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-9-7"
+       width="1.0000017"
+       height="0.99999905"
+       x="147.0002"
+       y="-266"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-9-93"
+       width="1.0000017"
+       height="0.99999905"
+       x="147.0002"
+       y="-265"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-9-0"
+       width="1.0000017"
+       height="0.99999905"
+       x="148.0002"
+       y="-265"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-0-3"
+       width="1.0000017"
+       height="0.99999905"
+       x="152.0002"
+       y="-270"
+       ry="0"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-45-5-6-50-01-65-0-4-89-7-34-0-2"
+       width="1.0000017"
+       height="0.99999905"
+       x="152.0002"
+       y="-265"
+       ry="0"
+       transform="scale(1,-1)" />
   </g>
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer10" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="devices" />
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer11" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="apps" />
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer12" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="actions" />
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer13" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="places" />
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer14" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="mimetypes" />
   <g
-     transform="translate(-60.99995,-237)"
-     id="layer15" />
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline" />
+  <g
+     transform="translate(-141.0002,-257)"
+     inkscape:groupmode="layer"
+     id="g4953"
+     inkscape:label="categories"
+     style="display:inline" />
 </svg>

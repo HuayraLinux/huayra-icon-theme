@@ -10,9 +10,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   sodipodi:docname="battery-low-symbolic.svg"
+   sodipodi:docname="battery-good-symbolic.svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    height="16"
    width="16">
   <metadata
@@ -28,10 +28,10 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="-25.986175"
+     inkscape:cy="7.563168"
      pagecolor="#ffffff"
      borderopacity="1"
-     showborder="false"
+     showborder="true"
      inkscape:bbox-paths="false"
      guidetolerance="10"
      inkscape:object-paths="true"
@@ -55,10 +55,11 @@
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:zoom="7.2120616"
-     inkscape:cx="83.438604"
+     inkscape:zoom="27.24718"
+     inkscape:cx="17.374285"
      inkscape:snap-grids="true"
-     inkscape:pageopacity="0">
+     inkscape:pageopacity="0"
+     borderlayer="true">
     <inkscape:grid
        spacingx="1px"
        spacingy="1px"
@@ -75,58 +76,108 @@
      id="defs7386" />
   <g
      inkscape:label="status"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer9"
      style="display:inline">
     <rect
-       transform="matrix(0,1,1,0,0,0)"
-       x="228"
-       y="86.000198"
-       id="rect3743"
-       height="5"
-       style="fill:#ff7373;fill-opacity:1;stroke:none"
-       width="2" />
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-2-2"
+       width="5"
+       height="1"
+       x="186.0002"
+       y="217"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-5-6"
+       width="7"
+       height="1"
+       x="185.0002"
+       y="218"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-4-6"
+       width="4"
+       height="2"
+       x="183.0002"
+       y="219"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-6-5"
+       width="4"
+       height="2"
+       x="190.0002"
+       y="219"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-7-7"
+       width="2"
+       height="12"
+       x="183.0002"
+       y="221"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-55-9"
+       width="9.0000019"
+       height="2"
+       x="185.0002"
+       y="231"
+       ry="0" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3066-74-2-2-43-5"
+       width="2"
+       height="10"
+       x="192.0002"
+       y="221"
+       ry="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 86.46875,217.03125 c -0.490327,0 -0.796068,0.22845 -1.03125,0.46875 C 85.202318,217.7403 85,218.05851 85,218.53125 L 85,219 l -1,0 -1,0 0,1 0,12 0,1 1,0 9,0 1,0 0,-1 0,-12 0,-1 -1,0 -1,0 0,-0.34375 0,-0.0312 c -0.02393,-0.4306 -0.170236,-0.75229 -0.40625,-1.03125 -0.223734,-0.26444 -0.626687,-0.52931 -1.15625,-0.53125 l 0,-0.0312 -0.0625,0 -3.90625,0 z m 0.53125,2 3,0 0,0.96875 0,1 1,0 1,0 0,10 -7,0 0,-10 1,0 1,0 0,-1 0,-0.96875 z"
-       id="path3745"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       class="error"
+       d="m 185.99995,228 0,2 5.00025,0 0,-2 -5.00025,0 z"
+       id="path6306"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#ff7373;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:label="devices"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer10" />
   <g
      inkscape:label="apps"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer11" />
   <g
      inkscape:label="actions"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer12" />
   <g
      inkscape:label="places"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer13" />
   <g
      inkscape:label="mimetypes"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer14" />
   <g
      inkscape:label="emblems"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="layer15"
      style="display:inline" />
   <g
      inkscape:label="categories"
-     transform="translate(-81.0002,-217)"
+     transform="translate(-181.0002,-217)"
      inkscape:groupmode="layer"
      id="g4953"
      style="display:inline" />

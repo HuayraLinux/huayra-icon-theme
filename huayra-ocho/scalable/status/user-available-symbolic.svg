@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    height="16"
-   sodipodi:docname="user-available-symbolic.svg"
+   sodipodi:docname="pidgin-tray-available.svg"
    width="16">
   <metadata
      id="metadata90">
@@ -28,15 +28,15 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="-71.96449"
+     inkscape:cy="9.4918696"
      inkscape:current-layer="layer9"
      inkscape:window-width="1914"
      pagecolor="#555753"
-     showborder="false"
+     showborder="true"
      showguides="true"
      inkscape:snap-nodes="false"
      objecttolerance="10"
-     showgrid="false"
+     showgrid="true"
      inkscape:object-nodes="true"
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
@@ -48,11 +48,11 @@
      inkscape:snap-global="true"
      inkscape:window-y="25"
      gridtolerance="10"
-     inkscape:zoom="1"
+     inkscape:zoom="22.627417"
      inkscape:window-height="1031"
      borderopacity="1"
      guidetolerance="10"
-     inkscape:cx="84.106112"
+     inkscape:cx="17.519593"
      inkscape:bbox-paths="false"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0"
@@ -65,7 +65,8 @@
        id="grid4866"
        empspacing="2"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -77,12 +78,83 @@
      id="layer9"
      inkscape:label="status"
      style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 44.6875,358.0625 c -1.5235,0 -2.75,1.2265 -2.75,2.75 l 0,4.4375 c 0,1.5235 1.2265,2.75 2.75,2.75 l 6.305187,0 3.053347,3.98495 -0.07728,-4.0787 c 1.204532,-0.29284 2.09375,-1.35911 2.09375,-2.65625 l 0,-4.4375 c 0,-1.5235 -1.2265,-2.75 -2.75,-2.75 z"
-       id="rect11261"
-       sodipodi:nodetypes="sssscccssss"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40000010000000019;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none"
+       id="rect3021-60"
+       width="10"
+       height="1"
+       x="44.000198"
+       y="359" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none"
+       id="rect3021-60-8"
+       width="1"
+       height="6"
+       x="54.000195"
+       y="360" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none"
+       id="rect3021-60-7"
+       width="10"
+       height="1"
+       x="44.000198"
+       y="366" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none"
+       id="rect3021-60-5"
+       width="1"
+       height="6"
+       x="43.000198"
+       y="360" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-7"
+       width="10"
+       height="6"
+       x="44.000198"
+       y="360" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-9"
+       width="0.99999654"
+       height="1"
+       x="50.000202"
+       y="367" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-92"
+       width="0.99999654"
+       height="1"
+       x="51.000202"
+       y="367" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-95"
+       width="0.99999654"
+       height="1"
+       x="51.000202"
+       y="368" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-3"
+       width="0.99999726"
+       height="1"
+       x="52.000202"
+       y="367" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-4"
+       width="0.99999654"
+       height="1"
+       x="52.000202"
+       y="369" />
+    <rect
+       style="fill:#aad400;fill-opacity:1;stroke:none;display:inline"
+       id="rect3021-60-7-6-94"
+       width="0.99999654"
+       height="1"
+       x="52.000202"
+       y="368" />
   </g>
   <g
      transform="translate(-41.000198,-357)"
