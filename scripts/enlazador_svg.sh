@@ -208,6 +208,9 @@ ln -sf preferences-desktop.svg kcontrol.svg
 ln -sf preferences-desktop.svg preferences-desktop-personal-2.svg
 ln -sf preferences-desktop.svg redhat-preferences.svg
 ln -sf preferences-desktop.svg xfce4-settings.svg
+ln -sf preferences-desktop-display-symbolic.svg preferences-desktop-display.svg
+ln -sf preferences-desktop-display-symbolic.svg msd-xrandr.svg
+ln -sf preferences-desktop-display-symbolic.svg mate-preferences-desktop-display.svg
 ln -sf preferences-system.svg preferences-desktop-personal.svg
 ln -sf preferences-system.svg gnome-tweak-tool.svg
 
@@ -374,6 +377,10 @@ cd ../
 
 # Enlaces para la carpeta Status
 cd status/
+ln -sf bluetooth-active-symbolic.svg blueman.svg
+ln -sf bluetooth-active-symbolic.svg blueman-active.svg
+ln -sf bluetooth-active-symbolic.svg blueman-tray.svg
+ln -sf bluetooth-disabled-symbolic.svg blueman-disabled.svg
 ln -sf image-missing.svg gtk-missing-image.svg 
 ln -sf dialog-password.svg gtk-dialog-authentication.svg
 ln -sf dialog-error.svg error.svg
