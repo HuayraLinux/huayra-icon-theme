@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="applets-screenshooter-symbolic.svg"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    version="1.1"
    id="svg7384"
    width="15.999999"
@@ -35,15 +35,15 @@
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-maximized="1"
-     inkscape:zoom="15.368285"
+     inkscape:zoom="42.452985"
      pagecolor="#f9fff3"
      gridtolerance="10"
      inkscape:current-layer="layer11"
-     inkscape:window-height="1031"
+     inkscape:window-height="1030"
      inkscape:snap-others="false"
      bordercolor="#666666"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-width="1914"
      inkscape:bbox-paths="false"
      inkscape:snap-global="true"
@@ -51,8 +51,8 @@
      showgrid="true"
      id="namedview88"
      showborder="true"
-     inkscape:cx="43.486473"
-     inkscape:cy="6.9969585"
+     inkscape:cx="13.046348"
+     inkscape:cy="8.3301236"
      objecttolerance="10"
      inkscape:snap-bbox-midpoints="false"
      inkscape:object-nodes="false"
@@ -90,44 +90,16 @@
      id="layer11"
      transform="translate(-223.0002,-509)"
      inkscape:groupmode="layer">
-    <rect
+    <path
        style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3056"
-       width="16"
-       height="2"
-       x="0"
-       y="0"
-       transform="translate(223.0002,509)" />
-    <rect
+       d="M 0 0 L 0 2 L 0 14 L 2 14 L 2 2 L 14 2 L 14 6 L 16 6 L 16 0 L 2 0 L 0 0 z "
+       transform="translate(223.0002,509)"
+       id="rect3056" />
+    <path
        style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3056-0"
-       width="14"
-       height="2"
-       x="509"
-       y="-225.0002"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <rect
-       style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3056-0-8"
-       width="6"
-       height="2"
-       x="509"
-       y="-239.0002"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <rect
-       style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3096"
-       width="4.9999967"
-       height="2"
-       x="229.0002"
-       y="515" />
-    <rect
-       style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3567"
-       width="11.000002"
-       height="8"
-       x="226.0002"
-       y="517" />
+       d="M 6 6 L 6 8 L 3 8 L 3 16 L 14 16 L 14 8 L 11 8 L 11 6 L 6 6 z "
+       transform="translate(223.0002,509)"
+       id="rect3096" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3571"

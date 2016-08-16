@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="dialog-text-and-font.svg">
   <defs
      id="defs4" />
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2749278"
-     inkscape:cx="284.56518"
+     inkscape:cx="183.68286"
      inkscape:cy="125.35508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1914"
-     inkscape:window-height="1031"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -66,22 +66,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36216)">
-    <rect
+    <path
        style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3055"
-       width="32"
-       height="224"
-       x="112"
-       y="16"
-       transform="translate(0,796.36216)" />
-    <rect
-       style="fill:#aad400;fill-opacity:1;stroke:none"
-       id="rect3057"
-       width="192"
-       height="32"
-       x="32"
-       y="16"
-       transform="translate(0,796.36216)" />
+       d="M 32 16 L 32 48 L 112 48 L 112 240 L 144 240 L 144 48 L 224 48 L 224 16 L 144 16 L 112 16 L 32 16 z "
+       transform="translate(0,796.36216)"
+       id="rect3055" />
   </g>
   <g
      inkscape:groupmode="layer"
