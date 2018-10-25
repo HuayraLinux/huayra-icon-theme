@@ -1,0 +1,14 @@
+Source: huayra-icon-theme-huayra4
+Section: misc
+Priority: optional
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape, imagemagick
+Homepage: https://github.com/HuayraLinux/huayra-icon-theme
+Vcs-Git: https://github.com/HuayraLinux/huayra-icon-theme.git
+
+Package: huayra-icon-theme-huayra4
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos Huayra 4 para Huayra GNU/Linux. Una variante estética 8 bits utilizado en Huayra GNU/Linux.
