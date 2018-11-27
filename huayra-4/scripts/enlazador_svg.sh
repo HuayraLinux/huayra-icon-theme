@@ -52,8 +52,7 @@ ln -sf execute.svg system-run.svg
 ln -sf file-new.svg document-new.svg
 ln -sf file-new.svg filenew.svg
 ln -sf file-new.svg gtk-new.svg
-ln -sf file-new.svg tab-new.svg 
-ln -sf file-new.svg tab_new.svg 
+ln -sf tab-new.svg tab_new.svg 
 ln -sf first.svg gtk-goto-first-ltr.svg 
 ln -sf first.svg gtk-goto-last-rtl.svg 
 ln -sf first.svg gtk-goto-first.svg
