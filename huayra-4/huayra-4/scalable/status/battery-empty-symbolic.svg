@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    height="16"
    sodipodi:docname="battery-empty-symbolic.svg"
    width="16">
@@ -29,13 +29,13 @@
   </metadata>
   <sodipodi:namedview
      inkscape:object-paths="true"
-     inkscape:cy="8.91"
+     inkscape:cy="2.1111815"
      inkscape:current-layer="layer9"
      inkscape:window-width="1914"
      pagecolor="#ffffff"
-     showborder="false"
+     showborder="true"
      showguides="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      objecttolerance="10"
      showgrid="true"
      inkscape:object-nodes="true"
@@ -47,85 +47,83 @@
      id="namedview88"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      gridtolerance="10"
-     inkscape:zoom="26.6"
-     inkscape:window-height="1031"
+     inkscape:zoom="24.865216"
+     inkscape:window-height="1008"
      borderopacity="1"
      guidetolerance="10"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:cx="16.893985"
+     inkscape:cx="-2.0824649"
      inkscape:bbox-paths="false"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0"
      inkscape:snap-to-guides="true">
     <inkscape:grid
        visible="true"
-       spacingx="1px"
+       spacingx="1"
        type="xygrid"
-       spacingy="1px"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid832"
+       enabled="false" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="status"
      style="display:inline">
-    <g
-       transform="matrix(0,1,-1,0,393,197)"
-       id="g10518"
-       inkscape:label="battery-empty"
-       style="display:inline">
-      <desc
-         id="desc10524">Used when multiple batteries are installed and one is completely empty.</desc>
-    </g>
     <path
-       inkscape:connector-curvature="0"
-       d="m 145,217 0,1 0,1 -1,0 -1,0 0,1 0,12 0,1 1,0 9,0 1,0 0,-1 0,-12 0,-1 -1,0 -1,0 c 0,0 0,0 0,-1 0,0 0,0 0,-1 -1,0 -1,0 -1,0 -1,0 -1,0 -1,0 l -4,0 -1,0 z m 2,2 3,0 0,1 0,1 1,0 1,0 0,10 -7,0 0,-10 1,0 1,0 0,-1 0,-1 z"
-       id="path3434"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2.00300000000000011;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="display:inline;opacity:1;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.113;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 4.4121094 0 L 4.4121094 2 L 2.4121094 2 L 2.4121094 4 L 2.4121094 14 L 2.4121094 16 L 12.412109 16 L 13.412109 16 L 13.412109 2 L 11.412109 2 L 11.412109 0 L 4.4121094 0 z M 6.4121094 2 L 9.4140625 2 L 9.4140625 4 L 11.412109 4 L 11.412109 14 L 4.4121094 14 L 4.4121094 4 L 6.4121094 4 L 6.4121094 2 z "
+       transform="translate(241.0002,217)"
+       id="rect860-0" />
   </g>
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="apps" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="places" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline" />
   <g
-     transform="translate(-141,-217)"
+     transform="translate(-241.0002,-217)"
      inkscape:groupmode="layer"
      id="g4953"
      inkscape:label="categories"

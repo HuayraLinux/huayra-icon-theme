@@ -12,7 +12,7 @@
    id="svg7384"
    sodipodi:docname="battery-good-charging-symbolic.svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    height="16.016466"
    width="16">
   <metadata
@@ -28,10 +28,10 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="2.4649286"
+     inkscape:cy="7.2036507"
      pagecolor="#ffffff"
      borderopacity="1"
-     showborder="false"
+     showborder="true"
      inkscape:bbox-paths="false"
      guidetolerance="10"
      inkscape:object-paths="true"
@@ -49,25 +49,27 @@
      inkscape:window-maximized="1"
      inkscape:window-x="0"
      inkscape:snap-global="true"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      gridtolerance="10"
-     inkscape:window-height="1031"
+     inkscape:window-height="1008"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="21.204332"
+     inkscape:zoom="30.971745"
+     inkscape:cx="6.8942914"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0">
     <inkscape:grid
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        type="xygrid"
        snapvisiblegridlinesonly="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -80,65 +82,21 @@
      id="layer9"
      style="display:inline">
     <path
-       inkscape:connector-curvature="0"
-       d="m 204.0002,225 0,2 4,0 1,-1 0,-1 z m 0,3 0,2 3,0 0,-2 z"
-       id="path6257"
-       sodipodi:nodetypes="ccccccccccc"
-       style="fill:#ffa555;fill-opacity:1;stroke:none" />
+       style="display:inline;opacity:1;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.113;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 203.02326,217.02619 v 2 h -2 v 2 12 h 2 6 v -2 h -6 v -10 h 2 v -2 h 3 v 2 h 2 v 2 1 1 h 1 v -1 h 1 v -1 -4 h -2 v -2 z"
+       id="rect860-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.03995157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 212.02326,225.02619 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h -1 v 1 h 1 1 1 1 v 1 h -1 v 1 h -1 v 1 h 1 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h -1 -1 -1 -1 v -1 h 1 v -1 h 1 v -1 h -1 z"
+       id="rect860-7-3-5-9-3"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 204.46875,217.03125 c -0.49033,0 -0.79607,0.22845 -1.03125,0.46875 -0.23518,0.2403 -0.4375,0.55851 -0.4375,1.03125 l 0,0.46875 -1,0 -1,0 0,1 0,12 0,1 1,0 7,0 0,-2 -6,0 0,-10 1,0 1,0 0,-1 0,-0.96875 3,0 0,0.96875 0,1 1,0 1,0 0,3 2,0 0,-4 0,-1 -1,0 -1,0 0,-0.34375 0,-0.0312 c -0.0239,-0.4306 -0.17024,-0.75229 -0.40625,-1.03125 -0.22373,-0.26444 -0.62669,-0.52931 -1.15625,-0.53125 l 0,-0.0312 -0.0625,0 -3.90625,0 z"
-       id="path6259"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 211.875,225 a 1.0001,1.0001 0 0 0 -0.59375,0.28125 l -3,3 A 1.0001,1.0001 0 0 0 209,230 l 2.5625,0 -1.28125,1.28125 a 1.016466,1.016466 0 1 0 1.4375,1.4375 l 3,-3 A 1.0001,1.0001 0 0 0 214,228 l -2.5625,0 1.28125,-1.28125 A 1.0001,1.0001 0 0 0 211.875,225 z"
-       id="path6264"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <rect
-       x="214.00044"
-       y="227.99976"
-       id="rect6266"
-       height="1"
-       width="1"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <rect
-       x="208.00044"
-       y="228.99976"
-       id="rect6268"
-       height="1"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
-       width="1" />
-    <rect
-       x="212.00044"
-       y="224.99976"
-       id="rect6270"
-       height="1"
-       width="1"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <rect
-       x="210.00044"
-       y="231.99976"
-       id="rect6272"
-       height="1"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
-       width="1" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 211.15625,225.4375 -2,3 1.6875,1.125 2,-3 -1.6875,-1.125 z"
-       id="path6274"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 212.15625,228.4375 -2,3 1.6875,1.125 2,-3 -1.6875,-1.125 z"
-       id="path6276"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 210.0002,225 2,-2 -2,0 0,2 z"
-       id="path6278"
-       sodipodi:nodetypes="cccc"
-       style="color:#bebebe;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       d="m 203.92981,225.05848 v 2 l 4.04806,0.024 -0.008,-1.01347 0.95988,-0.0105 v -1 z m 0,3.0625 v 1.9375 h 3 v -1.9375 z"
+       id="rect6060-4-3"
+       style="display:inline;fill:#ffa555;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
   <g
      inkscape:label="devices"

@@ -12,7 +12,7 @@
    id="svg7384"
    sodipodi:docname="battery-low-symbolic.svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    height="16"
    width="16">
   <metadata
@@ -28,10 +28,10 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="-25.986175"
+     inkscape:cy="-5.8235775"
      pagecolor="#ffffff"
      borderopacity="1"
-     showborder="false"
+     showborder="true"
      inkscape:bbox-paths="false"
      guidetolerance="10"
      inkscape:object-paths="true"
@@ -49,25 +49,27 @@
      inkscape:window-maximized="1"
      inkscape:window-x="0"
      inkscape:snap-global="true"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      gridtolerance="10"
-     inkscape:window-height="1031"
+     inkscape:window-height="1008"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:zoom="7.2120616"
-     inkscape:cx="83.438604"
+     inkscape:zoom="11.552352"
+     inkscape:cx="27.661993"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0">
     <inkscape:grid
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        type="xygrid"
        snapvisiblegridlinesonly="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -81,17 +83,18 @@
      style="display:inline">
     <rect
        transform="matrix(0,1,1,0,0,0)"
-       x="228"
-       y="86.000198"
-       id="rect3743"
+       class="success"
+       x="227.99908"
+       y="86.459282"
+       id="rect4229"
        height="5"
-       style="fill:#ff7373;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#ff7373;fill-opacity:1;stroke:none"
        width="2" />
     <path
        inkscape:connector-curvature="0"
-       d="m 86.46875,217.03125 c -0.490327,0 -0.796068,0.22845 -1.03125,0.46875 C 85.202318,217.7403 85,218.05851 85,218.53125 L 85,219 l -1,0 -1,0 0,1 0,12 0,1 1,0 9,0 1,0 0,-1 0,-12 0,-1 -1,0 -1,0 0,-0.34375 0,-0.0312 c -0.02393,-0.4306 -0.170236,-0.75229 -0.40625,-1.03125 -0.223734,-0.26444 -0.626687,-0.52931 -1.15625,-0.53125 l 0,-0.0312 -0.0625,0 -3.90625,0 z m 0.53125,2 3,0 0,0.96875 0,1 1,0 1,0 0,10 -7,0 0,-10 1,0 1,0 0,-1 0,-0.96875 z"
-       id="path3745"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="display:inline;opacity:1;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:0.113;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 85.512013,217.00689 v 2 h -2 v 2 12 h 2 8.83204 v -0.006 h 0.16796 v -13.994 h -2 v -2 z m 2,2 h 3 v 2 h 2 v 10 h -7 v -10 h 2 z"
+       id="rect860-0" />
   </g>
   <g
      inkscape:label="devices"
