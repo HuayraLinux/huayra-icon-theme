@@ -9,84 +9,74 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   version="1.1"
-   height="256"
    width="256"
-   inkscape:version="0.48.3.1 r9886"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="preferences-desktop-accessibility.svg">
+  <defs
+     id="defs4" />
   <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1913"
-     inkscape:window-height="1026"
-     id="namedview14"
+     inkscape:zoom="2.5964944"
+     inkscape:cx="53.661234"
+     inkscape:cy="124.01857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-66.908841"
-     inkscape:cy="96.825012"
+     units="px"
+     inkscape:window-width="1914"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
-     showguides="true">
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
-       id="grid2991"
-       empspacing="5"
+       id="grid4136"
+       spacingx="2"
+       spacingy="2"
+       empspacing="8"
+       dotted="false"
        visible="true"
-       enabled="false"
+       enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
   <metadata
-     id="metadata90">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs7386" />
   <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer9"
-     style="display:inline" />
-  <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer10" />
-  <g
-     transform="matrix(13.843137,0,0,13.843137,-563.91533,-5257.0438)"
-     id="layer11"
-     style="fill:#4ecae9;fill-opacity:1">
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)">
     <path
-       inkscape:connector-curvature="0"
-       d="m 49.982553,381.00459 c -4.418276,0 -8,3.58172 -8,8 0,4.41828 3.581724,8 8,8 4.418276,0 8,-3.58172 8,-8 0,-4.41828 -3.581724,-8 -8,-8 z m 0,1.94321 c 1.121291,0 2.030093,0.9088 2.030093,2.03009 0,1.12128 -0.908802,2.03008 -2.030093,2.03008 -1.121291,0 -2.030093,-0.9088 -2.030093,-2.03008 0,-1.12129 0.908802,-2.03009 2.030093,-2.03009 z m -4.797388,4.12017 c 3.206661,-0.0458 6.412936,-0.0154 9.619527,0.0113 0,0 0.430917,-0.008 0.430917,0.42408 l 0,0.20861 C 55.235609,387.93778 55,388 55,388 l -2.985178,0.57817 0,2.1109 1.354691,3.90641 c 0.136799,0.22572 -0.158388,0.2902 -0.158388,0.2902 l -0.526496,0.005 c -0.253171,0 -0.348086,-0.21303 -0.348086,-0.21303 l -2.071779,-3.59156 c -0.222279,-0.5041 -0.236169,-0.43981 -0.44654,7.7e-4 l -2.168947,3.58622 c -0.07254,0.21764 -0.355596,0.22239 -0.355596,0.22239 l -0.570299,-0.009 c 0,0 -0.208476,-0.006 -0.160647,-0.20918 l 1.387549,-3.9888 0,-2.1109 -2.891946,-0.5548 c -0.232448,-0.0787 -0.328841,-0.29434 -0.328841,-0.29434 l 0,-0.21764 c 0,0 -0.0097,-0.44343 0.455668,-0.44343 z"
-       id="path3850"
-       style="fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+       style="fill:#3c9bb2;fill-opacity:1;stroke:none"
+       d="M 96 32 L 96 48 L 80 48 L 64 48 L 64 64 L 48 64 L 48 80 L 32 80 L 32 96 L 16 96 L 16 112 L 16 128 L 16 144 L 16 160 L 16 176 L 32 176 L 32 192 L 48 192 L 48 208 L 64 208 L 64 224 L 80 224 L 96 224 L 96 240 L 112 240 L 128 240 L 144 240 L 160 240 L 160 224 L 176 224 L 192 224 L 192 208 L 208 208 L 208 192 L 224 192 L 224 176 L 240 176 L 240 160 L 240 144 L 240 128 L 240 112 L 240 96 L 224 96 L 224 80 L 208 80 L 208 64 L 192 64 L 192 48 L 176 48 L 160 48 L 160 32 L 144 32 L 128 32 L 112 32 L 96 32 z M 112 80 L 128 80 L 144 80 L 144 96 L 144 112 L 160 112 L 176 112 L 176 128 L 160 128 L 144 128 L 144 144 L 160 144 L 160 160 L 160 176 L 176 176 L 176 192 L 160 192 L 160 176 L 144 176 L 144 160 L 144 144 L 128 144 L 112 144 L 112 160 L 112 176 L 96 176 L 96 192 L 80 192 L 80 176 L 96 176 L 96 160 L 96 144 L 112 144 L 112 128 L 96 128 L 80 128 L 80 112 L 96 112 L 112 112 L 112 96 L 112 80 z "
+       transform="translate(0,796.36216)"
+       id="rect3058-1-98-3-5-716-9" />
   </g>
   <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer12" />
-  <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer13" />
-  <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer14" />
-  <g
-     transform="translate(-41.982553,-141.00459)"
-     id="layer15" />
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2" />
 </svg>

@@ -13,7 +13,7 @@
    height="48px"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="image-missing.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:modified="true"
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.636065"
-     inkscape:cx="13.252452"
-     inkscape:cy="22.36272"
+     inkscape:zoom="3.5412705"
+     inkscape:cx="-22.993735"
+     inkscape:cy="-3.817948"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1914"
-     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:object-paths="true"
@@ -53,7 +53,11 @@
        id="grid3634"
        visible="true"
        enabled="true"
-       dotted="false" />
+       dotted="false"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       spacingx="0px"
+       spacingy="0px" />
   </sodipodi:namedview>
   <metadata
      id="metadata1312">
@@ -65,7 +69,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="" />
-        <dc:title>Image Missing</dc:title>
+        <dc:title />
         <dc:date>November 2008</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -90,18 +94,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#4ecae9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 7.4375 5 C 5.5306623 5 4 6.6643756 4 8.71875 L 4 39.28125 C 4 41.335624 5.5306623 43 7.4375 43 L 40.5625 43 C 42.469338 43 44 41.335624 44 39.28125 L 44 8.71875 C 44 6.6643756 42.469338 5 40.5625 5 L 7.4375 5 z M 9.46875 11 L 38.53125 11 C 39.338677 11 40 11.63318 40 12.40625 L 40 37.59375 C 40 38.36682 39.338677 39 38.53125 39 L 9.46875 39 C 8.6613232 39 8 38.36682 8 37.59375 L 8 12.40625 C 8 11.63318 8.6613232 11 9.46875 11 z "
-       id="rect1315" />
+       style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.26491117"
+       d="M 8 4 L 8 8 L 2 8 L 2 40 L 8 40 L 8 44 L 40 44 L 40 40 L 46 40 L 46 8 L 40 8 L 40 4 L 8 4 z M 8 10 L 40 10 L 40 38 L 8 38 L 8 10 z "
+       id="rect3066-74-2-2-6-663-85-33-10-9-5" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4ecae9;fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 16.75,14.96875 A 3.0003,3.0003 0 0 0 14.9375,20.125 L 28.875,34.09375 a 3.0003,3.0003 0 1 0 4.25,-4.21875 l -13.9375,-14 A 3.0003,3.0003 0 0 0 16.75,14.96875 z"
-       id="path3636"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4ecae9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 30.9375,14.96875 A 3.0003,3.0003 0 0 0 28.875,15.875 l -13.9375,14 a 3.0003,3.0003 0 1 0 4.25,4.21875 L 33.125,20.125 a 3.0003,3.0003 0 0 0 -2.1875,-5.15625 z"
-       id="path4149"
-       inkscape:connector-curvature="0" />
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;display:inline"
+       d="M 14 14 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 22 L 20 22 L 20 24 L 20 26 L 18 26 L 18 28 L 16 28 L 16 30 L 14 30 L 14 32 L 14 34 L 16 34 L 18 34 L 18 32 L 20 32 L 20 30 L 22 30 L 22 28 L 24 28 L 26 28 L 26 30 L 28 30 L 28 32 L 30 32 L 30 34 L 32 34 L 34 34 L 34 32 L 34 30 L 32 30 L 32 28 L 30 28 L 30 26 L 28 26 L 28 24 L 28 22 L 30 22 L 30 20 L 32 20 L 32 18 L 34 18 L 34 16 L 34 14 L 32 14 L 30 14 L 30 16 L 28 16 L 28 18 L 26 18 L 26 20 L 24 20 L 22 20 L 22 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 L 14 14 z "
+       id="rect3066-74-2-2-6-663-85-33-10-9-5-4-86" />
   </g>
 </svg>
