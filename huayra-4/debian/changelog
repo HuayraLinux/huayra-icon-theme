@@ -1,3 +1,21 @@
+huayra-icon-theme-huayra4 (0.12c) unstable; urgency=medium
+
+  * Tema Huayra 4: status/iconos dialog*
+  * status/network-error.svg
+  * status/software-update-available, software-update-urgent
+  * actions/cancel.svg
+  * Sustitucion de duplicados con enlaces simbólicos
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Wed, 03 Apr 2019 15:15:40 -0300
+
+huayra-icon-theme-huayra4 (0.12b) unstable; urgency=medium
+
+  * Tema Huayra 4: Completando iconos de status
+  * Icono folder videos.
+  * Iconos de advertencia, pregunta y error.
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Thu, 28 Mar 2019 15:18:16 -0300
+
 huayra-icon-theme-huayra4 (0.12) unstable; urgency=medium
 
   * Corrigiendo errores de Lintian. Descripcion en debian/control.
