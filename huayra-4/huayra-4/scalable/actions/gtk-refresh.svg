@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="64"
+   height="64"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="gtk-refresh.svg">
+   sodipodi:docname="view-refresh.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,21 +24,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.418181"
-     inkscape:cx="-13.732329"
-     inkscape:cy="10.958779"
+     inkscape:zoom="2.6045453"
+     inkscape:cx="-38.646235"
+     inkscape:cy="35.428495"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1914"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1124"
+     inkscape:window-height="450"
+     inkscape:window-x="489"
+     inkscape:window-y="423"
+     inkscape:window-maximized="0"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid823"
@@ -70,7 +72,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(0,-988.3622)">
     <g
        transform="matrix(0.53426099,0.54273223,-0.53833433,0.53862561,293.77086,595.97819)"
        id="layer9-3"
@@ -112,9 +114,9 @@
        inkscape:label="categories"
        style="display:inline;fill:#4ecae9;fill-opacity:1" />
     <path
-       style="fill:#216778;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 5 1 L 5 2 L 4 2 L 4 3 L 3 3 L 3 4 L 2 4 L 2 5 L 2 6 L 1 6 L 1 7 L 1 8 L 1 9 L 1 10 L 2 10 L 2 11 L 2 12 L 3 12 L 3 13 L 4 13 L 4 14 L 5 14 L 5 15 L 10 15 L 10 14 L 12 14 L 12 13 L 13 13 L 13 12 L 13 10 L 12 10 L 11 10 L 11 11 L 11 12 L 5 12 L 5 11 L 4 11 L 4 10 L 4 9 L 4 8 L 4 7 L 4 6 L 4 5 L 5 5 L 5 4 L 10 4 L 10 5 L 10 5.4609375 L 9 5.4609375 L 9 8 L 15.023438 8.0273438 L 15 2 L 12.464844 2 L 12.464844 3 L 12 3 L 11 3 L 11 2 L 10 2 L 10 1 L 9 1 L 8 1 L 7 1 L 6 1 L 5 1 z "
-       transform="translate(0,1036.3622)"
-       id="path869" />
+       style="opacity:1;fill:#1f6778;fill-opacity:0.99215686;stroke:none;stroke-width:0.60354209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 23 6 L 23 9 L 15 9 L 15 14 L 10 14 L 10 19 L 6 19 L 6 27 L 4 27 L 4 35 L 4 37 L 6 37 L 6 45 L 10 45 L 10 50 L 15 50 L 15 55 L 23 55 L 23 58 L 40 58 L 42 58 L 42 55 L 50 55 L 50 50 L 55 50 L 55 45 L 59 45 L 59 37 L 50 37 L 50 42 L 47 42 L 47 47 L 41 47 L 41 50 L 40 50 L 24 50 L 24 47 L 18 47 L 18 42 L 15 42 L 15 37 L 13 37 L 13 29 L 13 27 L 15 27 L 15 22 L 18 22 L 18 17 L 24 17 L 24 14 L 25 14 L 40 14 L 41 14 L 41 17 L 45 17 L 45 21 L 42 21 L 42 27 L 51 27 L 59 27 L 59 19 L 59 10 L 53 10 L 53 13 L 50 13 L 50 9 L 42 9 L 42 6 L 40 6 L 25 6 L 23 6 z "
+       transform="translate(0,988.3622)"
+       id="rect81" />
   </g>
 </svg>

@@ -18,10 +18,7 @@ huayra-accesible:
 huayra-limbo:
 	bash ./scripts/iconator.sh huayra-limbo
 
-huayra-liso:
-	bash ./scripts/iconator.sh huayra-liso
-
-clean: huayra-violeta.clean huayra-violeta-v2.clean huayra-mayo.clean huayra-fresco-verde.clean huayra-accesible.clean huayra-limbo.clean huayra-liso.clean
+clean: huayra-violeta.clean huayra-violeta-v2.clean huayra-mayo.clean huayra-fresco-verde.clean huayra-accesible.clean huayra-limbo.clean
 
 huayra-violeta.clean:
 	bash ./scripts/clean.sh huayra-violeta
@@ -40,6 +37,3 @@ huayra-accesible.clean:
 
 huayra-limbo.clean:
 	bash ./scripts/clean.sh huayra-limbo
-
-huayra-liso.clean:
-	bash ./scripts/clean.sh huayra-liso

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 29 Jan 2019 14:16:41 -0300
+Source: huayra-icon-theme-huayra4
+Binary: huayra-icon-theme-huayra4
+Architecture: source
+Version: 0.12
+Distribution: unstable
+Urgency: medium
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Changed-By: Claudio Andaur <malefico3d@gmail.com>
+Description:
+ huayra-icon-theme-huayra4 - Tema de iconos Huayra 4 para Huayra GNU/Linux.
+Changes:
+ huayra-icon-theme-huayra4 (0.12) unstable; urgency=medium
+ .
+   * Corrigiendo errores de Lintian. Descripcion en debian/control.
+Checksums-Sha1:
+ 3eb1afdf34596eb9fb9a5fcad4655dd9fc18edc2 819 huayra-icon-theme-huayra4_0.12.dsc
+ 09d4a4d1d5e2359651cc5339da4fe99c77ab1e65 550556 huayra-icon-theme-huayra4_0.12.tar.xz
+Checksums-Sha256:
+ d4708805d51ceaee8eaba9784cc6c983a88d3d60aafcb34cf3b41e94eaca0114 819 huayra-icon-theme-huayra4_0.12.dsc
+ 7807cf19a571485db43727bbbe8ecdce1b652894b2d2d7967f46fc965861bfbf 550556 huayra-icon-theme-huayra4_0.12.tar.xz
+Files:
+ a84c6175982d8f80d94223cf87c22726 819 misc optional huayra-icon-theme-huayra4_0.12.dsc
+ a98389757a55329f83f039c4975c90e5 550556 misc optional huayra-icon-theme-huayra4_0.12.tar.xz

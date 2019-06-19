@@ -1,0 +1,17 @@
+Source: huayra-icon-theme-liso
+Section: misc
+Priority: optional
+Maintainer: Ivan Hoffmann <digital.h@gmail.com>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape, imagemagick
+Homepage: https://github.com/HuayraLinux/huayra-icon-theme
+Vcs-Git: https://github.com/HuayraLinux/huayra-icon-theme.git
+
+Package: huayra-icon-theme-liso
+Depends: ${misc:Depends}
+Conflicts: huayra-icon-theme-liso (<<8.53)
+Replaces: huayra-icon-theme-liso (<< 8.53)
+Architecture: all
+Description: Tema de iconos Liso para Huayra GNU/Linux
+ Este es el tema de iconos con estética Flat utilizado en Huayra GNU/Linux.

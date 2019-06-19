@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 11 Jun 2019 15:08:14 -0300
+Source: huayra-icon-theme-liso
+Binary: huayra-icon-theme-liso
+Architecture: source
+Version: 8.53
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivan Hoffmann <digital.h@gmail.com>
+Changed-By: Claudio Andaur <malefico3d@gmail.com>
+Description:
+ huayra-icon-theme-liso - Tema de iconos Liso para Huayra GNU/Linux
+Changes:
+ huayra-icon-theme-liso (8.53) unstable; urgency=medium
+ .
+    * Separando tema Huayra Liso del resto del paquete huayra-icon-theme
+Checksums-Sha1:
+ 2e198748cee498e40a24ff5bc2b7db1d5ef60129 799 huayra-icon-theme-liso_8.53.dsc
+ 0ce5c427d3f92db7db5cb7d63c866482caacdbcf 553224 huayra-icon-theme-liso_8.53.tar.xz
+Checksums-Sha256:
+ cc66e40a0c8445194c1d275d5a9e032bd310de176b95e002f47e2a523e47a8db 799 huayra-icon-theme-liso_8.53.dsc
+ 40404fc5152fd48cb916099546fb79bb2ec1a37401410dae6fed41e514bce04b 553224 huayra-icon-theme-liso_8.53.tar.xz
+Files:
+ 27955926a93b61ac1b36fb9f9fae37f8 799 misc optional huayra-icon-theme-liso_8.53.dsc
+ f61ded27b322c70a9d6eac8c53db05bb 553224 misc optional huayra-icon-theme-liso_8.53.tar.xz

@@ -1,0 +1,27 @@
+! /bin/sh
+set -e
+
+case "$1" in
+
+install)
+    if [ -f /usr/share/icons/huayra-liso/icon-theme.cache ];
+    then
+        rm -f /usr/share/icons/huayra-liso/icon-theme.cache
+    fi
+    ;;
+
+upgrade)
+    ;;
+
+abort-upgrade)
+    ;;
+
+*)
+    echo "preinst called with unknown argument '$1'" >&2
+    exit 1
+    ;;
+esac
+
+#DEBHELPER#
+
+exit 0
