@@ -2,7 +2,7 @@
 set -e
 
 if [ "$1" = "remove" ] || [ "$1" = "deconfigure" ] ; then
-  rm -f /usr/share/icons/huayra-limbo/icon-theme.cache
+  rm -f /usr/share/icons/huayra-jm/icon-theme.cache
 fi
 
 #DEBHELPER#

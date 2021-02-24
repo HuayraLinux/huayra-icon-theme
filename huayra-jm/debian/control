@@ -1,0 +1,15 @@
+Source: huayra-icon-theme-jm
+Section: misc
+Priority: optional
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape, imagemagick
+Homepage: https://github.com/HuayraLinux/huayra-icon-theme
+Vcs-Git: https://github.com/HuayraLinux/huayra-icon-theme.git
+
+Package: huayra-icon-theme-jm
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos Juana Manso para Huayra GNU/Linux.
+ Un theme para el programa Juan Manso de Educar en Huayra GNU/Linux.

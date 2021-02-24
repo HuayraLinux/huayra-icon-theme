@@ -2,7 +2,7 @@
 set -e
 
 if [ -x /usr/bin/gtk-update-icon-cache ]; then
-    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/huayra-limbo; then
+    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/huayra-jm; then
         echo "WARNING: icon cache generation failed"
     fi
 fi
