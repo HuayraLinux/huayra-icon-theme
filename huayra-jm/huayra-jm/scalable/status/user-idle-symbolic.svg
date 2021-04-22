@@ -12,7 +12,7 @@
    id="svg7384"
    sodipodi:docname="user-idle-symbolic.svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    height="16"
    width="16">
   <metadata
@@ -28,7 +28,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="130.53376"
+     inkscape:cy="7.5"
      pagecolor="#ffffff"
      borderopacity="1"
      showborder="false"
@@ -49,25 +49,27 @@
      inkscape:window-maximized="1"
      inkscape:window-x="0"
      inkscape:snap-global="true"
-     inkscape:window-y="28"
+     inkscape:window-y="26"
      gridtolerance="10"
-     inkscape:window-height="1028"
+     inkscape:window-height="1023"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:zoom="1"
-     inkscape:cx="17.559172"
+     inkscape:zoom="12.865672"
+     inkscape:cx="6"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0">
     <inkscape:grid
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        type="xygrid"
        snapvisiblegridlinesonly="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -84,36 +86,36 @@
        d="m 84.6875,358.0625 c -1.239538,0 -2.279281,0.81431 -2.625,1.9375 L 95,360 l 0,4.98353 -12.99771,0 L 82.0625,366 c 0.326788,1.15377 1.363775,2 2.625,2 l 6.3125,0 2.967068,4 0.0017,-4.09375 c 1.204532,-0.29284 2.09375,-1.35911 2.09375,-2.65625 l 0,-4.4375 c 0,-1.5235 -1.2265,-2.75 -2.75,-2.75 z"
        id="path12110"
        sodipodi:nodetypes="scccccscccssss"
-       style="opacity:0.35;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="opacity:1;color:#bebebe;fill:#822b86;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        sodipodi:cy="209"
        transform="matrix(1.5,0,0,1.5,42.5,49)"
-       d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+       d="m 29,209 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        id="path4955-3-5"
        sodipodi:type="arc"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#199453;fill-opacity:1;stroke:none;display:inline"
        sodipodi:cx="28" />
     <path
        sodipodi:cy="209"
        transform="matrix(1.5,0,0,1.5,46.5,49)"
-       d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+       d="m 29,209 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        id="path4957-3-7"
        sodipodi:type="arc"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#199453;fill-opacity:1;stroke:none;display:inline"
        sodipodi:cx="28" />
     <path
        sodipodi:cy="209"
        transform="matrix(1.5,0,0,1.5,50.49995,49)"
-       d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+       d="m 29,209 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        id="path4959-7-4"
        sodipodi:type="arc"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#199453;fill-opacity:1;stroke:none;display:inline"
        sodipodi:cx="28" />
   </g>
   <g

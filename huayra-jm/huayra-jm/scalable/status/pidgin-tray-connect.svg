@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    height="16"
    sodipodi:docname="pidgin-tray-connect.svg"
    width="16">
@@ -28,9 +28,9 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="8.82746"
+     inkscape:cy="-10.777017"
      inkscape:current-layer="layer9"
-     inkscape:window-width="1310"
+     inkscape:window-width="1918"
      pagecolor="#555753"
      showborder="true"
      showguides="true"
@@ -40,33 +40,35 @@
      inkscape:object-nodes="true"
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
-     inkscape:window-x="54"
+     inkscape:window-x="0"
      inkscape:snap-bbox="true"
      bordercolor="#666666"
      id="namedview88"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:window-y="26"
      gridtolerance="10"
-     inkscape:zoom="22.627417"
-     inkscape:window-height="690"
+     inkscape:zoom="1.4142136"
+     inkscape:window-height="1023"
      borderopacity="1"
      guidetolerance="10"
-     inkscape:cx="14.989159"
+     inkscape:cx="202.55656"
      inkscape:bbox-paths="false"
      inkscape:snap-grids="true"
      inkscape:pageopacity="0"
      inkscape:snap-to-guides="true">
     <inkscape:grid
        visible="true"
-       spacingx="1px"
+       spacingx="1"
        type="xygrid"
-       spacingy="1px"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       dotted="false" />
+       dotted="false"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -79,7 +81,7 @@
      inkscape:label="status"
      style="display:inline">
     <path
-       style="color:#bebebe;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#bebebe;fill:#822b86;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 45.336483,359.1109 c -1.294301,0 -2.336283,1.04198 -2.336283,2.33627 l 0,3.76992 c 0,1.2943 1.041982,2.33629 2.336283,2.33629 l 0.823008,0 2.097344,-4.96461 -1.805309,-0.0265 3.405776,-3.45137 z m 5.217203,0 -0.795679,2.12389 2.268739,0.0265 -4.38053,6.29204 3.053097,0 2.57522,3.39822 -0.0531,-3.47787 c 1.02332,-0.24879 1.778761,-1.15464 1.778761,-2.25664 l 0,-3.76991 c 0,-1.2943 -1.041982,-2.33628 -2.336283,-2.33628 z"
        id="rect11261"
        inkscape:connector-curvature="0"
