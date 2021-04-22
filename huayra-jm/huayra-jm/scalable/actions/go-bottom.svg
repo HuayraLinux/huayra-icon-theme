@@ -13,7 +13,7 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="go-bottom.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0760274"
-     inkscape:cx="62.157703"
+     inkscape:cx="-44.777302"
      inkscape:cy="74.285714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1434"
-     inkscape:window-height="850"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1" />
@@ -53,66 +53,55 @@
      id="layer1"
      transform="translate(0,-796.36218)">
     <g
-       id="g4023"
-       transform="matrix(23.054453,0,0,23.054453,-44.653993,740.79814)"
-       style="fill:#666666;fill-opacity:1">
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="layer9"
-         transform="translate(-160,-626)"
-         inkscape:label="status" />
-      <g
-         id="layer10"
-         transform="translate(-160,-626)"
-         inkscape:label="devices"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer11"
-         transform="translate(-160,-626)"
-         inkscape:label="apps"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer12"
-         transform="translate(-160,-626)"
-         inkscape:label="actions"
-         style="fill:#666666;fill-opacity:1">
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-           sodipodi:nodetypes="ccsccccccccccc"
-           id="path10839-9-9-3-0-4"
-           d="m 162,628.99995 0,1 c -1.2e-4,0.0104 -4.6e-4,0.0208 0,0.0313 0.0112,0.25495 0.12858,0.50987 0.3125,0.6875 l 5.21875,5.28125 5.1875,-5.28125 C 172.90694,630.53054 173,630.26524 173,629.99995 l 0,-1 -1,0 c -0.26529,0 -0.53058,0.0931 -0.71875,0.28125 l -3.75,3.8125 -3.78125,-3.8125 c -0.19463,-0.21074 -0.46925,-0.30316 -0.75,-0.28125 l -1,0 z"
-           inkscape:connector-curvature="0" />
-        <rect
-           width="2"
-           style="color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           ry="0"
-           height="11"
-           rx="0"
-           id="rect4317-8-6"
-           y="162"
-           x="636.99994"
-           transform="matrix(0,1,1,0,0,0)" />
-      </g>
-      <g
-         id="layer13"
-         transform="translate(-160,-626)"
-         inkscape:label="places"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer14"
-         transform="translate(-160,-626)"
-         inkscape:label="mimetypes"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="layer15"
-         transform="translate(-160,-626)"
-         inkscape:label="emblems" />
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="g4953"
-         transform="translate(-160,-626)"
-         inkscape:label="categories" />
-    </g>
+       inkscape:label="status"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer9"
+       style="display:inline;fill:#822b86;fill-opacity:1" />
+    <g
+       style="fill:#822b86;fill-opacity:1"
+       inkscape:label="devices"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer10" />
+    <g
+       style="fill:#822b86;fill-opacity:1"
+       inkscape:label="apps"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer11" />
+    <path
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#822b86;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:41.06574249;marker:none;enable-background:new"
+       sodipodi:nodetypes="ccsccccccccccc"
+       id="path10839-9-9-3-0-4"
+       d="m 1.454886,809.96078 v 23.05446 c -0.00277,0.23976 -0.010605,0.47953 0,0.7216 0.2582099,5.87773 2.9643416,11.75478 7.2045166,15.84994 L 128.97483,971.34311 248.5698,849.58678 c 4.33862,-4.33908 6.48407,-10.45543 6.48407,-16.57154 v -23.05446 h -23.05445 c -6.11612,0 -12.23224,2.14637 -16.57039,6.48407 l -86.4542,87.8951 -87.174651,-87.8951 c -4.487088,-4.8585 -10.818302,-6.98919 -17.29084,-6.48407 z"
+       inkscape:connector-curvature="0" />
+    <rect
+       width="46.108906"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#199453;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:46.10890579;marker:none;enable-background:accumulate"
+       ry="0"
+       height="253.59898"
+       rx="0"
+       id="rect4317-8-6"
+       y="1.454886"
+       x="994.39618"
+       transform="matrix(0,1,1,0,0,0)" />
+    <g
+       style="fill:#822b86;fill-opacity:1"
+       inkscape:label="places"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer13" />
+    <g
+       style="fill:#822b86;fill-opacity:1"
+       inkscape:label="mimetypes"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer14" />
+    <g
+       inkscape:label="emblems"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="layer15"
+       style="display:inline;fill:#822b86;fill-opacity:1" />
+    <g
+       inkscape:label="categories"
+       transform="matrix(23.054453,0,0,23.054453,-3733.3665,-13691.289)"
+       id="g4953"
+       style="display:inline;fill:#822b86;fill-opacity:1" />
   </g>
 </svg>

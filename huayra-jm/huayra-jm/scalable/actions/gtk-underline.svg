@@ -13,7 +13,7 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="gtk-underline.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64216103"
-     inkscape:cx="-300.2193"
+     inkscape:cx="-645.92698"
      inkscape:cy="236.36182"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1182"
-     inkscape:window-height="741"
-     inkscape:window-x="252"
-     inkscape:window-y="135"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,61 +52,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36218)">
-    <g
-       id="g4763"
-       transform="matrix(19.644477,0,0,19.644477,-27.376745,757.21989)"
-       style="fill:#666666;fill-opacity:1">
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="layer9-7"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="status" />
-      <g
-         id="layer10-8"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="devices"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer11-1"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="apps"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer12-6"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="actions"
-         style="fill:#666666;fill-opacity:1">
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           id="path11643-3-2"
-           d="m 184,708 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 184.29357,717.60979 185.09172,718 186,718 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 C 185.12941,715.54729 185.00248,715.27938 185,715 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 185.39533,714.11604 185.57764,714 186,714 z"
-           inkscape:connector-curvature="0" />
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           id="path5100"
-           d="m 182,719 0,2 12,0 0,-2 -12,0 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="layer13-0"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="places"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer14-9"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="mimetypes"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="layer15-5"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="emblems" />
-      <g
-         style="display:inline;fill:#666666;fill-opacity:1"
-         id="g4953-8"
-         transform="translate(-180.0002,-706)"
-         inkscape:label="categories" />
-    </g>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#822b86;fill-opacity:1;stroke:none;stroke-width:39.28895569;marker:none;enable-background:accumulate"
+       id="path11643-3-2"
+       d="m 51.197268,796.50872 v 39.28895 H 169.06413 c 8.41098,0 19.64448,12.06446 19.64448,19.64448 v 19.64447 H 90.486222 c -18.058578,0 -34.094954,7.5427 -44.200073,19.03059 -10.105119,11.48789 -14.858886,25.74664 -14.733358,39.90284 0.117867,14.15621 5.282989,28.53773 15.347248,39.90285 10.064258,11.36511 25.743497,19.03059 43.586183,19.03059 H 208.35308 227.99756 V 973.30901 855.44215 c 0,-32.10576 -25.92678,-58.93343 -58.93343,-58.93343 z m 39.288954,117.86686 h 98.222388 v 39.28895 H 90.486222 c -7.815948,0 -11.13665,-2.15677 -14.119468,-5.52501 -2.982817,-3.36824 -5.476291,-8.63119 -5.525009,-14.11947 -0.03929,-5.48827 2.056187,-10.874 4.911119,-14.11946 2.854932,-3.24547 6.436317,-5.52501 14.733358,-5.52501 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#199453;fill-opacity:1;stroke:none;stroke-width:39.28895569;marker:none;enable-background:accumulate"
+       id="path5100"
+       d="m 11.908314,1012.598 v 39.2889 H 247.64204 v -39.2889 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

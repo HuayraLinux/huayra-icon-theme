@@ -13,7 +13,7 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="go-top.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0760274"
-     inkscape:cx="61.194325"
+     inkscape:cx="-45.74068"
      inkscape:cy="74.285714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1434"
-     inkscape:window-height="850"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1" />
@@ -52,67 +52,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-796.36218)">
-    <g
-       id="g4435"
-       transform="matrix(0,23.134819,-23.134843,0,303.00341,739.47181)"
-       style="fill:#666666;fill-opacity:1">
-      <g
-         style="fill:#666666;fill-opacity:1;display:inline"
-         id="layer9-0"
-         transform="translate(-80,-626)"
-         inkscape:label="status" />
-      <g
-         id="layer10-7"
-         transform="translate(-80,-626)"
-         inkscape:label="devices"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer11-2"
-         transform="translate(-80,-626)"
-         inkscape:label="apps"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer12-5"
-         transform="translate(-80,-626)"
-         inkscape:label="actions"
-         style="fill:#666666;fill-opacity:1">
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-           sodipodi:nodetypes="ccsccccccccccc"
-           id="path10839-9-9-3-6"
-           d="m 93.0002,628 -1,0 c -0.0104,-1.2e-4 -0.0208,-4.6e-4 -0.0313,0 -0.25495,0.0112 -0.50987,0.12858 -0.6875,0.3125 l -5.28125,5.21875 5.28125,5.1875 C 91.46961,638.90694 91.73491,639 92.0002,639 l 1,0 0,-1 c 0,-0.26529 -0.0931,-0.53058 -0.28125,-0.71875 l -3.8125,-3.75 3.8125,-3.78125 c 0.21074,-0.19463 0.30316,-0.46925 0.28125,-0.75 l 0,-1 z"
-           inkscape:connector-curvature="0" />
-        <rect
-           width="2"
-           style="color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           ry="0"
-           height="11"
-           rx="0"
-           id="rect4317-4"
-           y="628"
-           x="-85.000198"
-           transform="scale(-1,1)" />
-      </g>
-      <g
-         id="layer13-5"
-         transform="translate(-80,-626)"
-         inkscape:label="places"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         id="layer14-2"
-         transform="translate(-80,-626)"
-         inkscape:label="mimetypes"
-         style="fill:#666666;fill-opacity:1" />
-      <g
-         style="fill:#666666;fill-opacity:1;display:inline"
-         id="layer15-1"
-         transform="translate(-80,-626)"
-         inkscape:label="emblems" />
-      <g
-         style="fill:#666666;fill-opacity:1;display:inline"
-         id="g4953-4"
-         transform="translate(-80,-626)"
-         inkscape:label="categories" />
-    </g>
+    <path
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#822b86;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:41.20891571;marker:none;enable-background:new"
+       sodipodi:nodetypes="ccsccccccccccc"
+       id="path10839-9-9-3-6"
+       d="m 256.7336,1040.2291 v -23.1348 c 0.003,-0.2406 0.0106,-0.4812 0,-0.7241 -0.25911,-5.8983 -2.97468,-11.7958 -7.22964,-15.9052 L 128.769,878.2842 8.7569976,1000.465 c -4.3537461,4.3542 -6.5066746,10.4918 -6.5066746,16.6293 v 23.1348 h 23.134843 c 6.137442,0 12.274885,-2.1539 16.628168,-6.5067 l 86.755666,-88.20147 87.47862,88.20147 c 4.50274,4.8755 10.85603,7.0136 17.35113,6.5067 z"
+       inkscape:connector-curvature="0" />
+    <rect
+       width="46.269638"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#199453;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:46.26966095;marker:none;enable-background:accumulate"
+       ry="0"
+       height="254.48328"
+       rx="0"
+       id="rect4317-4"
+       y="-256.73358"
+       x="-855.15051"
+       transform="matrix(0,-1,-1,0,0,0)" />
   </g>
 </svg>
