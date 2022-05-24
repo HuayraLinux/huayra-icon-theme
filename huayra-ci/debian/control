@@ -1,0 +1,15 @@
+Source: huayra-icon-theme-ci
+Section: misc
+Priority: optional
+Maintainer: Matias De lellis <mati86dl@gmail.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: findutils (>= 4.4.2-4), bash (>= 4.2-4), inkscape, imagemagick
+Homepage: https://github.com/HuayraLinux/huayra-icon-theme
+Vcs-Git: https://github.com/HuayraLinux/huayra-icon-theme.git
+
+Package: huayra-icon-theme-ci
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos Conectar Igualdad para Huayra GNU/Linux.
+ Un theme para el programa Conectar Igualdad de Educar en Huayra GNU/Linux.
