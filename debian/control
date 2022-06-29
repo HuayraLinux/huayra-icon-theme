@@ -17,7 +17,8 @@ Depends: ${misc:Depends},
     huayra-icon-theme-violeta,
     huayra-icon-theme-violeta-v2,
     huayra-icon-theme-liso,
-    huayra-icon-theme-ocho
+    huayra-icon-theme-ocho,
+    huayra-icon-theme-ci
 Architecture: all
 Description: Todos los temas de iconos para Huayra GNU/Linux
  Este paquete (dummy) instalará todos los temas de iconos 
@@ -32,6 +33,7 @@ Description: Todos los temas de iconos para Huayra GNU/Linux
   - huayra-icon-theme-violeta-v2
   - huayra-icon-theme-liso
   - huayra-icon-theme-ocho
+  - huayra-icon-theme-ci
 
 Package: huayra-icon-theme-fresco-verde
 Depends: ${misc:Depends}
@@ -79,4 +81,10 @@ Package: huayra-icon-theme-ocho
 Depends: ${misc:Depends}
 Architecture: all
 Description: Tema de iconos Ocho para Huayra GNU/Linux
+ Este es el tema de iconos con estética 8 bits utilizado en Huayra GNU/Linux.
+
+Package: huayra-icon-theme-ci
+Depends: ${misc:Depends}
+Architecture: all
+Description: Tema de iconos Conectar Igualdad 2022 para Huayra GNU/Linux
  Este es el tema de iconos con estética 8 bits utilizado en Huayra GNU/Linux.
